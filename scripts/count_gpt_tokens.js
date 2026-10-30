@@ -1,0 +1,1 @@
+const fs=require('fs');const {Tiktoken}=require('js-tiktoken/lite');const o=require('js-tiktoken/ranks/o200k_base');const e=new Tiktoken(o.default||o);const L=fs.readFileSync(process.argv[2],'utf8').split('\n');for(const l of L){const r=JSON.parse(l);let i=3;for(const m of r.in){i+=3+e.encode(m).length;}console.log(JSON.stringify([r.t,i,e.encode(r.out).length,r.has]));}

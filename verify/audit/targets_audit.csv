@@ -1,0 +1,89 @@
+csv_line,country,wave,var,stat,csv_value,printed_value,csv_page,printed_page,pdf_page,location,evidence,list_csv,match
+2,Philippines,15,XQ5,t2b,87.0,87.0,40,40,21,fig 2-1-1 top-7 bar,image+text layer,top,yes
+3,India,15,XQ5,t2b,83.8,83.8,40,40,21,fig 2-1-1 top-7 bar,image+text layer,top,yes
+4,Indonesia,15,XQ5,t2b,82.7,82.7,40,40,21,fig 2-1-1 top-7 bar,image+text layer,top,yes
+5,Thailand,15,XQ5,t2b,79.4,79.4,40,40,21,fig 2-1-1 top-7 bar,image+text layer,top,yes
+6,Mexico,15,XQ5,t2b,78.9,78.9,40,40,21,fig 2-1-1 top-7 bar,image+text layer,top,yes
+7,UAE,15,XQ5,t2b,78.0,78.0,40,40,21,fig 2-1-1 top-7 bar,image+text layer,top,yes
+8,Malaysia,15,XQ5,t2b,77.4,77.4,40,40,21,fig 2-1-1 top-7 bar,image+text layer,top,yes
+9,ALL30,15,XQ5,t2b,69.7,69.7,40,40,21,fig 2-1-1 30-country bar; infographic p13; text p40,image+text,total,yes
+10,France,15,XQ5,t2b,58.2,58.2,40,40,21,fig 2-1-1 bottom-7 bar,image+text layer,bottom,yes
+11,Italy,15,XQ5,t2b,56.4,56.4,40,40,21,fig 2-1-1 bottom-7 bar,image+text layer,bottom,yes
+12,Poland,15,XQ5,t2b,54.4,54.4,40,40,21,fig 2-1-1 bottom-7 bar,image+text layer,bottom,yes
+13,Germany,15,XQ5,t2b,54.4,54.4,40,40,21,fig 2-1-1 bottom-7 bar,image+text layer,bottom,yes
+14,Japan,15,XQ5,t2b,52.7,52.7,40,40,21,fig 2-1-1 bottom-7 bar,image+text layer,bottom,yes
+15,Kazakhstan,15,XQ5,t2b,50.8,50.8,40,40,21,fig 2-1-1 bottom-7 bar,image+text layer,bottom,yes
+16,Russia,15,XQ5,t2b,44.5,44.5,40,40,21,fig 2-1-1 bottom-7 bar,image+text layer,bottom,yes
+17,ALL30,15,XQ5,b2b,5.0,5.0,13,13,7,infographic 마음에 안듦(1+2),image+text,total,yes
+18,ALL30,15,XQ5,mid,25.3,25.3,13,13,7,infographic 보통(3),image+text,total,yes
+19,ALL30,14,XQ5,t2b,70.3,70.3,41,41,21,fig 2-1-2 콘텐츠 평균 2024; text p40 전년(70.3%),image+text,total,yes
+20,United Kingdom,14,XQ5,t2b_delta,8.0,8.0,40,40,21,fig 2-1-1 change box (▲) + text p40,image+text,,yes
+21,Japan,14,XQ5,t2b_delta,6.4,6.4,40,40,21,fig 2-1-1 change box (▲) + text p40,image+text,,yes
+22,Spain,14,XQ5,t2b_delta,6.2,6.2,40,40,21,fig 2-1-1 change box (▲) + text p40,image+text,,yes
+23,United States,14,XQ5,t2b_delta,6.1,6.1,40,40,21,fig 2-1-1 change box (▲) + text p40,image+text,,yes
+24,Australia,14,XQ5,t2b_delta,6.0,6.0,40,40,21,fig 2-1-1 change box (▲) + text p40,image+text,,yes
+25,Indonesia,14,XQ5,t2b_delta,-3.8,-3.8,40,40,21,text p40 (▼),image+text,,yes
+26,Thailand,14,XQ5,t2b_delta,-3.3,-3.3,40,40,21,text p40 (▼),image+text,,yes
+27,Philippines,14,XQ5,t2b_delta,-1.9,-1.9,40,40,21,text p40 (▼),image+text,,yes
+28,Philippines,15,XQ6,t2b,85.6,85.6,62,62,32,fig 2-1-11 top-7 bar,image+text layer,top,yes
+29,India,15,XQ6,t2b,83.3,83.3,62,62,32,fig 2-1-11 top-7 bar,image+text layer,top,yes
+30,Mexico,15,XQ6,t2b,79.8,79.8,62,62,32,fig 2-1-11 top-7 bar,image+text layer,top,yes
+31,UAE,15,XQ6,t2b,78.5,78.5,62,62,32,fig 2-1-11 top-7 bar,image+text layer,top,yes
+32,South Africa,15,XQ6,t2b,78.2,78.2,62,62,32,fig 2-1-11 top-7 bar,image+text layer,top,yes
+33,Vietnam,15,XQ6,t2b,76.1,76.1,62,62,32,fig 2-1-11 top-7 bar,image+text layer,top,yes
+34,Brazil,15,XQ6,t2b,75.6,75.6,62,62,32,fig 2-1-11 top-7 bar,image+text layer,top,yes
+35,Japan,15,XQ6,t2b,36.4,36.4,62,62,32,fig 2-1-11 bottom-7 bar,image+text layer,bottom,yes
+36,Russia,15,XQ6,t2b,48.6,48.6,62,62,32,fig 2-1-11 bottom-7 bar,image+text layer,bottom,yes
+37,Germany,15,XQ6,t2b,51.6,51.6,62,62,32,fig 2-1-11 bottom-7 bar,image+text layer,bottom,yes
+38,Poland,15,XQ6,t2b,53.4,53.4,62,62,32,fig 2-1-11 bottom-7 bar,image+text layer,bottom,yes
+39,Italy,15,XQ6,t2b,56.2,56.2,62,62,32,fig 2-1-11 bottom-7 bar,image+text layer,bottom,yes
+40,France,15,XQ6,t2b,56.8,56.8,62,62,32,fig 2-1-11 bottom-7 bar,image+text layer,bottom,yes
+41,Kazakhstan,15,XQ6,t2b,59.5,59.5,62,62,32,fig 2-1-11 bottom-7 bar,image+text layer,bottom,yes
+42,ALL30,15,XQ6,t2b,67.7,67.7,62,62,32,fig 2-1-10 2025 + text,image+text,total,yes
+43,ALL30,15,XQ6,mid,26.1,26.1,62,62,32,fig 2-1-10 2025 보통 (chart only; =100-67.7-6.2),image only,total,yes
+44,ALL30,15,XQ6,b2b,6.2,6.2,62,62,32,fig 2-1-10 2025 + text,image+text,total,yes
+45,ALL30,14,XQ6,t2b,68.2,68.2,62,62,32,fig 2-1-10 2024 + text 전년(68.2%),image+text,total,yes
+46,ALL30,14,XQ6,mid,25.1,25.1,62,62,32,fig 2-1-10 2024 보통 (chart only; =100-68.2-6.7),image only,total,yes
+47,ALL30,14,XQ6,b2b,6.7,6.7,62,62,32,fig 2-1-10 2024 (chart only; text: 6.2 = 0.5%p lower),image only,total,yes
+48,Kazakhstan,14,XQ6,t2b_delta,9.0,9.0,62,62,32,fig 2-1-11 increase box (▲),image+text,,yes
+49,United Kingdom,14,XQ6,t2b_delta,7.4,7.4,62,62,32,fig 2-1-11 increase box (▲),image+text,,yes
+50,Australia,14,XQ6,t2b_delta,7.4,7.4,62,62,32,fig 2-1-11 increase box (▲),image+text,,yes
+51,South Africa,14,XQ6,t2b_delta,5.2,5.2,62,62,32,fig 2-1-11 increase box (▲),image+text,,yes
+52,Japan,14,XQ6,t2b_delta,4.6,4.6,62,62,32,fig 2-1-11 increase box (▲),image+text,,yes
+53,China,14,XQ6,t2b_delta,-5.3,-5.3,62,62,32,fig 2-1-11 decrease box (▼),image+text,,yes
+54,Russia,14,XQ6,t2b_delta,-5.2,-5.2,62,62,32,fig 2-1-11 decrease box (▼),image+text,,yes
+55,Turkiye,14,XQ6,t2b_delta,-4.8,-4.8,62,62,32,fig 2-1-11 decrease box (▼),image+text,,yes
+56,Vietnam,14,XQ6,t2b_delta,-4.7,-4.7,62,62,32,fig 2-1-11 decrease box (▼),image+text,,yes
+57,Thailand,14,XQ6,t2b_delta,-4.0,-4.0,62,62,32,fig 2-1-11 decrease box (▼),image+text,,yes
+58,Philippines,15,POPMEAN,t2b,60.0,60.0,58,58,30,fig 2-1-8 top-7 bar,image+text layer,top,yes
+59,India,15,POPMEAN,t2b,53.4,53.4,58,58,30,fig 2-1-8 top-7 bar,image+text layer,top,yes
+60,Vietnam,15,POPMEAN,t2b,53.1,53.1,58,58,30,fig 2-1-8 top-7 bar,image+text layer,top,yes
+61,UAE,15,POPMEAN,t2b,52.8,52.8,58,58,30,fig 2-1-8 top-7 bar,image+text layer,top,yes
+62,Malaysia,15,POPMEAN,t2b,52.2,52.2,58,58,30,fig 2-1-8 top-7 bar,image+text layer,top,yes
+63,Saudi Arabia,15,POPMEAN,t2b,51.0,51.0,58,58,30,fig 2-1-8 top-7 bar,image+text layer,top,yes
+64,Thailand,15,POPMEAN,t2b,50.2,50.2,58,58,30,fig 2-1-8 top-7 bar,image+text layer,top,yes
+65,Poland,15,POPMEAN,t2b,25.4,25.4,58,58,30,fig 2-1-8 bottom-7 bar,image+text layer,bottom,yes
+66,Germany,15,POPMEAN,t2b,31.3,31.3,58,58,30,fig 2-1-8 bottom-7 bar,image+text layer,bottom,yes
+67,Russia,15,POPMEAN,t2b,31.5,31.5,58,58,30,fig 2-1-8 bottom-7 bar,image+text layer,bottom,yes
+68,Italy,15,POPMEAN,t2b,31.7,31.7,58,58,30,fig 2-1-8 bottom-7 bar,image+text layer,bottom,yes
+69,Japan,15,POPMEAN,t2b,32.4,32.4,58,58,30,fig 2-1-8 bottom-7 bar,image+text layer,bottom,yes
+70,Argentina,15,POPMEAN,t2b,33.7,33.7,58,58,30,fig 2-1-8 bottom-7 bar,image+text layer,bottom,yes
+71,Canada,15,POPMEAN,t2b,34.5,34.5,58,58,30,fig 2-1-8 bottom-7 bar,image+text layer,bottom,yes
+72,ALL30,15,XQ1_11,t2b,55.1,55.1,56,56,29,fig 2-1-6 2025 bar 음식,image+text elsewhere,total,yes
+73,ALL30,15,XQ1_4,t2b,54.0,54.0,56,56,29,fig 2-1-6 2025 bar 음악,image+text elsewhere,total,yes
+74,ALL30,15,XQ1_10,t2b,52.6,52.6,56,56,29,fig 2-1-6 2025 bar 뷰티,image+text elsewhere,total,yes
+75,ALL30,15,XQ1_1,t2b,51.3,51.3,56,56,29,fig 2-1-6 2025 bar 드라마,image+text elsewhere,total,yes
+76,ALL30,15,XQ1_3,t2b,48.9,48.9,56,56,29,fig 2-1-6 2025 bar 영화,image+text elsewhere,total,yes
+77,ALL30,15,XQ1_9,t2b,45.3,45.3,56,56,29,fig 2-1-6 2025 bar 패션,image+text elsewhere,total,yes
+78,ALL30,15,XQ1_2,t2b,39.3,39.3,56,56,29,fig 2-1-6 2025 bar 예능,image+text elsewhere,total,yes
+79,ALL30,15,XQ1_8,t2b,38.3,38.3,56,56,29,fig 2-1-6 2025 bar 게임,image only,total,yes
+80,ALL30,15,XQ1_5,t2b,37.5,37.5,56,56,29,fig 2-1-6 2025 bar 애니메이션,image only,total,yes
+81,ALL30,15,XQ1_7,t2b,32.2,32.2,56,56,29,fig 2-1-6 2025 bar 웹툰,image+text elsewhere,total,yes
+82,ALL30,15,XQ1_6,t2b,29.7,29.7,56,56,29,fig 2-1-6 2025 bar 출판물,image+text elsewhere,total,yes
+83,ALL30,15,XQ1_12,t2b,38.9,38.9,56,56,29,fig 2-1-6 2025 bar 캐릭터,image+text elsewhere,total,yes
+84,ALL30,15,XQ1_13,t2b,34.4,34.4,56,56,29,fig 2-1-6 2025 bar 공연(K-pop 제외),image+text elsewhere,total,yes
+85,United Kingdom,15,XQ6,t2b,71.1,71.1,62,62,32,fig 2-1-11 change box level,image+text,other,yes
+86,Australia,15,XQ6,t2b,68.7,68.7,62,62,32,fig 2-1-11 change box level,image+text,other,yes
+87,China,15,XQ6,t2b,61.3,61.3,62,62,32,fig 2-1-11 change box level,image+text,other,yes
+88,Turkiye,15,XQ6,t2b,69.2,69.2,62,62,32,fig 2-1-11 change box level,image+text,other,yes
+89,Thailand,15,XQ6,t2b,72.5,72.5,62,62,32,fig 2-1-11 change box level,image+text,other,yes
