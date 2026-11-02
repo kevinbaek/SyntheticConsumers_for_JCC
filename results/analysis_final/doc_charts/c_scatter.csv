@@ -1,0 +1,283 @@
+item,mode,model,slug,country,human,est
+Favorability,Direct rating,GPT-5.5,gpt,France,58.2,100.0
+Favorability,Direct rating,GPT-5.5,gpt,Germany,54.4,100.0
+Favorability,Direct rating,GPT-5.5,gpt,India,83.8,100.0
+Favorability,Direct rating,GPT-5.5,gpt,Indonesia,82.7,100.0
+Favorability,Direct rating,GPT-5.5,gpt,Italy,56.4,100.0
+Favorability,Direct rating,GPT-5.5,gpt,Japan,52.7,100.0
+Favorability,Direct rating,GPT-5.5,gpt,Kazakhstan,50.8,99.0
+Favorability,Direct rating,GPT-5.5,gpt,Malaysia,77.4,100.0
+Favorability,Direct rating,GPT-5.5,gpt,Mexico,78.9,100.0
+Favorability,Direct rating,GPT-5.5,gpt,Philippines,87.0,100.0
+Favorability,Direct rating,GPT-5.5,gpt,Poland,54.4,99.0
+Favorability,Direct rating,GPT-5.5,gpt,Russia,44.5,99.0
+Favorability,Direct rating,GPT-5.5,gpt,Thailand,79.4,100.0
+Favorability,Direct rating,GPT-5.5,gpt,UAE,78.0,100.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,France,58.2,95.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Germany,54.4,98.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,India,83.8,98.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Indonesia,82.7,98.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Italy,56.4,93.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Japan,52.7,91.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Kazakhstan,50.8,97.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Malaysia,77.4,98.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Mexico,78.9,97.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Philippines,87.0,98.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Poland,54.4,94.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Russia,44.5,97.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,Thailand,79.4,98.0
+Favorability,Direct rating,Gemini 3.1 Pro,gemini,UAE,78.0,97.0
+Favorability,Direct rating,Claude Sonnet 5,claude,France,58.2,99.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Germany,54.4,99.0
+Favorability,Direct rating,Claude Sonnet 5,claude,India,83.8,100.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Indonesia,82.7,100.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Italy,56.4,98.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Japan,52.7,96.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Kazakhstan,50.8,100.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Malaysia,77.4,100.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Mexico,78.9,100.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Philippines,87.0,100.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Poland,54.4,99.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Russia,44.5,100.0
+Favorability,Direct rating,Claude Sonnet 5,claude,Thailand,79.4,100.0
+Favorability,Direct rating,Claude Sonnet 5,claude,UAE,78.0,100.0
+Favorability,Semantic similarity rating,GPT-5.5,gpt,France,58.2,77.1
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Germany,54.4,79.2
+Favorability,Semantic similarity rating,GPT-5.5,gpt,India,83.8,81.2
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Indonesia,82.7,82.3
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Italy,56.4,77.5
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Japan,52.7,79.6
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Kazakhstan,50.8,80.0
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Malaysia,77.4,79.1
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Mexico,78.9,78.9
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Philippines,87.0,81.8
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Poland,54.4,75.9
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Russia,44.5,78.0
+Favorability,Semantic similarity rating,GPT-5.5,gpt,Thailand,79.4,81.6
+Favorability,Semantic similarity rating,GPT-5.5,gpt,UAE,78.0,80.8
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,France,58.2,81.5
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Germany,54.4,82.8
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,India,83.8,86.6
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Indonesia,82.7,85.1
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Italy,56.4,80.7
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Japan,52.7,82.4
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Kazakhstan,50.8,83.9
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Malaysia,77.4,85.1
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Mexico,78.9,83.2
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Philippines,87.0,85.5
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Poland,54.4,80.2
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Russia,44.5,82.2
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,Thailand,79.4,85.1
+Favorability,Semantic similarity rating,Gemini 3.1 Pro,gemini,UAE,78.0,84.7
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,France,58.2,71.5
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Germany,54.4,74.3
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,India,83.8,80.3
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Indonesia,82.7,80.4
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Italy,56.4,71.9
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Japan,52.7,74.2
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Kazakhstan,50.8,76.8
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Malaysia,77.4,78.8
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Mexico,78.9,76.7
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Philippines,87.0,80.8
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Poland,54.4,71.0
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Russia,44.5,71.0
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,Thailand,79.4,80.3
+Favorability,Semantic similarity rating,Claude Sonnet 5,claude,UAE,78.0,77.8
+Recommendation,Direct rating,GPT-5.5,gpt,Australia,68.7,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Brazil,75.6,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,China,61.3,98.0
+Recommendation,Direct rating,GPT-5.5,gpt,France,56.8,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Germany,51.6,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,India,83.3,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Italy,56.2,99.0
+Recommendation,Direct rating,GPT-5.5,gpt,Japan,36.4,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Kazakhstan,59.5,99.0
+Recommendation,Direct rating,GPT-5.5,gpt,Mexico,79.8,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Philippines,85.6,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Poland,53.4,99.0
+Recommendation,Direct rating,GPT-5.5,gpt,Russia,48.6,99.0
+Recommendation,Direct rating,GPT-5.5,gpt,South Africa,78.2,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Thailand,72.5,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Turkiye,69.2,99.0
+Recommendation,Direct rating,GPT-5.5,gpt,UAE,78.5,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,United Kingdom,71.1,100.0
+Recommendation,Direct rating,GPT-5.5,gpt,Vietnam,76.1,100.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Australia,68.7,99.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Brazil,75.6,99.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,China,61.3,96.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,France,56.8,95.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Germany,51.6,98.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,India,83.3,98.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Italy,56.2,93.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Japan,36.4,87.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Kazakhstan,59.5,97.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Mexico,79.8,97.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Philippines,85.6,98.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Poland,53.4,94.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Russia,48.6,97.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,South Africa,78.2,98.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Thailand,72.5,98.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Turkiye,69.2,92.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,UAE,78.5,97.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,United Kingdom,71.1,95.0
+Recommendation,Direct rating,Gemini 3.1 Pro,gemini,Vietnam,76.1,99.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Australia,68.7,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Brazil,75.6,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,China,61.3,97.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,France,56.8,99.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Germany,51.6,99.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,India,83.3,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Italy,56.2,98.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Japan,36.4,96.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Kazakhstan,59.5,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Mexico,79.8,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Philippines,85.6,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Poland,53.4,99.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Russia,48.6,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,South Africa,78.2,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Thailand,72.5,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Turkiye,69.2,99.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,UAE,78.5,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,United Kingdom,71.1,100.0
+Recommendation,Direct rating,Claude Sonnet 5,claude,Vietnam,76.1,100.0
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Australia,68.7,66.2
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Brazil,75.6,66.6
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,China,61.3,65.7
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,France,56.8,63.6
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Germany,51.6,65.5
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,India,83.3,68.6
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Italy,56.2,64.4
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Japan,36.4,65.4
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Kazakhstan,59.5,67.2
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Mexico,79.8,65.8
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Philippines,85.6,69.7
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Poland,53.4,63.8
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Russia,48.6,64.4
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,South Africa,78.2,66.3
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Thailand,72.5,69.5
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Turkiye,69.2,67.2
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,UAE,78.5,69.5
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,United Kingdom,71.1,65.0
+Recommendation,Semantic similarity rating,GPT-5.5,gpt,Vietnam,76.1,69.7
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Australia,68.7,72.6
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Brazil,75.6,72.7
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,China,61.3,72.6
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,France,56.8,72.9
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Germany,51.6,72.5
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,India,83.3,73.0
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Italy,56.2,72.3
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Japan,36.4,71.7
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Kazakhstan,59.5,72.3
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Mexico,79.8,72.4
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Philippines,85.6,73.1
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Poland,53.4,71.2
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Russia,48.6,72.0
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,South Africa,78.2,72.2
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Thailand,72.5,71.9
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Turkiye,69.2,71.7
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,UAE,78.5,73.4
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,United Kingdom,71.1,72.6
+Recommendation,Semantic similarity rating,Gemini 3.1 Pro,gemini,Vietnam,76.1,72.4
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Australia,68.7,70.8
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Brazil,75.6,70.4
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,China,61.3,69.4
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,France,56.8,67.6
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Germany,51.6,68.5
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,India,83.3,72.2
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Italy,56.2,68.0
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Japan,36.4,69.5
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Kazakhstan,59.5,69.9
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Mexico,79.8,70.4
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Philippines,85.6,72.2
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Poland,53.4,67.4
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Russia,48.6,68.7
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,South Africa,78.2,69.5
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Thailand,72.5,72.5
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Turkiye,69.2,69.3
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,UAE,78.5,72.0
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,United Kingdom,71.1,70.6
+Recommendation,Semantic similarity rating,Claude Sonnet 5,claude,Vietnam,76.1,71.9
+Popularity,Direct rating,GPT-5.5,gpt,Argentina,33.7,24.2
+Popularity,Direct rating,GPT-5.5,gpt,Canada,34.5,37.5
+Popularity,Direct rating,GPT-5.5,gpt,Germany,31.3,28.8
+Popularity,Direct rating,GPT-5.5,gpt,India,53.4,39.3
+Popularity,Direct rating,GPT-5.5,gpt,Italy,31.7,23.6
+Popularity,Direct rating,GPT-5.5,gpt,Japan,32.4,48.6
+Popularity,Direct rating,GPT-5.5,gpt,Malaysia,52.2,54.5
+Popularity,Direct rating,GPT-5.5,gpt,Philippines,60.0,62.3
+Popularity,Direct rating,GPT-5.5,gpt,Poland,25.4,20.5
+Popularity,Direct rating,GPT-5.5,gpt,Russia,31.5,25.0
+Popularity,Direct rating,GPT-5.5,gpt,Saudi Arabia,51.0,37.8
+Popularity,Direct rating,GPT-5.5,gpt,Thailand,50.2,61.8
+Popularity,Direct rating,GPT-5.5,gpt,UAE,52.8,42.9
+Popularity,Direct rating,GPT-5.5,gpt,Vietnam,53.1,63.4
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Argentina,33.7,15.9
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Canada,34.5,36.2
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Germany,31.3,24.8
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,India,53.4,41.3
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Italy,31.7,19.3
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Japan,32.4,57.7
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Malaysia,52.2,65.1
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Philippines,60.0,67.7
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Poland,25.4,21.0
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Russia,31.5,31.5
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Saudi Arabia,51.0,38.7
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Thailand,50.2,74.0
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,UAE,52.8,43.2
+Popularity,Direct rating,Gemini 3.1 Pro,gemini,Vietnam,53.1,68.5
+Popularity,Direct rating,Claude Sonnet 5,claude,Argentina,33.7,18.5
+Popularity,Direct rating,Claude Sonnet 5,claude,Canada,34.5,32.4
+Popularity,Direct rating,Claude Sonnet 5,claude,Germany,31.3,24.2
+Popularity,Direct rating,Claude Sonnet 5,claude,India,53.4,22.2
+Popularity,Direct rating,Claude Sonnet 5,claude,Italy,31.7,20.1
+Popularity,Direct rating,Claude Sonnet 5,claude,Japan,32.4,49.5
+Popularity,Direct rating,Claude Sonnet 5,claude,Malaysia,52.2,56.8
+Popularity,Direct rating,Claude Sonnet 5,claude,Philippines,60.0,51.0
+Popularity,Direct rating,Claude Sonnet 5,claude,Poland,25.4,18.5
+Popularity,Direct rating,Claude Sonnet 5,claude,Russia,31.5,24.9
+Popularity,Direct rating,Claude Sonnet 5,claude,Saudi Arabia,51.0,32.9
+Popularity,Direct rating,Claude Sonnet 5,claude,Thailand,50.2,57.2
+Popularity,Direct rating,Claude Sonnet 5,claude,UAE,52.8,37.6
+Popularity,Direct rating,Claude Sonnet 5,claude,Vietnam,53.1,58.9
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Argentina,33.7,46.5
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Canada,34.5,51.9
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Germany,31.3,47.5
+Popularity,Semantic similarity rating,GPT-5.5,gpt,India,53.4,50.6
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Italy,31.7,46.4
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Japan,32.4,55.0
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Malaysia,52.2,55.6
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Philippines,60.0,57.4
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Poland,25.4,44.9
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Russia,31.5,48.4
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Saudi Arabia,51.0,50.9
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Thailand,50.2,58.7
+Popularity,Semantic similarity rating,GPT-5.5,gpt,UAE,52.8,52.5
+Popularity,Semantic similarity rating,GPT-5.5,gpt,Vietnam,53.1,58.9
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Argentina,33.7,39.7
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Canada,34.5,46.9
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Germany,31.3,42.8
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,India,53.4,50.4
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Italy,31.7,39.2
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Japan,32.4,53.4
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Malaysia,52.2,55.5
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Philippines,60.0,56.3
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Poland,25.4,38.4
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Russia,31.5,45.1
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Saudi Arabia,51.0,49.4
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Thailand,50.2,57.4
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,UAE,52.8,50.3
+Popularity,Semantic similarity rating,Gemini 3.1 Pro,gemini,Vietnam,53.1,57.3
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Argentina,33.7,42.3
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Canada,34.5,46.1
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Germany,31.3,43.2
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,India,53.4,45.7
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Italy,31.7,40.6
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Japan,32.4,51.4
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Malaysia,52.2,51.5
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Philippines,60.0,51.6
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Poland,25.4,41.1
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Russia,31.5,42.6
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Saudi Arabia,51.0,46.4
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Thailand,50.2,52.7
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,UAE,52.8,47.5
+Popularity,Semantic similarity rating,Claude Sonnet 5,claude,Vietnam,53.1,52.4

@@ -1,0 +1,10 @@
+{
+ "model": "claude-sonnet-5",
+ "calls": 93,
+ "errors": 0,
+ "usage": {
+  "input": 106008,
+  "output": 26926,
+  "calls": 93
+ }
+}

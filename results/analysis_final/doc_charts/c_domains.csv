@@ -1,0 +1,79 @@
+domain,var,rank,human,mode,model,slug,synthetic
+Food,XQ1_11,1,55.1,Direct rating,GPT-5.5,gpt,82.5
+Food,XQ1_11,1,55.1,Direct rating,Gemini 3.1 Pro,gemini,78.4
+Food,XQ1_11,1,55.1,Direct rating,Claude Sonnet 5,claude,68.0
+Music,XQ1_4,2,54.0,Direct rating,GPT-5.5,gpt,100.0
+Music,XQ1_4,2,54.0,Direct rating,Gemini 3.1 Pro,gemini,97.3
+Music,XQ1_4,2,54.0,Direct rating,Claude Sonnet 5,claude,99.5
+Beauty,XQ1_10,3,52.6,Direct rating,GPT-5.5,gpt,100.0
+Beauty,XQ1_10,3,52.6,Direct rating,Gemini 3.1 Pro,gemini,90.7
+Beauty,XQ1_10,3,52.6,Direct rating,Claude Sonnet 5,claude,81.0
+Drama,XQ1_1,4,51.3,Direct rating,GPT-5.5,gpt,77.3
+Drama,XQ1_1,4,51.3,Direct rating,Gemini 3.1 Pro,gemini,82.8
+Drama,XQ1_1,4,51.3,Direct rating,Claude Sonnet 5,claude,89.7
+Film,XQ1_3,5,48.9,Direct rating,GPT-5.5,gpt,52.8
+Film,XQ1_3,5,48.9,Direct rating,Gemini 3.1 Pro,gemini,44.9
+Film,XQ1_3,5,48.9,Direct rating,Claude Sonnet 5,claude,35.3
+Fashion,XQ1_9,6,45.3,Direct rating,GPT-5.5,gpt,52.9
+Fashion,XQ1_9,6,45.3,Direct rating,Gemini 3.1 Pro,gemini,37.4
+Fashion,XQ1_9,6,45.3,Direct rating,Claude Sonnet 5,claude,16.8
+Variety show,XQ1_2,7,39.3,Direct rating,GPT-5.5,gpt,18.3
+Variety show,XQ1_2,7,39.3,Direct rating,Gemini 3.1 Pro,gemini,27.2
+Variety show,XQ1_2,7,39.3,Direct rating,Claude Sonnet 5,claude,29.2
+Character,XQ1_12,8,38.9,Direct rating,GPT-5.5,gpt,9.9
+Character,XQ1_12,8,38.9,Direct rating,Gemini 3.1 Pro,gemini,24.8
+Character,XQ1_12,8,38.9,Direct rating,Claude Sonnet 5,claude,13.8
+Game,XQ1_8,9,38.3,Direct rating,GPT-5.5,gpt,9.7
+Game,XQ1_8,9,38.3,Direct rating,Gemini 3.1 Pro,gemini,45.3
+Game,XQ1_8,9,38.3,Direct rating,Claude Sonnet 5,claude,2.4
+Animation,XQ1_5,10,37.5,Direct rating,GPT-5.5,gpt,0.0
+Animation,XQ1_5,10,37.5,Direct rating,Gemini 3.1 Pro,gemini,0.0
+Animation,XQ1_5,10,37.5,Direct rating,Claude Sonnet 5,claude,0.0
+Performance,XQ1_13,11,34.4,Direct rating,GPT-5.5,gpt,0.0
+Performance,XQ1_13,11,34.4,Direct rating,Gemini 3.1 Pro,gemini,0.0
+Performance,XQ1_13,11,34.4,Direct rating,Claude Sonnet 5,claude,0.0
+Webtoon,XQ1_7,12,32.2,Direct rating,GPT-5.5,gpt,17.5
+Webtoon,XQ1_7,12,32.2,Direct rating,Gemini 3.1 Pro,gemini,17.7
+Webtoon,XQ1_7,12,32.2,Direct rating,Claude Sonnet 5,claude,13.4
+Publishing,XQ1_6,13,29.7,Direct rating,GPT-5.5,gpt,0.0
+Publishing,XQ1_6,13,29.7,Direct rating,Gemini 3.1 Pro,gemini,0.0
+Publishing,XQ1_6,13,29.7,Direct rating,Claude Sonnet 5,claude,0.0
+Food,XQ1_11,1,55.1,Semantic similarity rating,GPT-5.5,gpt,69.7
+Food,XQ1_11,1,55.1,Semantic similarity rating,Gemini 3.1 Pro,gemini,67.6
+Food,XQ1_11,1,55.1,Semantic similarity rating,Claude Sonnet 5,claude,68.7
+Music,XQ1_4,2,54.0,Semantic similarity rating,GPT-5.5,gpt,56.3
+Music,XQ1_4,2,54.0,Semantic similarity rating,Gemini 3.1 Pro,gemini,65.0
+Music,XQ1_4,2,54.0,Semantic similarity rating,Claude Sonnet 5,claude,61.9
+Beauty,XQ1_10,3,52.6,Semantic similarity rating,GPT-5.5,gpt,73.8
+Beauty,XQ1_10,3,52.6,Semantic similarity rating,Gemini 3.1 Pro,gemini,71.5
+Beauty,XQ1_10,3,52.6,Semantic similarity rating,Claude Sonnet 5,claude,72.3
+Drama,XQ1_1,4,51.3,Semantic similarity rating,GPT-5.5,gpt,59.3
+Drama,XQ1_1,4,51.3,Semantic similarity rating,Gemini 3.1 Pro,gemini,59.2
+Drama,XQ1_1,4,51.3,Semantic similarity rating,Claude Sonnet 5,claude,58.2
+Film,XQ1_3,5,48.9,Semantic similarity rating,GPT-5.5,gpt,50.4
+Film,XQ1_3,5,48.9,Semantic similarity rating,Gemini 3.1 Pro,gemini,51.6
+Film,XQ1_3,5,48.9,Semantic similarity rating,Claude Sonnet 5,claude,39.2
+Fashion,XQ1_9,6,45.3,Semantic similarity rating,GPT-5.5,gpt,67.0
+Fashion,XQ1_9,6,45.3,Semantic similarity rating,Gemini 3.1 Pro,gemini,65.6
+Fashion,XQ1_9,6,45.3,Semantic similarity rating,Claude Sonnet 5,claude,63.4
+Variety show,XQ1_2,7,39.3,Semantic similarity rating,GPT-5.5,gpt,33.8
+Variety show,XQ1_2,7,39.3,Semantic similarity rating,Gemini 3.1 Pro,gemini,24.6
+Variety show,XQ1_2,7,39.3,Semantic similarity rating,Claude Sonnet 5,claude,25.0
+Character,XQ1_12,8,38.9,Semantic similarity rating,GPT-5.5,gpt,66.3
+Character,XQ1_12,8,38.9,Semantic similarity rating,Gemini 3.1 Pro,gemini,63.6
+Character,XQ1_12,8,38.9,Semantic similarity rating,Claude Sonnet 5,claude,56.7
+Game,XQ1_8,9,38.3,Semantic similarity rating,GPT-5.5,gpt,55.3
+Game,XQ1_8,9,38.3,Semantic similarity rating,Gemini 3.1 Pro,gemini,52.3
+Game,XQ1_8,9,38.3,Semantic similarity rating,Claude Sonnet 5,claude,41.7
+Animation,XQ1_5,10,37.5,Semantic similarity rating,GPT-5.5,gpt,24.2
+Animation,XQ1_5,10,37.5,Semantic similarity rating,Gemini 3.1 Pro,gemini,22.2
+Animation,XQ1_5,10,37.5,Semantic similarity rating,Claude Sonnet 5,claude,22.6
+Performance,XQ1_13,11,34.4,Semantic similarity rating,GPT-5.5,gpt,22.0
+Performance,XQ1_13,11,34.4,Semantic similarity rating,Gemini 3.1 Pro,gemini,13.7
+Performance,XQ1_13,11,34.4,Semantic similarity rating,Claude Sonnet 5,claude,14.3
+Webtoon,XQ1_7,12,32.2,Semantic similarity rating,GPT-5.5,gpt,54.8
+Webtoon,XQ1_7,12,32.2,Semantic similarity rating,Gemini 3.1 Pro,gemini,47.7
+Webtoon,XQ1_7,12,32.2,Semantic similarity rating,Claude Sonnet 5,claude,56.9
+Publishing,XQ1_6,13,29.7,Semantic similarity rating,GPT-5.5,gpt,38.4
+Publishing,XQ1_6,13,29.7,Semantic similarity rating,Gemini 3.1 Pro,gemini,25.5
+Publishing,XQ1_6,13,29.7,Semantic similarity rating,Claude Sonnet 5,claude,21.8

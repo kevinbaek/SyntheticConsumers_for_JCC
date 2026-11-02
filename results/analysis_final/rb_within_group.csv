@@ -1,0 +1,55 @@
+model,method,var,group,n,spearman
+claude-sonnet-5,B2 persona-free LLM,POPMEAN,top,7,0.07142857142857144
+claude-sonnet-5,B2 persona-free LLM,POPMEAN,bottom,7,0.642857142857143
+claude-sonnet-5,B2 persona-free LLM,XQ5,top,7,0.28571428571428575
+claude-sonnet-5,B2 persona-free LLM,XQ5,bottom,7,0.4504687313477795
+claude-sonnet-5,B2 persona-free LLM,XQ6,top,7,0.42857142857142866
+claude-sonnet-5,B2 persona-free LLM,XQ6,bottom,7,0.9642857142857145
+claude-sonnet-5,Twins DLR,POPMEAN,top,7,-0.21428571428571433
+claude-sonnet-5,Twins DLR,POPMEAN,bottom,7,0.28571428571428575
+claude-sonnet-5,Twins DLR,XQ5,top,7,
+claude-sonnet-5,Twins DLR,XQ5,bottom,7,-0.5097970656333186
+claude-sonnet-5,Twins DLR,XQ6,top,7,
+claude-sonnet-5,Twins DLR,XQ6,bottom,7,0.3555285645684319
+claude-sonnet-5,Twins SSR,POPMEAN,top,7,-0.21428571428571433
+claude-sonnet-5,Twins SSR,POPMEAN,bottom,7,0.39285714285714296
+claude-sonnet-5,Twins SSR,XQ5,top,7,0.8214285714285715
+claude-sonnet-5,Twins SSR,XQ5,bottom,7,-0.03603749850782236
+claude-sonnet-5,Twins SSR,XQ6,top,7,0.5714285714285715
+claude-sonnet-5,Twins SSR,XQ6,bottom,7,-0.14285714285714288
+gemini-3.1-pro,B2 persona-free LLM,POPMEAN,top,7,0.28571428571428575
+gemini-3.1-pro,B2 persona-free LLM,POPMEAN,bottom,7,0.21428571428571433
+gemini-3.1-pro,B2 persona-free LLM,XQ5,top,7,0.7207499701564473
+gemini-3.1-pro,B2 persona-free LLM,XQ5,bottom,7,-0.16216874328520064
+gemini-3.1-pro,B2 persona-free LLM,XQ6,top,7,0.6071428571428572
+gemini-3.1-pro,B2 persona-free LLM,XQ6,bottom,7,0.7500000000000002
+gemini-3.1-pro,Twins DLR,POPMEAN,top,7,-0.07142857142857144
+gemini-3.1-pro,Twins DLR,POPMEAN,bottom,7,0.1785714285714286
+gemini-3.1-pro,Twins DLR,XQ5,top,7,0.474341649025257
+gemini-3.1-pro,Twins DLR,XQ5,bottom,7,-0.2727272727272727
+gemini-3.1-pro,Twins DLR,XQ6,top,7,-0.566946709513841
+gemini-3.1-pro,Twins DLR,XQ6,bottom,7,0.198206241793023
+gemini-3.1-pro,Twins SSR,POPMEAN,top,7,0.0
+gemini-3.1-pro,Twins SSR,POPMEAN,bottom,7,0.5357142857142858
+gemini-3.1-pro,Twins SSR,XQ5,top,7,0.642857142857143
+gemini-3.1-pro,Twins SSR,XQ5,bottom,7,-0.5225437283634242
+gemini-3.1-pro,Twins SSR,XQ6,top,7,0.5
+gemini-3.1-pro,Twins SSR,XQ6,bottom,7,0.4642857142857144
+gpt-5.5,B2 persona-free LLM,POPMEAN,top,7,0.0
+gpt-5.5,B2 persona-free LLM,POPMEAN,bottom,7,0.642857142857143
+gpt-5.5,B2 persona-free LLM,XQ5,top,7,0.396412483586046
+gpt-5.5,B2 persona-free LLM,XQ5,bottom,7,-0.06608480480431908
+gpt-5.5,B2 persona-free LLM,XQ6,top,7,0.4504687313477795
+gpt-5.5,B2 persona-free LLM,XQ6,bottom,7,0.8214285714285715
+gpt-5.5,Twins DLR,POPMEAN,top,7,0.28571428571428575
+gpt-5.5,Twins DLR,POPMEAN,bottom,7,0.5
+gpt-5.5,Twins DLR,XQ5,top,7,
+gpt-5.5,Twins DLR,XQ5,bottom,7,0.6553971731289773
+gpt-5.5,Twins DLR,XQ6,top,7,
+gpt-5.5,Twins DLR,XQ6,bottom,7,-0.28867513459481287
+gpt-5.5,Twins SSR,POPMEAN,top,7,-0.07142857142857144
+gpt-5.5,Twins SSR,POPMEAN,bottom,7,0.5357142857142858
+gpt-5.5,Twins SSR,XQ5,top,7,0.7142857142857144
+gpt-5.5,Twins SSR,XQ5,bottom,7,-0.6126374746329801
+gpt-5.5,Twins SSR,XQ6,top,7,0.07142857142857144
+gpt-5.5,Twins SSR,XQ6,bottom,7,-0.10714285714285716

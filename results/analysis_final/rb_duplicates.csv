@@ -1,0 +1,7 @@
+model,mode,duplicate_groups,twins_in_groups,same_prompt_pairs,identical_response_pairs
+claude-sonnet-5,ssr,157,363,277,0
+claude-sonnet-5,dlr,157,363,130,21
+gpt-5.5,ssr,157,363,277,0
+gpt-5.5,dlr,157,363,130,59
+gemini-3.1-pro,ssr,157,363,277,15
+gemini-3.1-pro,dlr,157,363,130,15

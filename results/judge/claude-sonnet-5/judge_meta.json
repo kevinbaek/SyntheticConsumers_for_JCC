@@ -1,0 +1,13 @@
+{
+ "judge": "claude-sonnet-5",
+ "model_id": "claude-sonnet-5",
+ "calls": 36,
+ "answers": 1800,
+ "unparsed": 150,
+ "errors": 0,
+ "usage": {
+  "input": 95703,
+  "output": 45377,
+  "calls": 36
+ }
+}

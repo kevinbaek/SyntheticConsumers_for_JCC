@@ -1,0 +1,19 @@
+model,slug,mode,order,level,n,t2b,mean_score
+GPT-5.5,gpt,Direct rating,1,knows little,480,98.8,3.99
+GPT-5.5,gpt,Direct rating,2,knows somewhat,1719,100.0,4.08
+GPT-5.5,gpt,Direct rating,3,knows very well,801,100.0,4.99
+Gemini 3.1 Pro,gemini,Direct rating,1,knows little,480,82.3,3.82
+Gemini 3.1 Pro,gemini,Direct rating,2,knows somewhat,1719,99.8,4.08
+Gemini 3.1 Pro,gemini,Direct rating,3,knows very well,801,100.0,4.94
+Claude Sonnet 5,claude,Direct rating,1,knows little,480,97.1,3.97
+Claude Sonnet 5,claude,Direct rating,2,knows somewhat,1719,99.8,4.07
+Claude Sonnet 5,claude,Direct rating,3,knows very well,801,100.0,4.78
+GPT-5.5,gpt,Semantic similarity rating,1,knows little,480,69.8,3.86
+GPT-5.5,gpt,Semantic similarity rating,2,knows somewhat,1719,78.9,4.04
+GPT-5.5,gpt,Semantic similarity rating,3,knows very well,801,85.4,4.17
+Gemini 3.1 Pro,gemini,Semantic similarity rating,1,knows little,480,73.7,3.94
+Gemini 3.1 Pro,gemini,Semantic similarity rating,2,knows somewhat,1719,83.7,4.13
+Gemini 3.1 Pro,gemini,Semantic similarity rating,3,knows very well,801,89.2,4.24
+Claude Sonnet 5,claude,Semantic similarity rating,1,knows little,480,64.9,3.75
+Claude Sonnet 5,claude,Semantic similarity rating,2,knows somewhat,1719,74.7,3.97
+Claude Sonnet 5,claude,Semantic similarity rating,3,knows very well,801,84.8,4.16

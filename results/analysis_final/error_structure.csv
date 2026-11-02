@@ -1,0 +1,28 @@
+model,method,var,analysis,n,spearman,p
+claude-sonnet-5,Twins DLR,POPMEAN,error ~ human level,14,-0.1912087912087912,0.5125839704707786
+claude-sonnet-5,Twins DLR,XQ5,error ~ human level,14,-0.9867841409691631,7.477101393238461e-11
+claude-sonnet-5,Twins DLR,XQ6,error ~ human level,19,-0.9982456140350877,2.5798467123287725e-22
+claude-sonnet-5,Twins SSR,POPMEAN,error ~ human level,14,-0.8901098901098902,1.9985404224781275e-05
+claude-sonnet-5,Twins SSR,XQ5,error ~ human level,14,-0.9856991663244494,1.1976056175767856e-10
+claude-sonnet-5,Twins SSR,XQ6,error ~ human level,19,-0.9947368421052631,2.897371811299744e-18
+gemini-3.1-pro,Twins DLR,POPMEAN,error ~ human level,14,0.15164835164835166,0.6047905984521367
+gemini-3.1-pro,Twins DLR,XQ5,error ~ human level,14,-0.9768982809108382,2.088144457813465e-09
+gemini-3.1-pro,Twins DLR,XQ6,error ~ human level,19,-0.975438596491228,1.3190643557743208e-12
+gemini-3.1-pro,Twins SSR,POPMEAN,error ~ human level,14,-0.8637362637362638,6.846377605646036e-05
+gemini-3.1-pro,Twins SSR,XQ5,error ~ human level,14,-0.9900996090312549,1.3309891033481789e-11
+gemini-3.1-pro,Twins SSR,XQ6,error ~ human level,19,-0.9982456140350877,2.5798467123287725e-22
+gpt-5.5,Twins DLR,POPMEAN,error ~ human level,14,-0.07692307692307693,0.7938058883554534
+gpt-5.5,Twins DLR,XQ5,error ~ human level,14,-0.9989004944448662,2.5447967987232415e-17
+gpt-5.5,Twins DLR,XQ6,error ~ human level,19,-0.9982456140350877,2.5798467123287725e-22
+gpt-5.5,Twins SSR,POPMEAN,error ~ human level,14,-0.8593406593406594,8.200994666805763e-05
+gpt-5.5,Twins SSR,XQ5,error ~ human level,14,-0.9768982809108382,2.088144457813465e-09
+gpt-5.5,Twins SSR,XQ6,error ~ human level,19,-0.9859649122807018,1.1746402861484323e-14
+claude-sonnet-5,SSR vs DLR,POPMEAN,"country estimates, 30 countries",30,0.9248053392658508,2.84478043438714e-13
+claude-sonnet-5,SSR vs DLR,XQ5,"country estimates, 30 countries",30,0.5938169464758799,0.0005414035640792081
+claude-sonnet-5,SSR vs DLR,XQ6,"country estimates, 30 countries",30,0.6548785004691339,8.61104395862366e-05
+gemini-3.1-pro,SSR vs DLR,POPMEAN,"country estimates, 30 countries",30,0.9670745272525029,3.523438873625542e-18
+gemini-3.1-pro,SSR vs DLR,XQ5,"country estimates, 30 countries",30,0.38605078778286034,0.035108478829171515
+gemini-3.1-pro,SSR vs DLR,XQ6,"country estimates, 30 countries",30,0.21421491670306428,0.25566185905305794
+gpt-5.5,SSR vs DLR,POPMEAN,"country estimates, 30 countries",30,0.9642896933626885,1.0793904672449882e-17
+gpt-5.5,SSR vs DLR,XQ5,"country estimates, 30 countries",30,0.29544587171901887,0.11294808790669418
+gpt-5.5,SSR vs DLR,XQ6,"country estimates, 30 countries",30,0.3201397480385713,0.08458290279636703

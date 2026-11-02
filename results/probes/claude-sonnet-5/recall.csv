@@ -1,0 +1,91 @@
+rep,country,favorability,recommendation,basis
+PROBE-RECALL|k0,China,60.5,58.2,guess
+PROBE-RECALL|k0,Japan,52.3,48.7,guess
+PROBE-RECALL|k0,Taiwan,78.4,75.1,guess
+PROBE-RECALL|k0,Thailand,83.2,80.6,guess
+PROBE-RECALL|k0,Malaysia,79.5,77.3,guess
+PROBE-RECALL|k0,Indonesia,81.7,79.8,guess
+PROBE-RECALL|k0,India,74.6,71.2,guess
+PROBE-RECALL|k0,Vietnam,85.9,83.4,guess
+PROBE-RECALL|k0,Kazakhstan,76.3,73.9,guess
+PROBE-RECALL|k0,Australia,68.1,65.4,guess
+PROBE-RECALL|k0,Philippines,84.2,82.1,guess
+PROBE-RECALL|k0,Singapore,75.8,73.2,guess
+PROBE-RECALL|k0,United States,70.4,67.8,guess
+PROBE-RECALL|k0,Canada,69.2,66.5,guess
+PROBE-RECALL|k0,Mexico,77.9,75.3,guess
+PROBE-RECALL|k0,Brazil,76.4,73.8,guess
+PROBE-RECALL|k0,Argentina,74.1,71.5,guess
+PROBE-RECALL|k0,Chile,73.6,70.9,guess
+PROBE-RECALL|k0,United Kingdom,66.7,63.9,guess
+PROBE-RECALL|k0,France,71.3,68.6,guess
+PROBE-RECALL|k0,Italy,69.8,67.1,guess
+PROBE-RECALL|k0,Spain,72.5,69.8,guess
+PROBE-RECALL|k0,Germany,65.9,63.2,guess
+PROBE-RECALL|k0,Russia,63.4,60.7,guess
+PROBE-RECALL|k0,Turkiye,67.8,65.1,guess
+PROBE-RECALL|k0,Poland,64.2,61.5,guess
+PROBE-RECALL|k0,UAE,73.9,71.3,guess
+PROBE-RECALL|k0,Saudi Arabia,71.6,68.9,guess
+PROBE-RECALL|k0,Egypt,68.3,65.7,guess
+PROBE-RECALL|k0,South Africa,66.5,63.8,guess
+PROBE-RECALL|k1,China,55.4,52.1,guess
+PROBE-RECALL|k1,Japan,50.2,48.3,guess
+PROBE-RECALL|k1,Taiwan,81.5,78.9,guess
+PROBE-RECALL|k1,Thailand,85.3,83.2,guess
+PROBE-RECALL|k1,Malaysia,80.1,77.6,guess
+PROBE-RECALL|k1,Indonesia,82.7,80.4,guess
+PROBE-RECALL|k1,India,70.8,68.5,guess
+PROBE-RECALL|k1,Vietnam,84.6,82.3,guess
+PROBE-RECALL|k1,Kazakhstan,75.2,72.9,guess
+PROBE-RECALL|k1,Australia,65.4,62.8,guess
+PROBE-RECALL|k1,Philippines,83.9,81.5,guess
+PROBE-RECALL|k1,Singapore,72.3,69.7,guess
+PROBE-RECALL|k1,United States,68.5,65.9,guess
+PROBE-RECALL|k1,Canada,66.7,64.1,guess
+PROBE-RECALL|k1,Mexico,77.8,75.3,guess
+PROBE-RECALL|k1,Brazil,76.4,74.0,guess
+PROBE-RECALL|k1,Argentina,73.1,70.6,guess
+PROBE-RECALL|k1,Chile,74.5,72.0,guess
+PROBE-RECALL|k1,United Kingdom,64.2,61.7,guess
+PROBE-RECALL|k1,France,67.9,65.4,guess
+PROBE-RECALL|k1,Italy,65.8,63.2,guess
+PROBE-RECALL|k1,Spain,69.3,66.8,guess
+PROBE-RECALL|k1,Germany,62.5,60.0,guess
+PROBE-RECALL|k1,Russia,71.6,69.1,guess
+PROBE-RECALL|k1,Turkiye,68.0,65.5,guess
+PROBE-RECALL|k1,Poland,66.3,63.8,guess
+PROBE-RECALL|k1,UAE,73.8,71.3,guess
+PROBE-RECALL|k1,Saudi Arabia,70.5,68.0,guess
+PROBE-RECALL|k1,Egypt,72.9,70.4,guess
+PROBE-RECALL|k1,South Africa,69.7,67.2,guess
+PROBE-RECALL|k2,China,55.0,50.0,guess
+PROBE-RECALL|k2,Japan,45.0,40.0,guess
+PROBE-RECALL|k2,Taiwan,80.0,75.0,guess
+PROBE-RECALL|k2,Thailand,85.0,82.0,guess
+PROBE-RECALL|k2,Malaysia,80.0,77.0,guess
+PROBE-RECALL|k2,Indonesia,83.0,80.0,guess
+PROBE-RECALL|k2,India,78.0,75.0,guess
+PROBE-RECALL|k2,Vietnam,85.0,82.0,guess
+PROBE-RECALL|k2,Kazakhstan,75.0,72.0,guess
+PROBE-RECALL|k2,Australia,65.0,62.0,guess
+PROBE-RECALL|k2,Philippines,85.0,83.0,guess
+PROBE-RECALL|k2,Singapore,75.0,72.0,guess
+PROBE-RECALL|k2,United States,65.0,62.0,guess
+PROBE-RECALL|k2,Canada,68.0,65.0,guess
+PROBE-RECALL|k2,Mexico,75.0,72.0,guess
+PROBE-RECALL|k2,Brazil,78.0,75.0,guess
+PROBE-RECALL|k2,Argentina,72.0,69.0,guess
+PROBE-RECALL|k2,Chile,73.0,70.0,guess
+PROBE-RECALL|k2,United Kingdom,62.0,58.0,guess
+PROBE-RECALL|k2,France,68.0,65.0,guess
+PROBE-RECALL|k2,Italy,65.0,62.0,guess
+PROBE-RECALL|k2,Spain,67.0,64.0,guess
+PROBE-RECALL|k2,Germany,60.0,57.0,guess
+PROBE-RECALL|k2,Russia,70.0,67.0,guess
+PROBE-RECALL|k2,Turkiye,65.0,62.0,guess
+PROBE-RECALL|k2,Poland,63.0,60.0,guess
+PROBE-RECALL|k2,UAE,72.0,69.0,guess
+PROBE-RECALL|k2,Saudi Arabia,70.0,67.0,guess
+PROBE-RECALL|k2,Egypt,68.0,65.0,guess
+PROBE-RECALL|k2,South Africa,70.0,67.0,guess

@@ -1,0 +1,22 @@
+var,source,model,mode,expected_MAE_perfect_pp
+XQ5,human sampling error only,-,-,1.217780872021961
+XQ5,human + twin Monte Carlo error,claude-sonnet-5,dlr,1.217780872021961
+XQ5,human + twin Monte Carlo error,claude-sonnet-5,ssr,1.4413683542472076
+XQ5,human + twin Monte Carlo error,gpt-5.5,dlr,1.217780872021961
+XQ5,human + twin Monte Carlo error,gpt-5.5,ssr,1.3261165780876465
+XQ5,human + twin Monte Carlo error,gemini-3.1-pro,dlr,1.665932952370563
+XQ5,human + twin Monte Carlo error,gemini-3.1-pro,ssr,1.3552047901028121
+XQ6,human sampling error only,-,-,1.2148777878978478
+XQ6,human + twin Monte Carlo error,claude-sonnet-5,dlr,1.2148777878978478
+XQ6,human + twin Monte Carlo error,claude-sonnet-5,ssr,1.281200225915038
+XQ6,human + twin Monte Carlo error,gpt-5.5,dlr,1.2148777878978478
+XQ6,human + twin Monte Carlo error,gpt-5.5,ssr,1.2653148313719862
+XQ6,human + twin Monte Carlo error,gemini-3.1-pro,dlr,1.66162618334575
+XQ6,human + twin Monte Carlo error,gemini-3.1-pro,ssr,1.253980445620735
+POPMEAN,human sampling error only,-,-,1.3321454747954942
+POPMEAN,human + twin Monte Carlo error,claude-sonnet-5,dlr,1.5131037302499803
+POPMEAN,human + twin Monte Carlo error,claude-sonnet-5,ssr,1.3744297146102504
+POPMEAN,human + twin Monte Carlo error,gpt-5.5,dlr,1.5829038650151384
+POPMEAN,human + twin Monte Carlo error,gpt-5.5,ssr,1.3694936023756388
+POPMEAN,human + twin Monte Carlo error,gemini-3.1-pro,dlr,1.5095474600812373
+POPMEAN,human + twin Monte Carlo error,gemini-3.1-pro,ssr,1.4159281570418127

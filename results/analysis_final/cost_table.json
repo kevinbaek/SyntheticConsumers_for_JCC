@@ -1,0 +1,29 @@
+[
+ {
+  "model": "gpt-5.5",
+  "input": 11703559.0,
+  "output": 3664766.0,
+  "thinking": 0.0,
+  "cost_in": 58.517795,
+  "cost_out": 109.94298,
+  "method": "o200k_base tokenizer (js-tiktoken) on every call, +3 tokens per message and +3 for the reply"
+ },
+ {
+  "model": "gemini-3.1-pro",
+  "input": 11565170,
+  "output": 3737686,
+  "thinking": 7155122,
+  "cost_in": 23.13034,
+  "cost_out": 130.713696,
+  "method": "API usage metadata of all 8,790 calls"
+ },
+ {
+  "model": "claude-sonnet-5",
+  "input": 15268965.0,
+  "output": 4246141.0,
+  "thinking": 0.0,
+  "cost_in": 30.53793,
+  "cost_out": 42.46141,
+  "method": "Anthropic token-counting endpoint on a random sample per call type"
+ }
+]

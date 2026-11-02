@@ -1,0 +1,235 @@
+model,method,var,synthetic,human
+claude-sonnet-5,Twins DLR,XQ1_1,89.72591240875913,51.3
+claude-sonnet-5,Twins DLR,XQ1_2,29.15182481751825,39.3
+claude-sonnet-5,Twins DLR,XQ1_3,35.261313868613136,48.9
+claude-sonnet-5,Twins DLR,XQ1_4,99.47737226277373,54.0
+claude-sonnet-5,Twins DLR,XQ1_5,0.03102189781021898,37.5
+claude-sonnet-5,Twins DLR,XQ1_6,0.0,29.7
+claude-sonnet-5,Twins DLR,XQ1_7,13.42992700729927,32.2
+claude-sonnet-5,Twins DLR,XQ1_8,2.3923357664233578,38.3
+claude-sonnet-5,Twins DLR,XQ1_9,16.848905109489053,45.3
+claude-sonnet-5,Twins DLR,XQ1_10,80.97007299270074,52.6
+claude-sonnet-5,Twins DLR,XQ1_11,68.03102189781022,55.1
+claude-sonnet-5,Twins DLR,XQ1_12,13.766423357664234,38.9
+claude-sonnet-5,Twins DLR,XQ1_13,0.0,34.4
+claude-sonnet-5,Twins SSR,XQ1_1,58.15321244759403,51.3
+claude-sonnet-5,Twins SSR,XQ1_2,25.01424836888344,39.3
+claude-sonnet-5,Twins SSR,XQ1_3,39.17234197029966,48.9
+claude-sonnet-5,Twins SSR,XQ1_4,61.90415437103434,54.0
+claude-sonnet-5,Twins SSR,XQ1_5,22.58793592944357,37.5
+claude-sonnet-5,Twins SSR,XQ1_6,21.795088804307735,29.7
+claude-sonnet-5,Twins SSR,XQ1_7,56.87545505905004,32.2
+claude-sonnet-5,Twins SSR,XQ1_8,41.68088417427437,38.3
+claude-sonnet-5,Twins SSR,XQ1_9,63.41157829348022,45.3
+claude-sonnet-5,Twins SSR,XQ1_10,72.27798893130826,52.6
+claude-sonnet-5,Twins SSR,XQ1_11,68.71475095087479,55.1
+claude-sonnet-5,Twins SSR,XQ1_12,56.651104043954696,38.9
+claude-sonnet-5,Twins SSR,XQ1_13,14.316507747072018,34.4
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_1,57.82939706149671,51.3
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_2,24.963483977597193,39.3
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_3,39.041415385944376,48.9
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_4,62.09988485092054,54.0
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_5,22.802539289466548,37.5
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_6,21.894130174962406,29.7
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_7,57.326781132463715,32.2
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_8,42.185982995066155,38.3
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_9,63.52730677601573,45.3
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_10,72.1713225899169,52.6
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_11,68.79160828579789,55.1
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_12,56.03665624597687,38.9
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ1_13,14.447257131666415,34.4
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_1,59.55437963255176,51.3
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_2,24.205972052054904,39.3
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_3,38.853817038200354,48.9
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_4,61.626983420486546,54.0
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_5,23.38459113826066,37.5
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_6,23.730653873898557,29.7
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_7,57.167176119668156,32.2
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_8,39.69324173749768,38.3
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_9,62.01983017617159,45.3
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_10,71.86706885796069,52.6
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_11,68.45723141738895,55.1
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_12,56.28758089612168,38.9
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ1_13,14.75782615372258,34.4
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_1,59.05007822670289,51.3
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_2,23.60085819416165,39.3
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_3,38.18869429760879,48.9
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_4,62.05322382058832,54.0
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_5,23.604313575934917,37.5
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_6,22.99393238081707,29.7
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_7,57.39749091453783,32.2
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_8,40.44040739413764,38.3
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_9,63.26458560171764,45.3
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_10,72.0731111642635,52.6
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_11,68.88173542254653,55.1
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_12,55.73966690463476,38.9
+claude-sonnet-5,Twins SSR + N2 random network,XQ1_13,14.554618260390985,34.4
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_1,59.1557875420264,51.3
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_2,23.6028487515778,39.3
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_3,37.809971598629076,48.9
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_4,62.08423249743674,54.0
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_5,23.180656350592848,37.5
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_6,23.68791868088444,29.7
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_7,56.5028562816295,32.2
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_8,40.57665294613406,38.3
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_9,63.22314263974013,45.3
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_10,72.07002034341947,52.6
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_11,68.82880253058805,55.1
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_12,56.11622190291505,38.9
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ1_13,14.612023616299716,34.4
+gemini-3.1-pro,Twins DLR,XQ1_1,82.75693430656935,51.3
+gemini-3.1-pro,Twins DLR,XQ1_2,27.216788321167883,39.3
+gemini-3.1-pro,Twins DLR,XQ1_3,44.886861313868614,48.9
+gemini-3.1-pro,Twins DLR,XQ1_4,97.28722627737227,54.0
+gemini-3.1-pro,Twins DLR,XQ1_5,0.0,37.5
+gemini-3.1-pro,Twins DLR,XQ1_6,0.0,29.7
+gemini-3.1-pro,Twins DLR,XQ1_7,17.694525547445256,32.2
+gemini-3.1-pro,Twins DLR,XQ1_8,45.307664233576645,38.3
+gemini-3.1-pro,Twins DLR,XQ1_9,37.43905109489051,45.3
+gemini-3.1-pro,Twins DLR,XQ1_10,90.66788321167883,52.6
+gemini-3.1-pro,Twins DLR,XQ1_11,78.38576642335767,55.1
+gemini-3.1-pro,Twins DLR,XQ1_12,24.76897810218978,38.9
+gemini-3.1-pro,Twins DLR,XQ1_13,0.0,34.4
+gemini-3.1-pro,Twins SSR,XQ1_1,59.22351627333005,51.3
+gemini-3.1-pro,Twins SSR,XQ1_2,24.563042052374882,39.3
+gemini-3.1-pro,Twins SSR,XQ1_3,51.57377154825397,48.9
+gemini-3.1-pro,Twins SSR,XQ1_4,64.95862510296114,54.0
+gemini-3.1-pro,Twins SSR,XQ1_5,22.230379495245735,37.5
+gemini-3.1-pro,Twins SSR,XQ1_6,25.4584882362098,29.7
+gemini-3.1-pro,Twins SSR,XQ1_7,47.74708313645856,32.2
+gemini-3.1-pro,Twins SSR,XQ1_8,52.28996068452439,38.3
+gemini-3.1-pro,Twins SSR,XQ1_9,65.64409573784786,45.3
+gemini-3.1-pro,Twins SSR,XQ1_10,71.47867208120586,52.6
+gemini-3.1-pro,Twins SSR,XQ1_11,67.56848954667325,55.1
+gemini-3.1-pro,Twins SSR,XQ1_12,63.62623964189442,38.9
+gemini-3.1-pro,Twins SSR,XQ1_13,13.701871244806185,34.4
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_1,58.93704186258325,51.3
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_2,24.81196228189593,39.3
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_3,51.426430102621914,48.9
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_4,64.50178329299223,54.0
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_5,22.537955907639834,37.5
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_6,25.695917984378216,29.7
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_7,47.07324957048313,32.2
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_8,52.37903261136104,38.3
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_9,64.95656280674919,45.3
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_10,71.19687002919109,52.6
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_11,67.08795093198815,55.1
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_12,62.62967016618343,38.9
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ1_13,13.440004606673677,34.4
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_1,60.796012465918935,51.3
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_2,25.125040582261175,39.3
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_3,53.055438577207234,48.9
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_4,65.23937727709546,54.0
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_5,21.82409197588978,37.5
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_6,28.57581549444018,29.7
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_7,49.08902505442782,32.2
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_8,51.39136469660247,38.3
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_9,66.01189860734344,45.3
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_10,71.93256880871185,52.6
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_11,67.36857838622063,55.1
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_12,63.64540916724789,38.9
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ1_13,16.177434740135883,34.4
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_1,63.17796548313419,51.3
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_2,25.615505969421903,39.3
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_3,54.81753599147996,48.9
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_4,66.17924511917965,54.0
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_5,25.19954022907414,37.5
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_6,27.9025532969428,29.7
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_7,53.11301818806562,32.2
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_8,52.517313002099414,38.3
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_9,67.89173268863121,45.3
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_10,71.94912087314574,52.6
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_11,67.57119205354083,55.1
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_12,65.06999706601268,38.9
+gemini-3.1-pro,Twins SSR + N2 random network,XQ1_13,17.85806891223306,34.4
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_1,63.73670510767677,51.3
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_2,25.76752949858901,39.3
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_3,54.75119357226102,48.9
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_4,66.67016978877894,54.0
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_5,25.554130429420848,37.5
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_6,29.333038561483807,29.7
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_7,52.124878527430226,32.2
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_8,51.867848014524284,38.3
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_9,67.68111709374514,45.3
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_10,72.15582446080785,52.6
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_11,67.62493004900283,55.1
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_12,65.53367174837499,38.9
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ1_13,16.84327918298257,34.4
+gpt-5.5,Twins DLR,XQ1_1,77.34087591240876,51.3
+gpt-5.5,Twins DLR,XQ1_2,18.313868613138688,39.3
+gpt-5.5,Twins DLR,XQ1_3,52.79525547445255,48.9
+gpt-5.5,Twins DLR,XQ1_4,100.0,54.0
+gpt-5.5,Twins DLR,XQ1_5,0.0,37.5
+gpt-5.5,Twins DLR,XQ1_6,0.0,29.7
+gpt-5.5,Twins DLR,XQ1_7,17.45036496350365,32.2
+gpt-5.5,Twins DLR,XQ1_8,9.675912408759125,38.3
+gpt-5.5,Twins DLR,XQ1_9,52.887226277372264,45.3
+gpt-5.5,Twins DLR,XQ1_10,99.97080291970804,52.6
+gpt-5.5,Twins DLR,XQ1_11,82.45328467153284,55.1
+gpt-5.5,Twins DLR,XQ1_12,9.88832116788321,38.9
+gpt-5.5,Twins DLR,XQ1_13,0.0,34.4
+gpt-5.5,Twins SSR,XQ1_1,59.29046810691483,51.3
+gpt-5.5,Twins SSR,XQ1_2,33.84060575436598,39.3
+gpt-5.5,Twins SSR,XQ1_3,50.409628850260816,48.9
+gpt-5.5,Twins SSR,XQ1_4,56.32456091656593,54.0
+gpt-5.5,Twins SSR,XQ1_5,24.183040502486136,37.5
+gpt-5.5,Twins SSR,XQ1_6,38.44618092293366,29.7
+gpt-5.5,Twins SSR,XQ1_7,54.84223749253991,32.2
+gpt-5.5,Twins SSR,XQ1_8,55.25798051342308,38.3
+gpt-5.5,Twins SSR,XQ1_9,67.0179456181108,45.3
+gpt-5.5,Twins SSR,XQ1_10,73.7814339889363,52.6
+gpt-5.5,Twins SSR,XQ1_11,69.70442615713901,55.1
+gpt-5.5,Twins SSR,XQ1_12,66.32231404845479,38.9
+gpt-5.5,Twins SSR,XQ1_13,21.985055497601113,34.4
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_1,59.02816346462846,51.3
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_2,33.16940374311414,39.3
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_3,50.45041590848218,48.9
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_4,56.34571806965198,54.0
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_5,24.608858846120196,37.5
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_6,38.88752418173354,29.7
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_7,54.698891784068074,32.2
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_8,55.43835433117036,38.3
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_9,66.61519238571928,45.3
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_10,73.92685069051319,52.6
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_11,69.6951490120796,55.1
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_12,66.08985817239562,38.9
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ1_13,21.96050539143529,34.4
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_1,55.091784462861426,51.3
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_2,30.352115005221325,39.3
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_3,50.56186489858756,48.9
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_4,56.30376444081372,54.0
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_5,25.069708867864787,37.5
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_6,37.98783599018841,29.7
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_7,55.89091392706372,32.2
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_8,53.5311633663947,38.3
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_9,66.53308772966732,45.3
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_10,73.69630312940464,52.6
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_11,68.68851038518218,55.1
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_12,65.26467935819439,38.9
+gpt-5.5,Twins SSR + N1 self-reflection,XQ1_13,23.388789276744806,34.4
+gpt-5.5,Twins SSR + N2 random network,XQ1_1,57.40668975421924,51.3
+gpt-5.5,Twins SSR + N2 random network,XQ1_2,31.253392615072215,39.3
+gpt-5.5,Twins SSR + N2 random network,XQ1_3,51.454557997096046,48.9
+gpt-5.5,Twins SSR + N2 random network,XQ1_4,55.64484618792368,54.0
+gpt-5.5,Twins SSR + N2 random network,XQ1_5,24.500753334960056,37.5
+gpt-5.5,Twins SSR + N2 random network,XQ1_6,40.336630068040364,29.7
+gpt-5.5,Twins SSR + N2 random network,XQ1_7,56.184024684415895,32.2
+gpt-5.5,Twins SSR + N2 random network,XQ1_8,53.24729117107603,38.3
+gpt-5.5,Twins SSR + N2 random network,XQ1_9,68.57987041641415,45.3
+gpt-5.5,Twins SSR + N2 random network,XQ1_10,75.02513272724954,52.6
+gpt-5.5,Twins SSR + N2 random network,XQ1_11,70.2913422011163,55.1
+gpt-5.5,Twins SSR + N2 random network,XQ1_12,66.77122373321069,38.9
+gpt-5.5,Twins SSR + N2 random network,XQ1_13,25.481376224484283,34.4
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_1,57.45584160533219,51.3
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_2,31.389386674031787,39.3
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_3,51.776532825564956,48.9
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_4,56.216729735999486,54.0
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_5,25.2328824443137,37.5
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_6,40.07330538384159,29.7
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_7,56.494467669638745,32.2
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_8,53.49861035661592,38.3
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_9,68.86290751714786,45.3
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_10,74.82058439953049,52.6
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_11,70.13837017567792,55.1
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_12,66.8447542071134,38.9
+gpt-5.5,Twins SSR + N3 homophily network,XQ1_13,25.105552392531667,34.4

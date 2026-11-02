@@ -1,0 +1,37 @@
+model,var,a,b,n,diff_pp,p_bootstrap,p_signflip,test
+claude-sonnet-5,XQ5,Twins SSR,Twins DLR,14,-21.179725977287326,0.0,0.0001220703125,exact
+claude-sonnet-5,XQ5,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",14,-0.1113657690099369,0.2912,0.32568359375,exact
+claude-sonnet-5,XQ5,Twins SSR + N3 homophily network,Twins SSR + N2 random network,14,0.07322230526001659,0.6476,0.6776123046875,exact
+claude-sonnet-5,XQ5,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,14,-0.49171186039209097,0.0172,0.0406494140625,exact
+claude-sonnet-5,XQ6,Twins SSR,Twins DLR,19,-23.044331776094857,0.0,3.814697265625e-06,exact
+claude-sonnet-5,XQ6,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",19,0.23137940453346653,0.0004,0.005992889404296875,exact
+claude-sonnet-5,XQ6,Twins SSR + N3 homophily network,Twins SSR + N2 random network,19,0.30184367540677287,0.002,0.0110626220703125,exact
+claude-sonnet-5,XQ6,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,19,0.3684606968423877,0.19,0.21679306030273438,exact
+claude-sonnet-5,POPMEAN,Twins SSR,Twins DLR,14,-2.920770166872424,0.2124,0.2508544921875,exact
+claude-sonnet-5,POPMEAN,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",14,-0.06472666337885309,0.4892,0.495849609375,exact
+claude-sonnet-5,POPMEAN,Twins SSR + N3 homophily network,Twins SSR + N2 random network,14,-0.08852786163036493,0.3732,0.4090576171875,exact
+claude-sonnet-5,POPMEAN,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,14,-0.044939830855560005,0.6856,0.735595703125,exact
+gpt-5.5,XQ5,Twins SSR,Twins DLR,14,-19.11487862095219,0.0,0.0001220703125,exact
+gpt-5.5,XQ5,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",14,-0.2341336171553142,0.128,0.173095703125,exact
+gpt-5.5,XQ5,Twins SSR + N3 homophily network,Twins SSR + N2 random network,14,-0.13630381327175808,0.2996,0.3804931640625,exact
+gpt-5.5,XQ5,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,14,0.03181566206042825,0.854,0.8402099609375,exact
+gpt-5.5,XQ6,Twins SSR,Twins DLR,19,-23.156524865305133,0.0,7.62939453125e-06,exact
+gpt-5.5,XQ6,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",19,-0.26945431162424205,0.476,0.484527587890625,exact
+gpt-5.5,XQ6,Twins SSR + N3 homophily network,Twins SSR + N2 random network,19,-0.09585593704568844,0.698,0.7105445861816406,exact
+gpt-5.5,XQ6,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,19,-0.31239606758661376,0.1128,0.15774154663085938,exact
+gpt-5.5,POPMEAN,Twins SSR,Twins DLR,14,2.0879880929519414,0.398,0.4150390625,exact
+gpt-5.5,POPMEAN,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",14,0.3050120643529525,0.1292,0.1549072265625,exact
+gpt-5.5,POPMEAN,Twins SSR + N3 homophily network,Twins SSR + N2 random network,14,0.10597674025022538,0.4584,0.488037109375,exact
+gpt-5.5,POPMEAN,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,14,0.45012216718229936,0.1356,0.1510009765625,exact
+gemini-3.1-pro,XQ5,Twins SSR,Twins DLR,14,-12.654156458621923,0.0,0.0001220703125,exact
+gemini-3.1-pro,XQ5,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",14,1.9559730687674832,0.0,0.000244140625,exact
+gemini-3.1-pro,XQ5,Twins SSR + N3 homophily network,Twins SSR + N2 random network,14,0.07780344890665296,0.6636,0.682373046875,exact
+gemini-3.1-pro,XQ5,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,14,0.44100317098791614,0.0144,0.0352783203125,exact
+gemini-3.1-pro,XQ6,Twins SSR,Twins DLR,19,-18.661908959121885,0.0,7.62939453125e-06,exact
+gemini-3.1-pro,XQ6,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",19,0.56169527925943,0.2756,0.30698394775390625,exact
+gemini-3.1-pro,XQ6,Twins SSR + N3 homophily network,Twins SSR + N2 random network,19,0.12714565192398272,0.5448,0.5405464172363281,exact
+gemini-3.1-pro,XQ6,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,19,-0.03899373702210527,0.8628,0.8610038757324219,exact
+gemini-3.1-pro,POPMEAN,Twins SSR,Twins DLR,14,-3.6610881538296765,0.1512,0.163818359375,exact
+gemini-3.1-pro,POPMEAN,Twins SSR + N3 homophily network,"Twins SSR (network subsample, round 1)",14,1.4407108682485514,0.0128,0.0328369140625,exact
+gemini-3.1-pro,POPMEAN,Twins SSR + N3 homophily network,Twins SSR + N2 random network,14,0.07400726935612667,0.6512,0.6898193359375,exact
+gemini-3.1-pro,POPMEAN,Twins SSR + N3 homophily network,Twins SSR + N1 self-reflection,14,0.79800893909554,0.0356,0.06201171875,exact

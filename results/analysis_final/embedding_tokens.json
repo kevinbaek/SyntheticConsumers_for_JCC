@@ -1,0 +1,1 @@
+{"unique_ssr_texts_all_models": 233480, "cl100k_base_tokens": 6852331, "usd_at_0.02_per_million": 0.137, "method": "js-tiktoken cl100k_base over unique SSR answer texts in scored.csv of the three final runs; anchors excluded (negligible)"}

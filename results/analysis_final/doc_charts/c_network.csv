@@ -1,0 +1,19 @@
+model,slug,arm,item_type,pairs,moved_pct,mean_abs_shift,mean_shift
+GPT-5.5,gpt,N1 self-reflection,Perceived popularity (social),11700,21.7,0.168,-0.019
+Gemini 3.1 Pro,gemini,N1 self-reflection,Perceived popularity (social),11700,22.5,0.179,0.02
+Claude Sonnet 5,claude,N1 self-reflection,Perceived popularity (social),11700,16.6,0.131,0.006
+GPT-5.5,gpt,N2 random,Perceived popularity (social),11700,23.6,0.178,0.0
+Gemini 3.1 Pro,gemini,N2 random,Perceived popularity (social),11700,25.4,0.199,0.059
+Claude Sonnet 5,claude,N2 random,Perceived popularity (social),11699,10.7,0.087,0.002
+GPT-5.5,gpt,N3 homophily,Perceived popularity (social),11700,22.2,0.17,0.004
+Gemini 3.1 Pro,gemini,N3 homophily,Perceived popularity (social),11700,25.1,0.201,0.057
+Claude Sonnet 5,claude,N3 homophily,Perceived popularity (social),11700,11.0,0.089,-0.003
+GPT-5.5,gpt,N1 self-reflection,Own favorability and recommendation,1800,1.3,0.061,-0.017
+Gemini 3.1 Pro,gemini,N1 self-reflection,Own favorability and recommendation,1800,8.3,0.108,0.035
+Claude Sonnet 5,claude,N1 self-reflection,Own favorability and recommendation,1800,3.4,0.068,-0.001
+GPT-5.5,gpt,N2 random,Own favorability and recommendation,1800,0.8,0.056,-0.013
+Gemini 3.1 Pro,gemini,N2 random,Own favorability and recommendation,1800,5.1,0.091,0.044
+Claude Sonnet 5,claude,N2 random,Own favorability and recommendation,1800,0.8,0.019,-0.001
+GPT-5.5,gpt,N3 homophily,Own favorability and recommendation,1800,0.4,0.056,-0.009
+Gemini 3.1 Pro,gemini,N3 homophily,Own favorability and recommendation,1800,7.4,0.098,0.046
+Claude Sonnet 5,claude,N3 homophily,Own favorability and recommendation,1800,0.7,0.019,0.001

@@ -1,0 +1,37 @@
+model,method,var,human_b2b,human_mid,human_t2b,syn_b2b,syn_mid,syn_t2b,JS_sim
+claude-sonnet-5,Twins DLR,XQ5,5.0,25.3,69.7,0.0,0.6,99.4,0.8481882740482886
+claude-sonnet-5,Twins DLR,XQ6,6.2,26.1,67.7,0.0,0.6,99.4,0.835425244955203
+claude-sonnet-5,Twins SSR,XQ5,5.0,25.3,69.7,11.1,13.0,75.9,0.9758977613265555
+claude-sonnet-5,Twins SSR,XQ6,6.2,26.1,67.7,16.1,13.7,70.3,0.9692332172796291
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ5,5.0,25.3,69.7,11.2,13.0,75.8,0.9759231273811682
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ6,6.2,26.1,67.7,15.8,14.0,70.2,0.9706283437607872
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ5,5.0,25.3,69.7,11.1,12.8,76.1,0.9754277164502441
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ6,6.2,26.1,67.7,15.9,14.1,70.0,0.9707565417246579
+claude-sonnet-5,Twins SSR + N2 random network,XQ5,5.0,25.3,69.7,11.2,13.1,75.7,0.9760778124633543
+claude-sonnet-5,Twins SSR + N2 random network,XQ6,6.2,26.1,67.7,15.8,14.1,70.2,0.9710793283785255
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ5,5.0,25.3,69.7,11.2,13.1,75.7,0.9760551271110263
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ6,6.2,26.1,67.7,15.6,14.1,70.3,0.9715036185349109
+gpt-5.5,Twins DLR,XQ5,5.0,25.3,69.7,0.0,0.3,99.7,0.8385265229885119
+gpt-5.5,Twins DLR,XQ6,6.2,26.1,67.7,0.0,0.3,99.7,0.8265373668718884
+gpt-5.5,Twins SSR,XQ5,5.0,25.3,69.7,9.9,10.9,79.2,0.9704756497871506
+gpt-5.5,Twins SSR,XQ6,6.2,26.1,67.7,13.3,20.1,66.7,0.9876887334769566
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ5,5.0,25.3,69.7,9.9,11.1,79.0,0.9713805910728055
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ6,6.2,26.1,67.7,13.2,20.1,66.7,0.9878275700716165
+gpt-5.5,Twins SSR + N1 self-reflection,XQ5,5.0,25.3,69.7,9.7,11.3,79.0,0.9727389445778195
+gpt-5.5,Twins SSR + N1 self-reflection,XQ6,6.2,26.1,67.7,13.9,18.3,67.8,0.9840943525605655
+gpt-5.5,Twins SSR + N2 random network,XQ5,5.0,25.3,69.7,9.7,11.3,79.0,0.9725849825560375
+gpt-5.5,Twins SSR + N2 random network,XQ6,6.2,26.1,67.7,13.0,19.8,67.2,0.9879122393306412
+gpt-5.5,Twins SSR + N3 homophily network,XQ5,5.0,25.3,69.7,9.8,11.3,79.0,0.9723866657723477
+gpt-5.5,Twins SSR + N3 homophily network,XQ6,6.2,26.1,67.7,12.9,19.5,67.6,0.9879512756010692
+gemini-3.1-pro,Twins DLR,XQ5,5.0,25.3,69.7,0.0,2.9,97.1,0.8854393490614539
+gemini-3.1-pro,Twins DLR,XQ6,6.2,26.1,67.7,0.0,3.1,96.9,0.8755497844434291
+gemini-3.1-pro,Twins SSR,XQ5,5.0,25.3,69.7,9.4,7.1,83.5,0.9511616686133251
+gemini-3.1-pro,Twins SSR,XQ6,6.2,26.1,67.7,19.1,8.5,72.4,0.9410182222922772
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ5,5.0,25.3,69.7,9.3,7.1,83.5,0.9517397377166368
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ6,6.2,26.1,67.7,19.2,8.4,72.4,0.9397117164004793
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ5,5.0,25.3,69.7,8.9,6.0,85.1,0.9438850196015219
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ6,6.2,26.1,67.7,18.3,6.8,74.8,0.9328512529267037
+gemini-3.1-pro,Twins SSR + N2 random network,XQ5,5.0,25.3,69.7,8.2,6.0,85.8,0.9452232996905522
+gemini-3.1-pro,Twins SSR + N2 random network,XQ6,6.2,26.1,67.7,18.0,7.2,74.8,0.9361529037328463
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ5,5.0,25.3,69.7,8.3,6.1,85.6,0.94560518000539
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ6,6.2,26.1,67.7,17.7,7.5,74.8,0.9382751926997722

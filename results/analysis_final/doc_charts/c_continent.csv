@@ -1,0 +1,79 @@
+model,slug,mode,item,continent,mean_error,n
+Claude Sonnet 5,claude,DLR,Popularity,Americas,-8.7,2
+Claude Sonnet 5,claude,DLR,Popularity,Asia-Pacific,-0.9,6
+Claude Sonnet 5,claude,DLR,Popularity,Europe,-8.0,4
+Claude Sonnet 5,claude,DLR,Popularity,Middle East,-16.6,2
+Claude Sonnet 5,claude,DLR,Favorability,Americas,21.1,1
+Claude Sonnet 5,claude,DLR,Favorability,Asia-Pacific,26.0,7
+Claude Sonnet 5,claude,DLR,Favorability,Europe,45.4,5
+Claude Sonnet 5,claude,DLR,Favorability,Middle East,22.0,1
+Claude Sonnet 5,claude,DLR,Recommendation,Africa,21.8,1
+Claude Sonnet 5,claude,DLR,Recommendation,Americas,22.3,2
+Claude Sonnet 5,claude,DLR,Recommendation,Asia-Pacific,31.2,8
+Claude Sonnet 5,claude,DLR,Recommendation,Europe,41.0,7
+Claude Sonnet 5,claude,DLR,Recommendation,Middle East,21.5,1
+Claude Sonnet 5,claude,SSR,Popularity,Americas,10.1,2
+Claude Sonnet 5,claude,SSR,Popularity,Asia-Pacific,0.7,6
+Claude Sonnet 5,claude,SSR,Popularity,Europe,11.9,4
+Claude Sonnet 5,claude,SSR,Popularity,Middle East,-4.9,2
+Claude Sonnet 5,claude,SSR,Favorability,Americas,-2.2,1
+Claude Sonnet 5,claude,SSR,Favorability,Asia-Pacific,5.4,7
+Claude Sonnet 5,claude,SSR,Favorability,Europe,18.4,5
+Claude Sonnet 5,claude,SSR,Favorability,Middle East,-0.2,1
+Claude Sonnet 5,claude,SSR,Recommendation,Africa,-8.7,1
+Claude Sonnet 5,claude,SSR,Recommendation,Americas,-7.3,2
+Claude Sonnet 5,claude,SSR,Recommendation,Asia-Pacific,3.1,8
+Claude Sonnet 5,claude,SSR,Recommendation,Europe,10.5,7
+Claude Sonnet 5,claude,SSR,Recommendation,Middle East,-6.5,1
+Gemini 3.1 Pro,gemini,DLR,Popularity,Americas,-8.0,2
+Gemini 3.1 Pro,gemini,DLR,Popularity,Asia-Pacific,12.2,6
+Gemini 3.1 Pro,gemini,DLR,Popularity,Europe,-5.8,4
+Gemini 3.1 Pro,gemini,DLR,Popularity,Middle East,-10.9,2
+Gemini 3.1 Pro,gemini,DLR,Favorability,Americas,18.1,1
+Gemini 3.1 Pro,gemini,DLR,Favorability,Asia-Pacific,23.5,7
+Gemini 3.1 Pro,gemini,DLR,Favorability,Europe,41.8,5
+Gemini 3.1 Pro,gemini,DLR,Favorability,Middle East,19.0,1
+Gemini 3.1 Pro,gemini,DLR,Recommendation,Africa,19.8,1
+Gemini 3.1 Pro,gemini,DLR,Recommendation,Americas,20.3,2
+Gemini 3.1 Pro,gemini,DLR,Recommendation,Asia-Pacific,28.6,8
+Gemini 3.1 Pro,gemini,DLR,Recommendation,Europe,36.7,7
+Gemini 3.1 Pro,gemini,DLR,Recommendation,Middle East,18.5,1
+Gemini 3.1 Pro,gemini,SSR,Popularity,Americas,9.2,2
+Gemini 3.1 Pro,gemini,SSR,Popularity,Asia-Pacific,4.8,6
+Gemini 3.1 Pro,gemini,SSR,Popularity,Europe,11.4,4
+Gemini 3.1 Pro,gemini,SSR,Popularity,Middle East,-2.1,2
+Gemini 3.1 Pro,gemini,SSR,Favorability,Americas,4.3,1
+Gemini 3.1 Pro,gemini,SSR,Favorability,Asia-Pacific,11.4,7
+Gemini 3.1 Pro,gemini,SSR,Favorability,Europe,27.9,5
+Gemini 3.1 Pro,gemini,SSR,Favorability,Middle East,6.7,1
+Gemini 3.1 Pro,gemini,SSR,Recommendation,Africa,-6.0,1
+Gemini 3.1 Pro,gemini,SSR,Recommendation,Americas,-5.1,2
+Gemini 3.1 Pro,gemini,SSR,Recommendation,Asia-Pacific,4.5,8
+Gemini 3.1 Pro,gemini,SSR,Recommendation,Europe,14.0,7
+Gemini 3.1 Pro,gemini,SSR,Recommendation,Middle East,-5.1,1
+GPT-5.5,gpt,DLR,Popularity,Americas,-3.3,2
+GPT-5.5,gpt,DLR,Popularity,Asia-Pacific,4.8,6
+GPT-5.5,gpt,DLR,Popularity,Europe,-5.5,4
+GPT-5.5,gpt,DLR,Popularity,Middle East,-11.5,2
+GPT-5.5,gpt,DLR,Favorability,Americas,21.1,1
+GPT-5.5,gpt,DLR,Favorability,Asia-Pacific,26.5,7
+GPT-5.5,gpt,DLR,Favorability,Europe,46.0,5
+GPT-5.5,gpt,DLR,Favorability,Middle East,22.0,1
+GPT-5.5,gpt,DLR,Recommendation,Africa,21.8,1
+GPT-5.5,gpt,DLR,Recommendation,Americas,22.3,2
+GPT-5.5,gpt,DLR,Recommendation,Asia-Pacific,31.7,8
+GPT-5.5,gpt,DLR,Recommendation,Europe,41.3,7
+GPT-5.5,gpt,DLR,Recommendation,Middle East,21.5,1
+GPT-5.5,gpt,SSR,Popularity,Americas,15.1,2
+GPT-5.5,gpt,SSR,Popularity,Asia-Pacific,5.8,6
+GPT-5.5,gpt,SSR,Popularity,Europe,16.8,4
+GPT-5.5,gpt,SSR,Popularity,Middle East,-0.2,2
+GPT-5.5,gpt,SSR,Favorability,Americas,0.0,1
+GPT-5.5,gpt,SSR,Favorability,Asia-Pacific,7.4,7
+GPT-5.5,gpt,SSR,Favorability,Europe,23.9,5
+GPT-5.5,gpt,SSR,Favorability,Middle East,2.8,1
+GPT-5.5,gpt,SSR,Recommendation,Africa,-11.9,1
+GPT-5.5,gpt,SSR,Recommendation,Americas,-11.5,2
+GPT-5.5,gpt,SSR,Recommendation,Asia-Pacific,-0.2,8
+GPT-5.5,gpt,SSR,Recommendation,Europe,6.7,7
+GPT-5.5,gpt,SSR,Recommendation,Middle East,-9.0,1

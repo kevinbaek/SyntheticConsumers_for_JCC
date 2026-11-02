@@ -1,0 +1,181 @@
+model,var,mode,attribute,level,n,mean_score,t2b_pct
+claude-sonnet-5,XQ5,dlr,korea_awareness,knows Korea very well,801,4.777777777777778,100.0
+claude-sonnet-5,XQ5,dlr,korea_awareness,somewhat,1719,4.069226294357184,99.82547993019197
+claude-sonnet-5,XQ5,dlr,korea_awareness,little,480,3.972916666666667,97.08333333333333
+claude-sonnet-5,XQ5,dlr,korea_awareness,"spearman(code, score)",3000,-0.6701274135854249,0.0
+claude-sonnet-5,XQ5,ssr,korea_awareness,knows Korea very well,801,4.155358682550512,84.76143523560829
+claude-sonnet-5,XQ5,ssr,korea_awareness,somewhat,1719,3.9677277814070373,74.72301741132115
+claude-sonnet-5,XQ5,ssr,korea_awareness,little,480,3.7522209885683355,64.93542279484461
+claude-sonnet-5,XQ5,ssr,korea_awareness,"spearman(code, score)",3000,-0.6754483126037865,0.0
+claude-sonnet-5,XQ6,dlr,korea_awareness,knows Korea very well,801,4.777777777777778,100.0
+claude-sonnet-5,XQ6,dlr,korea_awareness,somewhat,1719,4.069226294357184,99.82547993019197
+claude-sonnet-5,XQ6,dlr,korea_awareness,little,480,3.972916666666667,97.08333333333333
+claude-sonnet-5,XQ6,dlr,korea_awareness,"spearman(code, score)",3000,-0.6701274135854249,0.0
+claude-sonnet-5,XQ6,ssr,korea_awareness,knows Korea very well,801,3.9274055209137018,73.60286069999057
+claude-sonnet-5,XQ6,ssr,korea_awareness,somewhat,1719,3.9150288138864697,69.9843571086572
+claude-sonnet-5,XQ6,ssr,korea_awareness,little,480,3.808771987493402,65.21525219626521
+claude-sonnet-5,XQ6,ssr,korea_awareness,"spearman(code, score)",3000,-0.2793417599647038,6.681004934048776e-55
+claude-sonnet-5,XQ5,dlr,age_band,15-19,752,4.417553191489362,100.0
+claude-sonnet-5,XQ5,dlr,age_band,20-29,750,4.250666666666667,99.73333333333333
+claude-sonnet-5,XQ5,dlr,age_band,30-39,750,4.210666666666667,99.73333333333333
+claude-sonnet-5,XQ5,dlr,age_band,40-49,386,4.119170984455959,98.70466321243524
+claude-sonnet-5,XQ5,dlr,age_band,50-59,362,4.06353591160221,97.79005524861878
+claude-sonnet-5,XQ5,dlr,age_band,"spearman(code, score)",3000,-0.25770910743244724,1.0273040965435956e-46
+claude-sonnet-5,XQ5,ssr,age_band,15-19,752,4.073317805184203,80.32522355057753
+claude-sonnet-5,XQ5,ssr,age_band,20-29,750,3.98610947446125,76.10053443929647
+claude-sonnet-5,XQ5,ssr,age_band,30-39,750,3.959800008489509,74.57393299368266
+claude-sonnet-5,XQ5,ssr,age_band,40-49,386,3.9231513300937206,72.85364068067032
+claude-sonnet-5,XQ5,ssr,age_band,50-59,362,3.903671050681467,71.76755665138485
+claude-sonnet-5,XQ5,ssr,age_band,"spearman(code, score)",3000,-0.29641250821196147,6.637798305941815e-62
+claude-sonnet-5,XQ6,dlr,age_band,15-19,752,4.417553191489362,100.0
+claude-sonnet-5,XQ6,dlr,age_band,20-29,750,4.250666666666667,99.73333333333333
+claude-sonnet-5,XQ6,dlr,age_band,30-39,750,4.210666666666667,99.73333333333333
+claude-sonnet-5,XQ6,dlr,age_band,40-49,386,4.119170984455959,98.70466321243524
+claude-sonnet-5,XQ6,dlr,age_band,50-59,362,4.06353591160221,97.79005524861878
+claude-sonnet-5,XQ6,dlr,age_band,"spearman(code, score)",3000,-0.25770910743244724,1.0273040965435956e-46
+claude-sonnet-5,XQ6,ssr,age_band,15-19,752,3.915665598053301,71.69909712343299
+claude-sonnet-5,XQ6,ssr,age_band,20-29,750,3.9046222716533188,70.35025881702764
+claude-sonnet-5,XQ6,ssr,age_band,30-39,750,3.903457595431944,70.11515000145916
+claude-sonnet-5,XQ6,ssr,age_band,40-49,386,3.892714534400294,69.025891438042
+claude-sonnet-5,XQ6,ssr,age_band,50-59,362,3.8695267043950494,68.09820607433853
+claude-sonnet-5,XQ6,ssr,age_band,"spearman(code, score)",3000,-0.07063509552672535,0.00010791578252689209
+claude-sonnet-5,XQ5,dlr,sex,male,1500,4.174666666666667,98.86666666666667
+claude-sonnet-5,XQ5,dlr,sex,female,1500,4.311333333333334,100.0
+claude-sonnet-5,XQ5,ssr,sex,male,1500,3.9312143935572914,72.94675977253381
+claude-sonnet-5,XQ5,ssr,sex,female,1500,4.035473896759013,78.72775989100535
+claude-sonnet-5,XQ6,dlr,sex,male,1500,4.174666666666667,98.86666666666667
+claude-sonnet-5,XQ6,dlr,sex,female,1500,4.311333333333334,100.0
+claude-sonnet-5,XQ6,ssr,sex,male,1500,3.887775995606189,69.17706495284605
+claude-sonnet-5,XQ6,ssr,sex,female,1500,3.9148886092735107,71.19781661027494
+claude-sonnet-5,XQ5,dlr,nationality,Korean-descended,22,4.136363636363637,100.0
+claude-sonnet-5,XQ5,dlr,nationality,local,2929,4.243769204506657,99.419597132127
+claude-sonnet-5,XQ5,dlr,nationality,third-country,49,4.244897959183674,100.0
+claude-sonnet-5,XQ5,ssr,nationality,Korean-descended,22,3.934830090719259,73.37679548019712
+claude-sonnet-5,XQ5,ssr,nationality,local,2929,3.984369270849801,75.88562700689884
+claude-sonnet-5,XQ5,ssr,nationality,third-country,49,3.9438485542768884,74.0507855415851
+claude-sonnet-5,XQ6,dlr,nationality,Korean-descended,22,4.136363636363637,100.0
+claude-sonnet-5,XQ6,dlr,nationality,local,2929,4.243769204506657,99.419597132127
+claude-sonnet-5,XQ6,dlr,nationality,third-country,49,4.244897959183674,100.0
+claude-sonnet-5,XQ6,ssr,nationality,Korean-descended,22,3.896995770019174,69.18400729244406
+claude-sonnet-5,XQ6,ssr,nationality,local,2929,3.9013419859694762,70.18038463211678
+claude-sonnet-5,XQ6,ssr,nationality,third-country,49,3.902700479072108,71.05974687301384
+gpt-5.5,XQ5,dlr,korea_awareness,knows Korea very well,801,4.98876404494382,100.0
+gpt-5.5,XQ5,dlr,korea_awareness,somewhat,1719,4.0826061663757995,100.0
+gpt-5.5,XQ5,dlr,korea_awareness,little,480,3.9875,98.75
+gpt-5.5,XQ5,dlr,korea_awareness,"spearman(code, score)",3000,-0.7952530619279584,0.0
+gpt-5.5,XQ5,ssr,korea_awareness,knows Korea very well,801,4.16818852491224,85.42900788712093
+gpt-5.5,XQ5,ssr,korea_awareness,somewhat,1719,4.036838466441756,78.88164261949436
+gpt-5.5,XQ5,ssr,korea_awareness,little,480,3.8559577031151444,69.78225235216375
+gpt-5.5,XQ5,ssr,korea_awareness,"spearman(code, score)",3000,-0.7365628944322912,0.0
+gpt-5.5,XQ6,dlr,korea_awareness,knows Korea very well,801,4.905118601747815,100.0
+gpt-5.5,XQ6,dlr,korea_awareness,somewhat,1719,4.01977894124491,100.0
+gpt-5.5,XQ6,dlr,korea_awareness,little,480,3.9854166666666666,98.54166666666667
+gpt-5.5,XQ6,dlr,korea_awareness,"spearman(code, score)",3000,-0.7912582664920673,0.0
+gpt-5.5,XQ6,ssr,korea_awareness,knows Korea very well,801,3.9194742762072545,69.97769096268622
+gpt-5.5,XQ6,ssr,korea_awareness,somewhat,1719,3.869720387331261,66.16522842685092
+gpt-5.5,XQ6,ssr,korea_awareness,little,480,3.8125178492752307,62.72462851058125
+gpt-5.5,XQ6,ssr,korea_awareness,"spearman(code, score)",3000,-0.3510395992884594,1.0084052940530525e-87
+gpt-5.5,XQ5,dlr,age_band,15-19,752,4.452127659574468,100.0
+gpt-5.5,XQ5,dlr,age_band,20-29,750,4.272,100.0
+gpt-5.5,XQ5,dlr,age_band,30-39,750,4.265333333333333,99.86666666666667
+gpt-5.5,XQ5,dlr,age_band,40-49,386,4.261658031088083,99.48186528497409
+gpt-5.5,XQ5,dlr,age_band,50-59,362,4.232044198895028,99.17127071823204
+gpt-5.5,XQ5,dlr,age_band,"spearman(code, score)",3000,-0.14874101965866907,2.6323797898765597e-16
+gpt-5.5,XQ5,ssr,age_band,15-19,752,4.03106215388986,79.78916525137365
+gpt-5.5,XQ5,ssr,age_band,20-29,750,4.0615978733137235,79.93012497979781
+gpt-5.5,XQ5,ssr,age_band,30-39,750,4.04807072031464,78.96120590849056
+gpt-5.5,XQ5,ssr,age_band,40-49,386,4.038333190781889,78.31265923586514
+gpt-5.5,XQ5,ssr,age_band,50-59,362,4.023473019820708,77.68790941779034
+gpt-5.5,XQ5,ssr,age_band,"spearman(code, score)",3000,-0.030318519782804445,0.09685344810348852
+gpt-5.5,XQ6,dlr,age_band,15-19,752,4.32845744680851,100.0
+gpt-5.5,XQ6,dlr,age_band,20-29,750,4.246666666666667,100.0
+gpt-5.5,XQ6,dlr,age_band,30-39,750,4.246666666666667,99.73333333333333
+gpt-5.5,XQ6,dlr,age_band,40-49,386,4.22020725388601,99.48186528497409
+gpt-5.5,XQ6,dlr,age_band,50-59,362,4.138121546961326,99.17127071823204
+gpt-5.5,XQ6,dlr,age_band,"spearman(code, score)",3000,-0.11652103833868781,1.540843131961837e-10
+gpt-5.5,XQ6,ssr,age_band,15-19,752,3.894330551618609,68.65660580038589
+gpt-5.5,XQ6,ssr,age_band,20-29,750,3.8853656954938587,67.46320815210582
+gpt-5.5,XQ6,ssr,age_band,30-39,750,3.8673664613304912,65.92679441906722
+gpt-5.5,XQ6,ssr,age_band,40-49,386,3.8539470910191134,64.81203890736703
+gpt-5.5,XQ6,ssr,age_band,50-59,362,3.8421202738887446,64.11122459512086
+gpt-5.5,XQ6,ssr,age_band,"spearman(code, score)",3000,-0.1822132231121646,8.26607686745212e-24
+gpt-5.5,XQ5,dlr,sex,male,1500,4.267333333333333,99.6
+gpt-5.5,XQ5,dlr,sex,female,1500,4.351333333333334,100.0
+gpt-5.5,XQ5,ssr,sex,male,1500,4.0134959423175385,77.46028711416093
+gpt-5.5,XQ5,ssr,sex,female,1500,4.072440077524696,80.88748629219461
+gpt-5.5,XQ6,dlr,sex,male,1500,4.229333333333333,99.53333333333333
+gpt-5.5,XQ6,dlr,sex,female,1500,4.272,100.0
+gpt-5.5,XQ6,ssr,sex,male,1500,3.863348581712436,65.71871883533561
+gpt-5.5,XQ6,ssr,sex,female,1500,3.884355957431937,67.54660103929598
+gpt-5.5,XQ5,dlr,nationality,Korean-descended,22,4.2272727272727275,100.0
+gpt-5.5,XQ5,dlr,nationality,local,2929,4.310003414134517,99.795151928986
+gpt-5.5,XQ5,dlr,nationality,third-country,49,4.3061224489795915,100.0
+gpt-5.5,XQ5,ssr,nationality,Korean-descended,22,3.967977739991699,75.38072843895468
+gpt-5.5,XQ5,ssr,nationality,local,2929,4.0433431206794115,79.19914338515092
+gpt-5.5,XQ5,ssr,nationality,third-country,49,4.054214673745721,79.36720630141343
+gpt-5.5,XQ6,dlr,nationality,Korean-descended,22,4.090909090909091,100.0
+gpt-5.5,XQ6,dlr,nationality,local,2929,4.251280300443837,99.761010583817
+gpt-5.5,XQ6,dlr,nationality,third-country,49,4.285714285714286,100.0
+gpt-5.5,XQ6,ssr,nationality,Korean-descended,22,3.8516656288471363,64.27912549539046
+gpt-5.5,XQ6,ssr,nationality,local,2929,3.873436185724792,66.60537846493128
+gpt-5.5,XQ6,ssr,nationality,third-country,49,3.90868524273483,69.320112801328
+gemini-3.1-pro,XQ5,dlr,korea_awareness,knows Korea very well,801,4.9350811485642945,100.0
+gemini-3.1-pro,XQ5,dlr,korea_awareness,somewhat,1719,4.0849331006399066,99.7673065735893
+gemini-3.1-pro,XQ5,dlr,korea_awareness,little,480,3.8229166666666665,82.29166666666666
+gemini-3.1-pro,XQ5,dlr,korea_awareness,"spearman(code, score)",3000,-0.7797889752849018,0.0
+gemini-3.1-pro,XQ5,ssr,korea_awareness,knows Korea very well,801,4.244145783943681,89.21087234158144
+gemini-3.1-pro,XQ5,ssr,korea_awareness,somewhat,1719,4.127969780795528,83.66286042533758
+gemini-3.1-pro,XQ5,ssr,korea_awareness,little,480,3.938011700052793,73.74489119454051
+gemini-3.1-pro,XQ5,ssr,korea_awareness,"spearman(code, score)",3000,-0.5663208880611391,4.486802775840626e-254
+gemini-3.1-pro,XQ6,dlr,korea_awareness,knows Korea very well,801,4.915106117353308,100.0
+gemini-3.1-pro,XQ6,dlr,korea_awareness,somewhat,1719,4.0826061663757995,99.53461314717859
+gemini-3.1-pro,XQ6,dlr,korea_awareness,little,480,3.8208333333333333,82.08333333333333
+gemini-3.1-pro,XQ6,dlr,korea_awareness,"spearman(code, score)",3000,-0.7667531108080031,0.0
+gemini-3.1-pro,XQ6,ssr,korea_awareness,knows Korea very well,801,3.91792247419504,73.39233398756126
+gemini-3.1-pro,XQ6,ssr,korea_awareness,somewhat,1719,3.89816332124077,72.37717081041494
+gemini-3.1-pro,XQ6,ssr,korea_awareness,little,480,3.895153827823299,70.67938433387705
+gemini-3.1-pro,XQ6,ssr,korea_awareness,"spearman(code, score)",3000,-0.029453248127238454,0.10676657678799709
+gemini-3.1-pro,XQ5,dlr,age_band,15-19,752,4.441489361702128,98.00531914893617
+gemini-3.1-pro,XQ5,dlr,age_band,20-29,750,4.254666666666667,98.4
+gemini-3.1-pro,XQ5,dlr,age_band,30-39,750,4.226666666666667,97.6
+gemini-3.1-pro,XQ5,dlr,age_band,40-49,386,4.186528497409326,94.81865284974094
+gemini-3.1-pro,XQ5,dlr,age_band,50-59,362,4.124309392265193,93.37016574585635
+gemini-3.1-pro,XQ5,dlr,age_band,"spearman(code, score)",3000,-0.19684291071875765,1.3787443928080342e-27
+gemini-3.1-pro,XQ5,ssr,age_band,15-19,752,4.113345494156307,83.71376119629399
+gemini-3.1-pro,XQ5,ssr,age_band,20-29,750,4.1388721021816,84.29839984694986
+gemini-3.1-pro,XQ5,ssr,age_band,30-39,750,4.144691557152201,84.01938093362621
+gemini-3.1-pro,XQ5,ssr,age_band,40-49,386,4.121565389102731,82.33411032063194
+gemini-3.1-pro,XQ5,ssr,age_band,50-59,362,4.113131618376228,82.04382044566975
+gemini-3.1-pro,XQ5,ssr,age_band,"spearman(code, score)",3000,0.03164411114729405,0.08310793499518009
+gemini-3.1-pro,XQ6,dlr,age_band,15-19,752,4.4375,97.73936170212765
+gemini-3.1-pro,XQ6,dlr,age_band,20-29,750,4.250666666666667,98.4
+gemini-3.1-pro,XQ6,dlr,age_band,30-39,750,4.218666666666667,97.6
+gemini-3.1-pro,XQ6,dlr,age_band,40-49,386,4.170984455958549,94.30051813471503
+gemini-3.1-pro,XQ6,dlr,age_band,50-59,362,4.116022099447513,93.0939226519337
+gemini-3.1-pro,XQ6,dlr,age_band,"spearman(code, score)",3000,-0.20301521560904934,2.8356927559093396e-29
+gemini-3.1-pro,XQ6,ssr,age_band,15-19,752,3.91278681912132,72.24465833699449
+gemini-3.1-pro,XQ6,ssr,age_band,20-29,750,3.8881507244004134,72.11935083568096
+gemini-3.1-pro,XQ6,ssr,age_band,30-39,750,3.895691276791879,72.44290354006662
+gemini-3.1-pro,XQ6,ssr,age_band,40-49,386,3.914805389722395,72.74409802389364
+gemini-3.1-pro,XQ6,ssr,age_band,50-59,362,3.9156365168287217,72.65421253852855
+gemini-3.1-pro,XQ6,ssr,age_band,"spearman(code, score)",3000,0.04493755330639268,0.013833854534428165
+gemini-3.1-pro,XQ5,dlr,sex,male,1500,4.1866666666666665,94.39999999999999
+gemini-3.1-pro,XQ5,dlr,sex,female,1500,4.3533333333333335,99.66666666666667
+gemini-3.1-pro,XQ5,ssr,sex,male,1500,4.092756368220375,81.11054037096255
+gemini-3.1-pro,XQ5,ssr,sex,female,1500,4.16443459321412,86.00406868913178
+gemini-3.1-pro,XQ6,dlr,sex,male,1500,4.174,94.13333333333334
+gemini-3.1-pro,XQ6,dlr,sex,female,1500,4.352,99.6
+gemini-3.1-pro,XQ6,ssr,sex,male,1500,3.9272412810075665,72.96442888166469
+gemini-3.1-pro,XQ6,ssr,sex,female,1500,3.8786737112579623,71.78871820326918
+gemini-3.1-pro,XQ5,dlr,nationality,Korean-descended,22,4.181818181818182,100.0
+gemini-3.1-pro,XQ5,dlr,nationality,local,2929,4.270740867190168,97.02970297029702
+gemini-3.1-pro,XQ5,dlr,nationality,third-country,49,4.26530612244898,95.91836734693877
+gemini-3.1-pro,XQ5,ssr,nationality,Korean-descended,22,4.171483027140497,84.73403135483913
+gemini-3.1-pro,XQ5,ssr,nationality,local,2929,4.128355183007968,83.5604013533363
+gemini-3.1-pro,XQ5,ssr,nationality,third-country,49,4.123703765802315,82.84386400842949
+gemini-3.1-pro,XQ6,dlr,nationality,Korean-descended,22,4.181818181818182,100.0
+gemini-3.1-pro,XQ6,dlr,nationality,local,2929,4.2639125981563675,96.85899624445203
+gemini-3.1-pro,XQ6,dlr,nationality,third-country,49,4.244897959183674,95.91836734693877
+gemini-3.1-pro,XQ6,ssr,nationality,Korean-descended,22,3.9412518930991776,73.18169515241276
+gemini-3.1-pro,XQ6,ssr,nationality,local,2929,3.902445934139884,72.34144372694358
+gemini-3.1-pro,XQ6,ssr,nationality,third-country,49,3.9163429725385943,74.11499301693878

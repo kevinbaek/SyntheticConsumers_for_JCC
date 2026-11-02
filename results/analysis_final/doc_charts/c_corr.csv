@@ -1,0 +1,61 @@
+analysis,pair,source,model,n,rho,p
+item coherence,XQ5~XQ6,human (listed countries),-,12,0.86,0.0004
+item coherence,XQ5~XQ6,Twins DLR (30 countries),Claude Sonnet 5,30,1.0,0.0
+item coherence,XQ5~XQ6,Twins DLR (same countries as human),Claude Sonnet 5,12,1.0,0.0
+item coherence,XQ5~XQ6,Twins SSR (30 countries),Claude Sonnet 5,30,0.87,0.0
+item coherence,XQ5~XQ6,Twins SSR (same countries as human),Claude Sonnet 5,12,0.88,0.0002
+item coherence,XQ5~XQ6,Twins DLR (30 countries),Gemini 3.1 Pro,30,0.99,0.0
+item coherence,XQ5~XQ6,Twins DLR (same countries as human),Gemini 3.1 Pro,12,1.0,0.0
+item coherence,XQ5~XQ6,Twins SSR (30 countries),Gemini 3.1 Pro,30,0.07,0.7024
+item coherence,XQ5~XQ6,Twins SSR (same countries as human),Gemini 3.1 Pro,12,0.52,0.08
+item coherence,XQ5~XQ6,Twins DLR (30 countries),GPT-5.5,30,0.9,0.0
+item coherence,XQ5~XQ6,Twins DLR (same countries as human),GPT-5.5,12,0.82,0.0012
+item coherence,XQ5~XQ6,Twins SSR (30 countries),GPT-5.5,30,0.83,0.0
+item coherence,XQ5~XQ6,Twins SSR (same countries as human),GPT-5.5,12,0.94,0.0
+item coherence,XQ5~POPMEAN,human (listed countries),-,10,0.83,0.0032
+item coherence,XQ5~POPMEAN,Twins DLR (30 countries),Claude Sonnet 5,30,0.18,0.3515
+item coherence,XQ5~POPMEAN,Twins DLR (same countries as human),Claude Sonnet 5,10,0.46,0.1818
+item coherence,XQ5~POPMEAN,Twins SSR (30 countries),Claude Sonnet 5,30,0.6,0.0005
+item coherence,XQ5~POPMEAN,Twins SSR (same countries as human),Claude Sonnet 5,10,0.76,0.0111
+item coherence,XQ5~POPMEAN,Twins DLR (30 countries),Gemini 3.1 Pro,30,0.15,0.4287
+item coherence,XQ5~POPMEAN,Twins DLR (same countries as human),Gemini 3.1 Pro,10,0.49,0.1538
+item coherence,XQ5~POPMEAN,Twins SSR (30 countries),Gemini 3.1 Pro,30,0.71,0.0
+item coherence,XQ5~POPMEAN,Twins SSR (same countries as human),Gemini 3.1 Pro,10,0.78,0.0075
+item coherence,XQ5~POPMEAN,Twins DLR (30 countries),GPT-5.5,30,0.26,0.1577
+item coherence,XQ5~POPMEAN,Twins DLR (same countries as human),GPT-5.5,10,0.61,0.0615
+item coherence,XQ5~POPMEAN,Twins SSR (30 countries),GPT-5.5,30,0.52,0.003
+item coherence,XQ5~POPMEAN,Twins SSR (same countries as human),GPT-5.5,10,0.79,0.0061
+item coherence,XQ6~POPMEAN,human (listed countries),-,10,0.82,0.0038
+item coherence,XQ6~POPMEAN,Twins DLR (30 countries),Claude Sonnet 5,30,0.18,0.3515
+item coherence,XQ6~POPMEAN,Twins DLR (same countries as human),Claude Sonnet 5,10,0.46,0.1818
+item coherence,XQ6~POPMEAN,Twins SSR (30 countries),Claude Sonnet 5,30,0.72,0.0
+item coherence,XQ6~POPMEAN,Twins SSR (same countries as human),Claude Sonnet 5,10,0.79,0.0061
+item coherence,XQ6~POPMEAN,Twins DLR (30 countries),Gemini 3.1 Pro,30,0.16,0.41
+item coherence,XQ6~POPMEAN,Twins DLR (same countries as human),Gemini 3.1 Pro,10,0.53,0.1125
+item coherence,XQ6~POPMEAN,Twins SSR (30 countries),Gemini 3.1 Pro,30,-0.04,0.8382
+item coherence,XQ6~POPMEAN,Twins SSR (same countries as human),Gemini 3.1 Pro,10,0.16,0.6515
+item coherence,XQ6~POPMEAN,Twins DLR (30 countries),GPT-5.5,30,0.36,0.0504
+item coherence,XQ6~POPMEAN,Twins DLR (same countries as human),GPT-5.5,10,0.8,0.0057
+item coherence,XQ6~POPMEAN,Twins SSR (30 countries),GPT-5.5,30,0.69,0.0
+item coherence,XQ6~POPMEAN,Twins SSR (same countries as human),GPT-5.5,10,0.85,0.0016
+inter-model agreement,Claude Sonnet 5 ~ Gemini 3.1 Pro,"Twins SSR, Favorability",-,30,0.85,0.0
+inter-model agreement,Claude Sonnet 5 ~ GPT-5.5,"Twins SSR, Favorability",-,30,0.84,0.0
+inter-model agreement,Gemini 3.1 Pro ~ GPT-5.5,"Twins SSR, Favorability",-,30,0.79,0.0
+inter-model agreement,Claude Sonnet 5 ~ Gemini 3.1 Pro,"Twins DLR, Favorability",-,30,0.6,0.0005
+inter-model agreement,Claude Sonnet 5 ~ GPT-5.5,"Twins DLR, Favorability",-,30,0.26,0.1642
+inter-model agreement,Gemini 3.1 Pro ~ GPT-5.5,"Twins DLR, Favorability",-,30,0.4,0.0284
+inter-model agreement,Claude Sonnet 5 ~ Gemini 3.1 Pro,"Twins SSR, Recommendation",-,30,0.16,0.4038
+inter-model agreement,Claude Sonnet 5 ~ GPT-5.5,"Twins SSR, Recommendation",-,30,0.87,0.0
+inter-model agreement,Gemini 3.1 Pro ~ GPT-5.5,"Twins SSR, Recommendation",-,30,0.06,0.7605
+inter-model agreement,Claude Sonnet 5 ~ Gemini 3.1 Pro,"Twins DLR, Recommendation",-,30,0.59,0.0006
+inter-model agreement,Claude Sonnet 5 ~ GPT-5.5,"Twins DLR, Recommendation",-,30,0.38,0.0377
+inter-model agreement,Gemini 3.1 Pro ~ GPT-5.5,"Twins DLR, Recommendation",-,30,0.49,0.0056
+inter-model agreement,Claude Sonnet 5 ~ Gemini 3.1 Pro,"Twins SSR, Popularity",-,30,0.92,0.0
+inter-model agreement,Claude Sonnet 5 ~ GPT-5.5,"Twins SSR, Popularity",-,30,0.96,0.0
+inter-model agreement,Gemini 3.1 Pro ~ GPT-5.5,"Twins SSR, Popularity",-,30,0.95,0.0
+inter-model agreement,Claude Sonnet 5 ~ Gemini 3.1 Pro,"Twins DLR, Popularity",-,30,0.92,0.0
+inter-model agreement,Claude Sonnet 5 ~ GPT-5.5,"Twins DLR, Popularity",-,30,0.92,0.0
+inter-model agreement,Gemini 3.1 Pro ~ GPT-5.5,"Twins DLR, Popularity",-,30,0.96,0.0
+DLR-SSR agreement within twin,median over 15 items,"same twin, same item",Claude Sonnet 5,3000,0.3,
+DLR-SSR agreement within twin,median over 15 items,"same twin, same item",Gemini 3.1 Pro,3000,0.44,
+DLR-SSR agreement within twin,median over 15 items,"same twin, same item",GPT-5.5,3000,0.46,

@@ -1,0 +1,156 @@
+var,anchor_set,anchor_point,anchor_text,t2b_if_given_as_answer,expected_score
+XQ5,1,1,I really dislike the Korean cultural content I have experienced; it does not appeal to me at all.,0.04525213906175869,1.7864417396601777
+XQ5,1,2,I don't like the Korean cultural content I have experienced much; it is mostly not to my taste.,0.064439373714616,1.9718123252336686
+XQ5,1,3,The Korean cultural content I have experienced is okay; I neither like nor dislike it.,0.18106544825115628,2.7767552193379754
+XQ5,1,4,I like the Korean cultural content I have experienced; I enjoy it.,0.8329485654830933,4.093327713205335
+XQ5,1,5,I love the Korean cultural content I have experienced; I like it very much.,0.8926560282707214,4.255717304230083
+XQ5,2,1,The Korean cultural content I have experienced is not for me at all.,0.03138841782097211,1.8264398146568763
+XQ5,2,2,The Korean cultural content I have experienced is not really my thing.,0.050756237279741594,1.9690579230483927
+XQ5,2,3,"The Korean cultural content I have experienced is so-so for me, just average.",0.09290983404432089,2.5279444456455282
+XQ5,2,4,"The Korean cultural content I have experienced is good, I quite like it.",0.7649073898792267,4.015661930047139
+XQ5,2,5,"The Korean cultural content I have experienced is excellent, I am a big fan.",0.8956904808680216,4.378802026315452
+XQ5,3,1,I have a very negative opinion of the Korean cultural content I have experienced.,0.0432271792896911,1.7776158178998738
+XQ5,3,2,I have a somewhat negative opinion of the Korean cultural content I have experienced.,0.08844272295946691,1.996431720769148
+XQ5,3,3,I have a neutral opinion of the Korean cultural content I have experienced.,0.14079089463168015,2.5440619265245217
+XQ5,3,4,I have a positive opinion of the Korean cultural content I have experienced.,0.8313546379407247,4.129528775815313
+XQ5,3,5,I have a very positive opinion of the Korean cultural content I have experienced.,0.8806958198547363,4.246593460447064
+XQ6,1,1,I would never recommend the Korean cultural content I used recently to anyone.,0.02994586248327638,1.7134463498534107
+XQ6,1,2,I would not recommend the Korean cultural content I used recently to people I know.,0.23380175232996253,2.3592258580168726
+XQ6,1,3,"I am not sure whether I would recommend the Korean cultural content I used recently; maybe, maybe not.",0.029553834353130578,2.579953240249364
+XQ6,1,4,I would recommend the Korean cultural content I used recently to people I know.,0.6746604144573212,3.6769489459739964
+XQ6,1,5,I would definitely recommend the Korean cultural content I used recently; I already tell everyone about it.,0.7929646968841553,4.153295563539996
+XQ6,2,1,Recommending the Korean cultural content I used recently is out of the question for me.,0.0759350340852709,1.749432418515072
+XQ6,2,2,I probably wouldn't suggest the Korean cultural content I used recently to my friends.,0.29832943529035577,2.610196143397294
+XQ6,2,3,It depends on the person whether I'd suggest the Korean cultural content I used recently.,0.4405030980706215,3.5004544165028237
+XQ6,2,4,I'd suggest the Korean cultural content I used recently to my friends.,0.6934558749198914,3.695795472716048
+XQ6,2,5,I'd strongly urge my friends to try the Korean cultural content I used recently.,0.7209797650575638,3.8406630344747494
+XQ1_1,1,1,Almost nobody in my country uses Korean TV dramas.,0.04629946523574355,1.6542431463113125
+XQ1_1,1,2,Korean TV dramas is popular only among a small group of enthusiasts in my country.,0.08982398431078774,2.2537083325546705
+XQ1_1,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean TV dramas.",0.2648339420557022,3.1793730035465493
+XQ1_1,1,4,Korean TV dramas is widely known among ordinary people in my country and related products are sold.,0.7210884243249893,3.9496418684739547
+XQ1_1,1,5,Korean TV dramas is hugely popular with ordinary people in my country and related products sell very well.,0.7719842493534088,4.110935505481761
+XQ1_1,2,1,Hardly anyone here has heard of Korean TV dramas.,0.05648774886728245,1.7429017280329353
+XQ1_1,2,2,Only some fans here follow Korean TV dramas.,0.03291149996425388,2.0926805138690114
+XQ1_1,2,3,"A fair number of ordinary people here know Korean TV dramas, not just fans.",0.2108550826087594,3.2352072109963412
+XQ1_1,2,4,"Most people here know Korean TV dramas, and you see related products in shops.",0.7587905824184418,3.9723434690407498
+XQ1_1,2,5,Korean TV dramas is mainstream here; everyone knows it and related products sell well.,0.7418444752693176,4.01045583188715
+XQ1_2,1,1,Almost nobody in my country uses Korean variety shows.,0.0399233275120232,1.5708116721481165
+XQ1_2,1,2,Korean variety shows is popular only among a small group of enthusiasts in my country.,0.07695759227756648,2.1858574072933292
+XQ1_2,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean variety shows.",0.2962041664868593,3.1819089744273192
+XQ1_2,1,4,Korean variety shows is widely known among ordinary people in my country and related products are sold.,0.7317468076944351,3.9569002203661103
+XQ1_2,1,5,Korean variety shows is hugely popular with ordinary people in my country and related products sell very well.,0.7746796160936356,4.096374671908236
+XQ1_2,2,1,Hardly anyone here has heard of Korean variety shows.,0.06519674230585165,1.7629199959446822
+XQ1_2,2,2,Only some fans here follow Korean variety shows.,0.044393036516358925,2.099364995965612
+XQ1_2,2,3,"A fair number of ordinary people here know Korean variety shows, not just fans.",0.2582088205963373,3.259632878009498
+XQ1_2,2,4,"Most people here know Korean variety shows, and you see related products in shops.",0.7423074394464493,3.9273709869040405
+XQ1_2,2,5,Korean variety shows is mainstream here; everyone knows it and related products sell well.,0.7560053616762161,4.037965796889621
+XQ1_3,1,1,Almost nobody in my country uses Korean movies.,0.025634951426411222,1.538283018406578
+XQ1_3,1,2,Korean movies is popular only among a small group of enthusiasts in my country.,0.07981123659084638,2.236233158979885
+XQ1_3,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean movies.",0.23431754671037197,3.1051537450444924
+XQ1_3,1,4,Korean movies is widely known among ordinary people in my country and related products are sold.,0.726759597659111,3.960899416359099
+XQ1_3,1,5,Korean movies is hugely popular with ordinary people in my country and related products sell very well.,0.7814015597105026,4.139866597952555
+XQ1_3,2,1,Hardly anyone here has heard of Korean movies.,0.07183510624066304,1.8083680570222591
+XQ1_3,2,2,Only some fans here follow Korean movies.,0.04423878900886374,2.1147174015731016
+XQ1_3,2,3,"A fair number of ordinary people here know Korean movies, not just fans.",0.221393827350544,3.2084327135326216
+XQ1_3,2,4,"Most people here know Korean movies, and you see related products in shops.",0.7595374882221222,3.9675393337415104
+XQ1_3,2,5,Korean movies is mainstream here; everyone knows it and related products sell well.,0.7612829655408859,4.061187122018957
+XQ1_4,1,1,Almost nobody in my country uses Korean music (K-pop).,0.03252687584866082,1.5273313578331462
+XQ1_4,1,2,Korean music (K-pop) is popular only among a small group of enthusiasts in my country.,0.07710457220931062,2.14371753485162
+XQ1_4,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean music (K-pop).",0.2696274109184742,3.19968349859561
+XQ1_4,1,4,Korean music (K-pop) is widely known among ordinary people in my country and related products are sold.,0.7168030142784119,3.946411132814462
+XQ1_4,1,5,Korean music (K-pop) is hugely popular with ordinary people in my country and related products sell very well.,0.7725298553705215,4.122372318061398
+XQ1_4,2,1,Hardly anyone here has heard of Korean music (K-pop).,0.07787791360382086,1.7855214662956123
+XQ1_4,2,2,Only some fans here follow Korean music (K-pop).,0.06995806284432651,2.1776214465590837
+XQ1_4,2,3,"A fair number of ordinary people here know Korean music (K-pop), not just fans.",0.24952799966558814,3.2823800961514156
+XQ1_4,2,4,"Most people here know Korean music (K-pop), and you see related products in shops.",0.7593952715396881,3.9675860442245168
+XQ1_4,2,5,Korean music (K-pop) is mainstream here; everyone knows it and related products sell well.,0.7511635720729828,4.043680455537553
+XQ1_5,1,1,Almost nobody in my country uses Korean animation.,0.05299393181032356,1.6008944213511878
+XQ1_5,1,2,Korean animation is popular only among a small group of enthusiasts in my country.,0.07219997258213495,2.1887925090398186
+XQ1_5,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean animation.",0.28472981974482536,3.2057863324926394
+XQ1_5,1,4,Korean animation is widely known among ordinary people in my country and related products are sold.,0.7223306000232697,3.954530403020096
+XQ1_5,1,5,Korean animation is hugely popular with ordinary people in my country and related products sell very well.,0.7770629525184631,4.1337938401872165
+XQ1_5,2,1,Hardly anyone here has heard of Korean animation.,0.05813281968821785,1.7368657508750454
+XQ1_5,2,2,Only some fans here follow Korean animation.,0.04267655685759483,2.128351174305722
+XQ1_5,2,3,"A fair number of ordinary people here know Korean animation, not just fans.",0.23029526882058143,3.2438073890619243
+XQ1_5,2,4,"Most people here know Korean animation, and you see related products in shops.",0.7516628950834274,3.963950563224516
+XQ1_5,2,5,Korean animation is mainstream here; everyone knows it and related products sell well.,0.7584983855485916,4.054820902647611
+XQ1_6,1,1,Almost nobody in my country uses Korean books and e-books.,0.03777570929677275,1.4837052934004045
+XQ1_6,1,2,Korean books and e-books is popular only among a small group of enthusiasts in my country.,0.07259008335297497,2.161399679738042
+XQ1_6,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean books and e-books.",0.3082732707262039,3.2244940400165554
+XQ1_6,1,4,Korean books and e-books is widely known among ordinary people in my country and related products are sold.,0.6967010200023651,3.86791621148799
+XQ1_6,1,5,Korean books and e-books is hugely popular with ordinary people in my country and related products sell very well.,0.755016416311264,4.05242329463613
+XQ1_6,2,1,Hardly anyone here has heard of Korean books and e-books.,0.08220714703469065,1.7375915609433545
+XQ1_6,2,2,Only some fans here follow Korean books and e-books.,0.04957373440478154,2.1358226016270074
+XQ1_6,2,3,"A fair number of ordinary people here know Korean books and e-books, not just fans.",0.2548801824450493,3.262156176851038
+XQ1_6,2,4,"Most people here know Korean books and e-books, and you see related products in shops.",0.7110190093517303,3.8459083586956124
+XQ1_6,2,5,Korean books and e-books is mainstream here; everyone knows it and related products sell well.,0.7158099859952927,3.946702115239704
+XQ1_7,1,1,Almost nobody in my country uses Korean webtoons.,0.019085369541149,1.5418260037083211
+XQ1_7,1,2,Korean webtoons is popular only among a small group of enthusiasts in my country.,0.07179787848436482,2.151844307793214
+XQ1_7,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean webtoons.",0.24777705036103725,3.113409684975638
+XQ1_7,1,4,Korean webtoons is widely known among ordinary people in my country and related products are sold.,0.7274029701948166,3.967900797726771
+XQ1_7,1,5,Korean webtoons is hugely popular with ordinary people in my country and related products sell very well.,0.7723115533590317,4.1130792833886956
+XQ1_7,2,1,Hardly anyone here has heard of Korean webtoons.,0.07647241838486078,1.8274499327049196
+XQ1_7,2,2,Only some fans here follow Korean webtoons.,0.06268799677675618,2.1242843940946288
+XQ1_7,2,3,"A fair number of ordinary people here know Korean webtoons, not just fans.",0.23467507213521666,3.217305872598969
+XQ1_7,2,4,"Most people here know Korean webtoons, and you see related products in shops.",0.7580078393220901,3.9737755376869828
+XQ1_7,2,5,Korean webtoons is mainstream here; everyone knows it and related products sell well.,0.7638952285051346,4.063473328949984
+XQ1_8,1,1,Almost nobody in my country uses Korean games.,0.010311349181849616,1.3738941191833292
+XQ1_8,1,2,Korean games is popular only among a small group of enthusiasts in my country.,0.09528763220046003,2.281223839162153
+XQ1_8,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean games.",0.29164669290184975,3.176855232570455
+XQ1_8,1,4,Korean games is widely known among ordinary people in my country and related products are sold.,0.7013713270425797,3.893259372563935
+XQ1_8,1,5,Korean games is hugely popular with ordinary people in my country and related products sell very well.,0.749251663684845,4.0499343164285575
+XQ1_8,2,1,Hardly anyone here has heard of Korean games.,0.08293800428735666,1.8051088266187634
+XQ1_8,2,2,Only some fans here follow Korean games.,0.03788311034641512,2.161101363609326
+XQ1_8,2,3,"A fair number of ordinary people here know Korean games, not just fans.",0.25145826488888734,3.235215719099439
+XQ1_8,2,4,"Most people here know Korean games, and you see related products in shops.",0.7086317986249924,3.853258062156164
+XQ1_8,2,5,Korean games is mainstream here; everyone knows it and related products sell well.,0.7304159104824066,3.978424578906842
+XQ1_9,1,1,Almost nobody in my country uses Korean fashion.,0.0057862242717774265,1.3117372512509384
+XQ1_9,1,2,Korean fashion is popular only among a small group of enthusiasts in my country.,0.04950753861695532,2.07706799289858
+XQ1_9,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean fashion.",0.3145078085362911,3.2820975109980077
+XQ1_9,1,4,Korean fashion is widely known among ordinary people in my country and related products are sold.,0.7016054391860962,3.9175017960391263
+XQ1_9,1,5,Korean fashion is hugely popular with ordinary people in my country and related products sell very well.,0.753128319978714,4.0848997570598975
+XQ1_9,2,1,Hardly anyone here has heard of Korean fashion.,0.08222206309668284,1.7759647891040673
+XQ1_9,2,2,Only some fans here follow Korean fashion.,0.0618442297001759,2.1804026588897307
+XQ1_9,2,3,"A fair number of ordinary people here know Korean fashion, not just fans.",0.29477611277252436,3.2994590299228284
+XQ1_9,2,4,"Most people here know Korean fashion, and you see related products in shops.",0.7104724049568176,3.865911446514385
+XQ1_9,2,5,Korean fashion is mainstream here; everyone knows it and related products sell well.,0.7361624389886856,4.014311775567204
+XQ1_10,1,1,Almost nobody in my country uses Korean beauty products.,0.0284564165376238,1.3340046316332275
+XQ1_10,1,2,Korean beauty products is popular only among a small group of enthusiasts in my country.,0.05072871596080567,2.064409110713502
+XQ1_10,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean beauty products.",0.3737580105662346,3.344213001434018
+XQ1_10,1,4,Korean beauty products is widely known among ordinary people in my country and related products are sold.,0.6830465495586395,3.872901491823129
+XQ1_10,1,5,Korean beauty products is hugely popular with ordinary people in my country and related products sell very well.,0.7433739453554153,4.062532491984743
+XQ1_10,2,1,Hardly anyone here has heard of Korean beauty products.,0.11251908913524009,1.8474682755902934
+XQ1_10,2,2,Only some fans here follow Korean beauty products.,0.06394456327206176,2.19128339738877
+XQ1_10,2,3,"A fair number of ordinary people here know Korean beauty products, not just fans.",0.32345939241349697,3.359414470852134
+XQ1_10,2,4,"Most people here know Korean beauty products, and you see related products in shops.",0.6717315912246704,3.774236548694909
+XQ1_10,2,5,Korean beauty products is mainstream here; everyone knows it and related products sell well.,0.7123277485370636,3.966254562141682
+XQ1_11,1,1,Almost nobody in my country uses Korean food.,0.00947315735069507,1.4379224835532693
+XQ1_11,1,2,Korean food is popular only among a small group of enthusiasts in my country.,0.04159525642429567,2.10724608647738
+XQ1_11,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean food.",0.16280265897512436,3.0258196461999622
+XQ1_11,1,4,Korean food is widely known among ordinary people in my country and related products are sold.,0.7325020730495453,3.9731315411646024
+XQ1_11,1,5,Korean food is hugely popular with ordinary people in my country and related products sell very well.,0.7976963967084885,4.188106283547732
+XQ1_11,2,1,Hardly anyone here has heard of Korean food.,0.07769519835893281,1.8229467272849862
+XQ1_11,2,2,Only some fans here follow Korean food.,0.04907490685749247,2.1755973026239968
+XQ1_11,2,3,"A fair number of ordinary people here know Korean food, not just fans.",0.20684911683326662,3.1013479493630722
+XQ1_11,2,4,"Most people here know Korean food, and you see related products in shops.",0.752050057053566,3.944911671804654
+XQ1_11,2,5,Korean food is mainstream here; everyone knows it and related products sell well.,0.766552522778511,4.077251467855613
+XQ1_12,1,1,Almost nobody in my country uses Korean characters (character goods and IP).,0.06495692674502315,1.4447836037911979
+XQ1_12,1,2,Korean characters (character goods and IP) is popular only among a small group of enthusiasts in my country.,0.1633434519232929,2.3419020679092886
+XQ1_12,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean characters (character goods and IP).",0.35514921322464943,3.2315315790509573
+XQ1_12,1,4,Korean characters (character goods and IP) is widely known among ordinary people in my country and related products are sold.,0.6779599189758301,3.7938377484701578
+XQ1_12,1,5,Korean characters (character goods and IP) is hugely popular with ordinary people in my country and related products sell very well.,0.7289772033691406,3.9565224796559804
+XQ1_12,2,1,Hardly anyone here has heard of Korean characters (character goods and IP).,0.1603155415523743,1.9850618969772007
+XQ1_12,2,2,Only some fans here follow Korean characters (character goods and IP).,0.04560692981223129,2.161849357204629
+XQ1_12,2,3,"A fair number of ordinary people here know Korean characters (character goods and IP), not just fans.",0.3360709100961685,3.2549190223254447
+XQ1_12,2,4,"Most people here know Korean characters (character goods and IP), and you see related products in shops.",0.64715975522995,3.7029668092752903
+XQ1_12,2,5,Korean characters (character goods and IP) is mainstream here; everyone knows it and related products sell well.,0.7031361311674118,3.8756935745499033
+XQ1_13,1,1,"Almost nobody in my country uses Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance).",0.03622444346910568,1.5280247945497547
+XQ1_13,1,2,"Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance) is popular only among a small group of enthusiasts in my country.",0.09468382713860096,2.0997227272235732
+XQ1_13,1,3,"Besides enthusiasts, quite a few ordinary people in my country know Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance).",0.23956890776753426,3.184430785484352
+XQ1_13,1,4,"Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance) is widely known among ordinary people in my country and related products are sold.",0.729727104306221,3.9577862434119195
+XQ1_13,1,5,"Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance) is hugely popular with ordinary people in my country and related products sell very well.",0.7706340998411179,4.111776109788208
+XQ1_13,2,1,"Hardly anyone here has heard of Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance).",0.07838726043999109,1.770114768311377
+XQ1_13,2,2,"Only some fans here follow Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance).",0.0644039046047422,2.134329013540493
+XQ1_13,2,3,"A fair number of ordinary people here know Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance), not just fans.",0.2329945303523826,3.2203422623123665
+XQ1_13,2,4,"Most people here know Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance), and you see related products in shops.",0.7409892380237579,3.8996094353532946
+XQ1_13,2,5,"Korean performing arts other than K-pop (musicals, theatre, traditional, classical, dance) is mainstream here; everyone knows it and related products sell well.",0.7501498609781265,4.027914568784746

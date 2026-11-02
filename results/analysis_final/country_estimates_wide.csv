@@ -1,0 +1,1621 @@
+country,cond,var,est,model,human,list
+Argentina,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+Argentina,Twins DLR,XQ6,100.0,claude-sonnet-5,,
+Argentina,Twins SSR,XQ5,73.23046322819428,claude-sonnet-5,,
+Argentina,Twins SSR,XQ6,68.98462862940505,claude-sonnet-5,,
+Argentina,"Twins SSR (network subsample, round 1)",XQ5,71.47842767752518,claude-sonnet-5,,
+Argentina,"Twins SSR (network subsample, round 1)",XQ6,67.74519860899697,claude-sonnet-5,,
+Argentina,Twins SSR + N1 self-reflection,XQ5,71.61704235607331,claude-sonnet-5,,
+Argentina,Twins SSR + N1 self-reflection,XQ6,67.53185341757133,claude-sonnet-5,,
+Argentina,Twins SSR + N2 random network,XQ5,71.5928205433883,claude-sonnet-5,,
+Argentina,Twins SSR + N2 random network,XQ6,67.73910490331272,claude-sonnet-5,,
+Argentina,Twins SSR + N3 homophily network,XQ5,71.53471648279164,claude-sonnet-5,,
+Argentina,Twins SSR + N3 homophily network,XQ6,67.90707849121343,claude-sonnet-5,,
+Australia,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+Australia,Twins DLR,XQ6,100.0,claude-sonnet-5,68.7,other
+Australia,Twins SSR,XQ5,74.13861997922473,claude-sonnet-5,,
+Australia,Twins SSR,XQ6,70.83784763887525,claude-sonnet-5,68.7,other
+Australia,"Twins SSR (network subsample, round 1)",XQ5,73.91843363642693,claude-sonnet-5,,
+Australia,"Twins SSR (network subsample, round 1)",XQ6,70.95385515441497,claude-sonnet-5,68.7,other
+Australia,Twins SSR + N1 self-reflection,XQ5,73.37801484598053,claude-sonnet-5,,
+Australia,Twins SSR + N1 self-reflection,XQ6,68.8314342064262,claude-sonnet-5,68.7,other
+Australia,Twins SSR + N2 random network,XQ5,73.96866333153513,claude-sonnet-5,,
+Australia,Twins SSR + N2 random network,XQ6,70.81073037038247,claude-sonnet-5,68.7,other
+Australia,Twins SSR + N3 homophily network,XQ5,74.20166282190216,claude-sonnet-5,,
+Australia,Twins SSR + N3 homophily network,XQ6,71.59891220430534,claude-sonnet-5,68.7,other
+Brazil,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+Brazil,Twins DLR,XQ6,100.0,claude-sonnet-5,75.6,top
+Brazil,Twins SSR,XQ5,76.56923577934504,claude-sonnet-5,,
+Brazil,Twins SSR,XQ6,70.41417016275227,claude-sonnet-5,75.6,top
+Brazil,"Twins SSR (network subsample, round 1)",XQ5,73.08863526417149,claude-sonnet-5,,
+Brazil,"Twins SSR (network subsample, round 1)",XQ6,68.96362038329244,claude-sonnet-5,75.6,top
+Brazil,Twins SSR + N1 self-reflection,XQ5,74.43709937234719,claude-sonnet-5,,
+Brazil,Twins SSR + N1 self-reflection,XQ6,69.75017807136692,claude-sonnet-5,75.6,top
+Brazil,Twins SSR + N2 random network,XQ5,72.59773167471091,claude-sonnet-5,,
+Brazil,Twins SSR + N2 random network,XQ6,68.69765305891633,claude-sonnet-5,75.6,top
+Brazil,Twins SSR + N3 homophily network,XQ5,73.08284180031883,claude-sonnet-5,,
+Brazil,Twins SSR + N3 homophily network,XQ6,68.98248959953587,claude-sonnet-5,75.6,top
+Canada,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+Canada,Twins DLR,XQ6,100.0,claude-sonnet-5,,
+Canada,Twins SSR,XQ5,73.99124799668789,claude-sonnet-5,,
+Canada,Twins SSR,XQ6,69.87310251407794,claude-sonnet-5,,
+Canada,"Twins SSR (network subsample, round 1)",XQ5,72.15376689202256,claude-sonnet-5,,
+Canada,"Twins SSR (network subsample, round 1)",XQ6,68.42353319128354,claude-sonnet-5,,
+Canada,Twins SSR + N1 self-reflection,XQ5,72.51244793335597,claude-sonnet-5,,
+Canada,Twins SSR + N1 self-reflection,XQ6,67.0062822848669,claude-sonnet-5,,
+Canada,Twins SSR + N2 random network,XQ5,72.47407854017284,claude-sonnet-5,,
+Canada,Twins SSR + N2 random network,XQ6,68.14181168875339,claude-sonnet-5,,
+Canada,Twins SSR + N3 homophily network,XQ5,73.26012468172443,claude-sonnet-5,,
+Canada,Twins SSR + N3 homophily network,XQ6,68.20219386989872,claude-sonnet-5,,
+Chile,Twins DLR,XQ5,98.0,claude-sonnet-5,,
+Chile,Twins DLR,XQ6,98.0,claude-sonnet-5,,
+Chile,Twins SSR,XQ5,72.33493753275053,claude-sonnet-5,,
+Chile,Twins SSR,XQ6,68.00839660689519,claude-sonnet-5,,
+Chile,"Twins SSR (network subsample, round 1)",XQ5,71.2430887089981,claude-sonnet-5,,
+Chile,"Twins SSR (network subsample, round 1)",XQ6,67.90953677147627,claude-sonnet-5,,
+Chile,Twins SSR + N1 self-reflection,XQ5,74.26373182900834,claude-sonnet-5,,
+Chile,Twins SSR + N1 self-reflection,XQ6,64.65892162800236,claude-sonnet-5,,
+Chile,Twins SSR + N2 random network,XQ5,71.22338439028918,claude-sonnet-5,,
+Chile,Twins SSR + N2 random network,XQ6,67.11083969722192,claude-sonnet-5,,
+Chile,Twins SSR + N3 homophily network,XQ5,70.72489860158629,claude-sonnet-5,,
+Chile,Twins SSR + N3 homophily network,XQ6,67.27242858459552,claude-sonnet-5,,
+China,Twins DLR,XQ5,97.0,claude-sonnet-5,,
+China,Twins DLR,XQ6,97.0,claude-sonnet-5,61.3,other
+China,Twins SSR,XQ5,72.16390877217277,claude-sonnet-5,,
+China,Twins SSR,XQ6,69.44747642055154,claude-sonnet-5,61.3,other
+China,"Twins SSR (network subsample, round 1)",XQ5,71.15123677170939,claude-sonnet-5,,
+China,"Twins SSR (network subsample, round 1)",XQ6,70.39627708494663,claude-sonnet-5,61.3,other
+China,Twins SSR + N1 self-reflection,XQ5,72.16481105321527,claude-sonnet-5,,
+China,Twins SSR + N1 self-reflection,XQ6,71.85432630280654,claude-sonnet-5,61.3,other
+China,Twins SSR + N2 random network,XQ5,70.76720484428935,claude-sonnet-5,,
+China,Twins SSR + N2 random network,XQ6,70.57661851247151,claude-sonnet-5,61.3,other
+China,Twins SSR + N3 homophily network,XQ5,71.18304609011253,claude-sonnet-5,,
+China,Twins SSR + N3 homophily network,XQ6,70.62509685754776,claude-sonnet-5,61.3,other
+Egypt,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+Egypt,Twins DLR,XQ6,100.0,claude-sonnet-5,,
+Egypt,Twins SSR,XQ5,79.33034717540639,claude-sonnet-5,,
+Egypt,Twins SSR,XQ6,71.21232585981488,claude-sonnet-5,,
+Egypt,"Twins SSR (network subsample, round 1)",XQ5,77.74336447320088,claude-sonnet-5,,
+Egypt,"Twins SSR (network subsample, round 1)",XQ6,71.15202113986015,claude-sonnet-5,,
+Egypt,Twins SSR + N1 self-reflection,XQ5,78.12068766190843,claude-sonnet-5,,
+Egypt,Twins SSR + N1 self-reflection,XQ6,71.06000217301761,claude-sonnet-5,,
+Egypt,Twins SSR + N2 random network,XQ5,78.64937470192247,claude-sonnet-5,,
+Egypt,Twins SSR + N2 random network,XQ6,71.07302569240953,claude-sonnet-5,,
+Egypt,Twins SSR + N3 homophily network,XQ5,78.2246875597538,claude-sonnet-5,,
+Egypt,Twins SSR + N3 homophily network,XQ6,71.46840905149777,claude-sonnet-5,,
+France,Twins DLR,XQ5,99.0,claude-sonnet-5,58.2,bottom
+France,Twins DLR,XQ6,99.0,claude-sonnet-5,56.8,bottom
+France,Twins SSR,XQ5,71.4506476720239,claude-sonnet-5,58.2,bottom
+France,Twins SSR,XQ6,67.63900856581142,claude-sonnet-5,56.8,bottom
+France,"Twins SSR (network subsample, round 1)",XQ5,71.91762098009477,claude-sonnet-5,58.2,bottom
+France,"Twins SSR (network subsample, round 1)",XQ6,67.18306905589998,claude-sonnet-5,56.8,bottom
+France,Twins SSR + N1 self-reflection,XQ5,72.4127092792054,claude-sonnet-5,58.2,bottom
+France,Twins SSR + N1 self-reflection,XQ6,69.26312410583098,claude-sonnet-5,56.8,bottom
+France,Twins SSR + N2 random network,XQ5,71.74733993081671,claude-sonnet-5,58.2,bottom
+France,Twins SSR + N2 random network,XQ6,66.95062509430139,claude-sonnet-5,56.8,bottom
+France,Twins SSR + N3 homophily network,XQ5,71.3810309353913,claude-sonnet-5,58.2,bottom
+France,Twins SSR + N3 homophily network,XQ6,67.32369330401222,claude-sonnet-5,56.8,bottom
+Germany,Twins DLR,XQ5,99.0,claude-sonnet-5,54.4,bottom
+Germany,Twins DLR,XQ6,99.0,claude-sonnet-5,51.6,bottom
+Germany,Twins SSR,XQ5,74.32405653347571,claude-sonnet-5,54.4,bottom
+Germany,Twins SSR,XQ6,68.53620189242446,claude-sonnet-5,51.6,bottom
+Germany,"Twins SSR (network subsample, round 1)",XQ5,74.06654378606213,claude-sonnet-5,54.4,bottom
+Germany,"Twins SSR (network subsample, round 1)",XQ6,68.800145847102,claude-sonnet-5,51.6,bottom
+Germany,Twins SSR + N1 self-reflection,XQ5,74.493303158217,claude-sonnet-5,54.4,bottom
+Germany,Twins SSR + N1 self-reflection,XQ6,68.6222566291862,claude-sonnet-5,51.6,bottom
+Germany,Twins SSR + N2 random network,XQ5,73.78332966731655,claude-sonnet-5,54.4,bottom
+Germany,Twins SSR + N2 random network,XQ6,68.826101757586,claude-sonnet-5,51.6,bottom
+Germany,Twins SSR + N3 homophily network,XQ5,73.73958986666467,claude-sonnet-5,54.4,bottom
+Germany,Twins SSR + N3 homophily network,XQ6,69.24581012378137,claude-sonnet-5,51.6,bottom
+India,Twins DLR,XQ5,100.0,claude-sonnet-5,83.8,top
+India,Twins DLR,XQ6,100.0,claude-sonnet-5,83.3,top
+India,Twins SSR,XQ5,80.31012157102937,claude-sonnet-5,83.8,top
+India,Twins SSR,XQ6,72.19721579924226,claude-sonnet-5,83.3,top
+India,"Twins SSR (network subsample, round 1)",XQ5,80.93149099085066,claude-sonnet-5,83.8,top
+India,"Twins SSR (network subsample, round 1)",XQ6,72.44591334213813,claude-sonnet-5,83.3,top
+India,Twins SSR + N1 self-reflection,XQ5,81.47118887967534,claude-sonnet-5,83.8,top
+India,Twins SSR + N1 self-reflection,XQ6,74.19069282710552,claude-sonnet-5,83.3,top
+India,Twins SSR + N2 random network,XQ5,81.14782950944371,claude-sonnet-5,83.8,top
+India,Twins SSR + N2 random network,XQ6,72.25617334246635,claude-sonnet-5,83.3,top
+India,Twins SSR + N3 homophily network,XQ5,81.00234685672653,claude-sonnet-5,83.8,top
+India,Twins SSR + N3 homophily network,XQ6,72.48862066616614,claude-sonnet-5,83.3,top
+Indonesia,Twins DLR,XQ5,100.0,claude-sonnet-5,82.7,top
+Indonesia,Twins DLR,XQ6,100.0,claude-sonnet-5,,
+Indonesia,Twins SSR,XQ5,80.4016874221464,claude-sonnet-5,82.7,top
+Indonesia,Twins SSR,XQ6,71.69501030072851,claude-sonnet-5,,
+Indonesia,"Twins SSR (network subsample, round 1)",XQ5,81.72584864828322,claude-sonnet-5,82.7,top
+Indonesia,"Twins SSR (network subsample, round 1)",XQ6,71.53673118601243,claude-sonnet-5,,
+Indonesia,Twins SSR + N1 self-reflection,XQ5,80.65683109892738,claude-sonnet-5,82.7,top
+Indonesia,Twins SSR + N1 self-reflection,XQ6,69.90854089461315,claude-sonnet-5,,
+Indonesia,Twins SSR + N2 random network,XQ5,82.0126258664661,claude-sonnet-5,82.7,top
+Indonesia,Twins SSR + N2 random network,XQ6,71.44736393044393,claude-sonnet-5,,
+Indonesia,Twins SSR + N3 homophily network,XQ5,81.71362737814586,claude-sonnet-5,82.7,top
+Indonesia,Twins SSR + N3 homophily network,XQ6,71.56173476328452,claude-sonnet-5,,
+Italy,Twins DLR,XQ5,98.0,claude-sonnet-5,56.4,bottom
+Italy,Twins DLR,XQ6,98.0,claude-sonnet-5,56.2,bottom
+Italy,Twins SSR,XQ5,71.87342787460143,claude-sonnet-5,56.4,bottom
+Italy,Twins SSR,XQ6,68.0163952568546,claude-sonnet-5,56.2,bottom
+Italy,"Twins SSR (network subsample, round 1)",XQ5,70.92716455461344,claude-sonnet-5,56.4,bottom
+Italy,"Twins SSR (network subsample, round 1)",XQ6,67.14930981708069,claude-sonnet-5,56.2,bottom
+Italy,Twins SSR + N1 self-reflection,XQ5,73.56812457244048,claude-sonnet-5,56.4,bottom
+Italy,Twins SSR + N1 self-reflection,XQ6,67.99089132498689,claude-sonnet-5,56.2,bottom
+Italy,Twins SSR + N2 random network,XQ5,70.64098876385175,claude-sonnet-5,56.4,bottom
+Italy,Twins SSR + N2 random network,XQ6,66.6601718248267,claude-sonnet-5,56.2,bottom
+Italy,Twins SSR + N3 homophily network,XQ5,70.89793718112591,claude-sonnet-5,56.4,bottom
+Italy,Twins SSR + N3 homophily network,XQ6,67.78143521398306,claude-sonnet-5,56.2,bottom
+Japan,Twins DLR,XQ5,96.0,claude-sonnet-5,52.7,bottom
+Japan,Twins DLR,XQ6,96.0,claude-sonnet-5,36.4,bottom
+Japan,Twins SSR,XQ5,74.18917179231842,claude-sonnet-5,52.7,bottom
+Japan,Twins SSR,XQ6,69.48568582907319,claude-sonnet-5,36.4,bottom
+Japan,"Twins SSR (network subsample, round 1)",XQ5,73.65208135710823,claude-sonnet-5,52.7,bottom
+Japan,"Twins SSR (network subsample, round 1)",XQ6,69.09152659277122,claude-sonnet-5,36.4,bottom
+Japan,Twins SSR + N1 self-reflection,XQ5,72.64631025907066,claude-sonnet-5,52.7,bottom
+Japan,Twins SSR + N1 self-reflection,XQ6,67.28045055642724,claude-sonnet-5,36.4,bottom
+Japan,Twins SSR + N2 random network,XQ5,73.69900408718321,claude-sonnet-5,52.7,bottom
+Japan,Twins SSR + N2 random network,XQ6,69.26473957796891,claude-sonnet-5,36.4,bottom
+Japan,Twins SSR + N3 homophily network,XQ5,72.73671356340249,claude-sonnet-5,52.7,bottom
+Japan,Twins SSR + N3 homophily network,XQ6,69.02660712599754,claude-sonnet-5,36.4,bottom
+Kazakhstan,Twins DLR,XQ5,100.0,claude-sonnet-5,50.8,bottom
+Kazakhstan,Twins DLR,XQ6,100.0,claude-sonnet-5,59.5,bottom
+Kazakhstan,Twins SSR,XQ5,76.76623406758075,claude-sonnet-5,50.8,bottom
+Kazakhstan,Twins SSR,XQ6,69.92736881040275,claude-sonnet-5,59.5,bottom
+Kazakhstan,"Twins SSR (network subsample, round 1)",XQ5,77.05606966382928,claude-sonnet-5,50.8,bottom
+Kazakhstan,"Twins SSR (network subsample, round 1)",XQ6,70.50240280727546,claude-sonnet-5,59.5,bottom
+Kazakhstan,Twins SSR + N1 self-reflection,XQ5,77.47899675793532,claude-sonnet-5,50.8,bottom
+Kazakhstan,Twins SSR + N1 self-reflection,XQ6,69.78994046649322,claude-sonnet-5,59.5,bottom
+Kazakhstan,Twins SSR + N2 random network,XQ5,75.95785666464624,claude-sonnet-5,50.8,bottom
+Kazakhstan,Twins SSR + N2 random network,XQ6,70.28783842921257,claude-sonnet-5,59.5,bottom
+Kazakhstan,Twins SSR + N3 homophily network,XQ5,77.493801638484,claude-sonnet-5,50.8,bottom
+Kazakhstan,Twins SSR + N3 homophily network,XQ6,70.4095342879494,claude-sonnet-5,59.5,bottom
+Malaysia,Twins DLR,XQ5,100.0,claude-sonnet-5,77.4,top
+Malaysia,Twins DLR,XQ6,100.0,claude-sonnet-5,,
+Malaysia,Twins SSR,XQ5,78.78299022714297,claude-sonnet-5,77.4,top
+Malaysia,Twins SSR,XQ6,71.9937487617135,claude-sonnet-5,,
+Malaysia,"Twins SSR (network subsample, round 1)",XQ5,80.37892881366942,claude-sonnet-5,77.4,top
+Malaysia,"Twins SSR (network subsample, round 1)",XQ6,72.24514658252399,claude-sonnet-5,,
+Malaysia,Twins SSR + N1 self-reflection,XQ5,79.68182610140907,claude-sonnet-5,77.4,top
+Malaysia,Twins SSR + N1 self-reflection,XQ6,72.91231679419677,claude-sonnet-5,,
+Malaysia,Twins SSR + N2 random network,XQ5,80.28582601083649,claude-sonnet-5,77.4,top
+Malaysia,Twins SSR + N2 random network,XQ6,72.1690958738327,claude-sonnet-5,,
+Malaysia,Twins SSR + N3 homophily network,XQ5,80.18953452507655,claude-sonnet-5,77.4,top
+Malaysia,Twins SSR + N3 homophily network,XQ6,72.06362515687943,claude-sonnet-5,,
+Mexico,Twins DLR,XQ5,100.0,claude-sonnet-5,78.9,top
+Mexico,Twins DLR,XQ6,100.0,claude-sonnet-5,79.8,top
+Mexico,Twins SSR,XQ5,76.72670290867855,claude-sonnet-5,78.9,top
+Mexico,Twins SSR,XQ6,70.36854787171144,claude-sonnet-5,79.8,top
+Mexico,"Twins SSR (network subsample, round 1)",XQ5,75.23480612370703,claude-sonnet-5,78.9,top
+Mexico,"Twins SSR (network subsample, round 1)",XQ6,70.86642020692427,claude-sonnet-5,79.8,top
+Mexico,Twins SSR + N1 self-reflection,XQ5,74.35392066836357,claude-sonnet-5,78.9,top
+Mexico,Twins SSR + N1 self-reflection,XQ6,69.07203808429645,claude-sonnet-5,79.8,top
+Mexico,Twins SSR + N2 random network,XQ5,74.97780331306987,claude-sonnet-5,78.9,top
+Mexico,Twins SSR + N2 random network,XQ6,70.59982576717933,claude-sonnet-5,79.8,top
+Mexico,Twins SSR + N3 homophily network,XQ5,74.8668747395277,claude-sonnet-5,78.9,top
+Mexico,Twins SSR + N3 homophily network,XQ6,70.83767250180244,claude-sonnet-5,79.8,top
+Philippines,Twins DLR,XQ5,100.0,claude-sonnet-5,87.0,top
+Philippines,Twins DLR,XQ6,100.0,claude-sonnet-5,85.6,top
+Philippines,Twins SSR,XQ5,80.82149147987494,claude-sonnet-5,87.0,top
+Philippines,Twins SSR,XQ6,72.16857308894396,claude-sonnet-5,85.6,top
+Philippines,"Twins SSR (network subsample, round 1)",XQ5,80.33500692910619,claude-sonnet-5,87.0,top
+Philippines,"Twins SSR (network subsample, round 1)",XQ6,72.00531589488189,claude-sonnet-5,85.6,top
+Philippines,Twins SSR + N1 self-reflection,XQ5,80.33884652786784,claude-sonnet-5,87.0,top
+Philippines,Twins SSR + N1 self-reflection,XQ6,72.10891255487998,claude-sonnet-5,85.6,top
+Philippines,Twins SSR + N2 random network,XQ5,80.17308707038562,claude-sonnet-5,87.0,top
+Philippines,Twins SSR + N2 random network,XQ6,72.1639708429575,claude-sonnet-5,85.6,top
+Philippines,Twins SSR + N3 homophily network,XQ5,80.50735968682501,claude-sonnet-5,87.0,top
+Philippines,Twins SSR + N3 homophily network,XQ6,72.12339642147224,claude-sonnet-5,85.6,top
+Poland,Twins DLR,XQ5,99.0,claude-sonnet-5,54.4,bottom
+Poland,Twins DLR,XQ6,99.0,claude-sonnet-5,53.4,bottom
+Poland,Twins SSR,XQ5,71.04981592980943,claude-sonnet-5,54.4,bottom
+Poland,Twins SSR,XQ6,67.4477887787018,claude-sonnet-5,53.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",XQ5,72.92537368006177,claude-sonnet-5,54.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",XQ6,68.93702281018098,claude-sonnet-5,53.4,bottom
+Poland,Twins SSR + N1 self-reflection,XQ5,73.55329256918695,claude-sonnet-5,54.4,bottom
+Poland,Twins SSR + N1 self-reflection,XQ6,67.54674993768108,claude-sonnet-5,53.4,bottom
+Poland,Twins SSR + N2 random network,XQ5,72.52192311816745,claude-sonnet-5,54.4,bottom
+Poland,Twins SSR + N2 random network,XQ6,68.56210919407506,claude-sonnet-5,53.4,bottom
+Poland,Twins SSR + N3 homophily network,XQ5,73.43063020043903,claude-sonnet-5,54.4,bottom
+Poland,Twins SSR + N3 homophily network,XQ6,69.56357564777136,claude-sonnet-5,53.4,bottom
+Russia,Twins DLR,XQ5,100.0,claude-sonnet-5,44.5,bottom
+Russia,Twins DLR,XQ6,100.0,claude-sonnet-5,48.6,bottom
+Russia,Twins SSR,XQ5,70.97539713125653,claude-sonnet-5,44.5,bottom
+Russia,Twins SSR,XQ6,68.72733632475428,claude-sonnet-5,48.6,bottom
+Russia,"Twins SSR (network subsample, round 1)",XQ5,68.6913578300319,claude-sonnet-5,44.5,bottom
+Russia,"Twins SSR (network subsample, round 1)",XQ6,67.33482877413432,claude-sonnet-5,48.6,bottom
+Russia,Twins SSR + N1 self-reflection,XQ5,68.49906393276882,claude-sonnet-5,44.5,bottom
+Russia,Twins SSR + N1 self-reflection,XQ6,66.47852615765434,claude-sonnet-5,48.6,bottom
+Russia,Twins SSR + N2 random network,XQ5,68.39668633882954,claude-sonnet-5,44.5,bottom
+Russia,Twins SSR + N2 random network,XQ6,66.53553500772404,claude-sonnet-5,48.6,bottom
+Russia,Twins SSR + N3 homophily network,XQ5,68.0568226952102,claude-sonnet-5,44.5,bottom
+Russia,Twins SSR + N3 homophily network,XQ6,67.24080248425405,claude-sonnet-5,48.6,bottom
+Saudi Arabia,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+Saudi Arabia,Twins DLR,XQ6,100.0,claude-sonnet-5,,
+Saudi Arabia,Twins SSR,XQ5,79.36668025454063,claude-sonnet-5,,
+Saudi Arabia,Twins SSR,XQ6,71.23587375506759,claude-sonnet-5,,
+Saudi Arabia,"Twins SSR (network subsample, round 1)",XQ5,79.8704316218694,claude-sonnet-5,,
+Saudi Arabia,"Twins SSR (network subsample, round 1)",XQ6,71.9023443510135,claude-sonnet-5,,
+Saudi Arabia,Twins SSR + N1 self-reflection,XQ5,79.60805404517386,claude-sonnet-5,,
+Saudi Arabia,Twins SSR + N1 self-reflection,XQ6,71.5370394984105,claude-sonnet-5,,
+Saudi Arabia,Twins SSR + N2 random network,XQ5,80.89377822147476,claude-sonnet-5,,
+Saudi Arabia,Twins SSR + N2 random network,XQ6,72.5294799854358,claude-sonnet-5,,
+Saudi Arabia,Twins SSR + N3 homophily network,XQ5,80.448716663652,claude-sonnet-5,,
+Saudi Arabia,Twins SSR + N3 homophily network,XQ6,72.13184234996636,claude-sonnet-5,,
+Singapore,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+Singapore,Twins DLR,XQ6,100.0,claude-sonnet-5,,
+Singapore,Twins SSR,XQ5,78.46014243923128,claude-sonnet-5,,
+Singapore,Twins SSR,XQ6,72.07534415274858,claude-sonnet-5,,
+Singapore,"Twins SSR (network subsample, round 1)",XQ5,79.45329015453656,claude-sonnet-5,,
+Singapore,"Twins SSR (network subsample, round 1)",XQ6,72.10987120866776,claude-sonnet-5,,
+Singapore,Twins SSR + N1 self-reflection,XQ5,79.1544361329741,claude-sonnet-5,,
+Singapore,Twins SSR + N1 self-reflection,XQ6,71.16650141775608,claude-sonnet-5,,
+Singapore,Twins SSR + N2 random network,XQ5,78.81197229028253,claude-sonnet-5,,
+Singapore,Twins SSR + N2 random network,XQ6,72.21757103999455,claude-sonnet-5,,
+Singapore,Twins SSR + N3 homophily network,XQ5,79.12434024943245,claude-sonnet-5,,
+Singapore,Twins SSR + N3 homophily network,XQ6,72.32425878445308,claude-sonnet-5,,
+South Africa,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+South Africa,Twins DLR,XQ6,100.0,claude-sonnet-5,78.2,top
+South Africa,Twins SSR,XQ5,77.35090353836615,claude-sonnet-5,,
+South Africa,Twins SSR,XQ6,69.47670200094828,claude-sonnet-5,78.2,top
+South Africa,"Twins SSR (network subsample, round 1)",XQ5,77.84353693326314,claude-sonnet-5,,
+South Africa,"Twins SSR (network subsample, round 1)",XQ6,69.24573255081971,claude-sonnet-5,78.2,top
+South Africa,Twins SSR + N1 self-reflection,XQ5,77.99029663205147,claude-sonnet-5,,
+South Africa,Twins SSR + N1 self-reflection,XQ6,69.39758204235157,claude-sonnet-5,78.2,top
+South Africa,Twins SSR + N2 random network,XQ5,78.03703284925885,claude-sonnet-5,,
+South Africa,Twins SSR + N2 random network,XQ6,69.49256015320618,claude-sonnet-5,78.2,top
+South Africa,Twins SSR + N3 homophily network,XQ5,78.92605016628902,claude-sonnet-5,,
+South Africa,Twins SSR + N3 homophily network,XQ6,68.67201427619611,claude-sonnet-5,78.2,top
+Spain,Twins DLR,XQ5,99.0,claude-sonnet-5,,
+Spain,Twins DLR,XQ6,99.0,claude-sonnet-5,,
+Spain,Twins SSR,XQ5,72.3643410901256,claude-sonnet-5,,
+Spain,Twins SSR,XQ6,69.16614350676537,claude-sonnet-5,,
+Spain,"Twins SSR (network subsample, round 1)",XQ5,73.345902338624,claude-sonnet-5,,
+Spain,"Twins SSR (network subsample, round 1)",XQ6,69.16722218195598,claude-sonnet-5,,
+Spain,Twins SSR + N1 self-reflection,XQ5,74.25627576808135,claude-sonnet-5,,
+Spain,Twins SSR + N1 self-reflection,XQ6,68.7190683806936,claude-sonnet-5,,
+Spain,Twins SSR + N2 random network,XQ5,74.11921294199097,claude-sonnet-5,,
+Spain,Twins SSR + N2 random network,XQ6,68.90811562538147,claude-sonnet-5,,
+Spain,Twins SSR + N3 homophily network,XQ5,73.67383886542585,claude-sonnet-5,,
+Spain,Twins SSR + N3 homophily network,XQ6,69.81805002937715,claude-sonnet-5,,
+Taiwan,Twins DLR,XQ5,99.0,claude-sonnet-5,,
+Taiwan,Twins DLR,XQ6,99.0,claude-sonnet-5,,
+Taiwan,Twins SSR,XQ5,76.38027227421892,claude-sonnet-5,,
+Taiwan,Twins SSR,XQ6,70.56084591522813,claude-sonnet-5,,
+Taiwan,"Twins SSR (network subsample, round 1)",XQ5,75.04524875018917,claude-sonnet-5,,
+Taiwan,"Twins SSR (network subsample, round 1)",XQ6,69.92955510814984,claude-sonnet-5,,
+Taiwan,Twins SSR + N1 self-reflection,XQ5,75.46218883660104,claude-sonnet-5,,
+Taiwan,Twins SSR + N1 self-reflection,XQ6,70.58935099902253,claude-sonnet-5,,
+Taiwan,Twins SSR + N2 random network,XQ5,74.42436529531524,claude-sonnet-5,,
+Taiwan,Twins SSR + N2 random network,XQ6,70.24434131880601,claude-sonnet-5,,
+Taiwan,Twins SSR + N3 homophily network,XQ5,73.79191904018323,claude-sonnet-5,,
+Taiwan,Twins SSR + N3 homophily network,XQ6,70.11144141356151,claude-sonnet-5,,
+Thailand,Twins DLR,XQ5,100.0,claude-sonnet-5,79.4,top
+Thailand,Twins DLR,XQ6,100.0,claude-sonnet-5,72.5,other
+Thailand,Twins SSR,XQ5,80.28425073623657,claude-sonnet-5,79.4,top
+Thailand,Twins SSR,XQ6,72.52575725317001,claude-sonnet-5,72.5,other
+Thailand,"Twins SSR (network subsample, round 1)",XQ5,79.91500513421165,claude-sonnet-5,79.4,top
+Thailand,"Twins SSR (network subsample, round 1)",XQ6,71.84620345632236,claude-sonnet-5,72.5,other
+Thailand,Twins SSR + N1 self-reflection,XQ5,79.82237302594714,claude-sonnet-5,79.4,top
+Thailand,Twins SSR + N1 self-reflection,XQ6,71.01054606339412,claude-sonnet-5,72.5,other
+Thailand,Twins SSR + N2 random network,XQ5,80.07004519303639,claude-sonnet-5,79.4,top
+Thailand,Twins SSR + N2 random network,XQ6,71.70098826289177,claude-sonnet-5,72.5,other
+Thailand,Twins SSR + N3 homophily network,XQ5,80.03706332710054,claude-sonnet-5,79.4,top
+Thailand,Twins SSR + N3 homophily network,XQ6,71.61514475941658,claude-sonnet-5,72.5,other
+Turkiye,Twins DLR,XQ5,99.0,claude-sonnet-5,,
+Turkiye,Twins DLR,XQ6,99.0,claude-sonnet-5,69.2,other
+Turkiye,Twins SSR,XQ5,74.96616572824801,claude-sonnet-5,,
+Turkiye,Twins SSR,XQ6,69.31365167349577,claude-sonnet-5,69.2,other
+Turkiye,"Twins SSR (network subsample, round 1)",XQ5,76.63375150826242,claude-sonnet-5,,
+Turkiye,"Twins SSR (network subsample, round 1)",XQ6,69.88633628934622,claude-sonnet-5,69.2,other
+Turkiye,Twins SSR + N1 self-reflection,XQ5,76.79462919632594,claude-sonnet-5,,
+Turkiye,Twins SSR + N1 self-reflection,XQ6,69.40055880696927,claude-sonnet-5,69.2,other
+Turkiye,Twins SSR + N2 random network,XQ5,77.19320161475075,claude-sonnet-5,,
+Turkiye,Twins SSR + N2 random network,XQ6,69.96272786209981,claude-sonnet-5,69.2,other
+Turkiye,Twins SSR + N3 homophily network,XQ5,77.26549846430619,claude-sonnet-5,,
+Turkiye,Twins SSR + N3 homophily network,XQ6,69.73728105427045,claude-sonnet-5,69.2,other
+UAE,Twins DLR,XQ5,100.0,claude-sonnet-5,78.0,top
+UAE,Twins DLR,XQ6,100.0,claude-sonnet-5,78.5,top
+UAE,Twins SSR,XQ5,77.75215226473908,claude-sonnet-5,78.0,top
+UAE,Twins SSR,XQ6,72.01096489280462,claude-sonnet-5,78.5,top
+UAE,"Twins SSR (network subsample, round 1)",XQ5,78.21132929788696,claude-sonnet-5,78.0,top
+UAE,"Twins SSR (network subsample, round 1)",XQ6,72.60040399928887,claude-sonnet-5,78.5,top
+UAE,Twins SSR + N1 self-reflection,XQ5,79.50395520362589,claude-sonnet-5,78.0,top
+UAE,Twins SSR + N1 self-reflection,XQ6,71.35207389171691,claude-sonnet-5,78.5,top
+UAE,Twins SSR + N2 random network,XQ5,78.13843535052406,claude-sonnet-5,78.0,top
+UAE,Twins SSR + N2 random network,XQ6,72.42435080309708,claude-sonnet-5,78.5,top
+UAE,Twins SSR + N3 homophily network,XQ5,78.08228636781375,claude-sonnet-5,78.0,top
+UAE,Twins SSR + N3 homophily network,XQ6,72.17417096098264,claude-sonnet-5,78.5,top
+United Kingdom,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+United Kingdom,Twins DLR,XQ6,100.0,claude-sonnet-5,71.1,other
+United Kingdom,Twins SSR,XQ5,73.80245718360673,claude-sonnet-5,,
+United Kingdom,Twins SSR,XQ6,70.64043766260147,claude-sonnet-5,71.1,other
+United Kingdom,"Twins SSR (network subsample, round 1)",XQ5,78.38337303863632,claude-sonnet-5,,
+United Kingdom,"Twins SSR (network subsample, round 1)",XQ6,71.49869851768017,claude-sonnet-5,71.1,other
+United Kingdom,Twins SSR + N1 self-reflection,XQ5,78.20063875781166,claude-sonnet-5,,
+United Kingdom,Twins SSR + N1 self-reflection,XQ6,71.33297455807526,claude-sonnet-5,71.1,other
+United Kingdom,Twins SSR + N2 random network,XQ5,77.90338228146236,claude-sonnet-5,,
+United Kingdom,Twins SSR + N2 random network,XQ6,71.56165279448032,claude-sonnet-5,71.1,other
+United Kingdom,Twins SSR + N3 homophily network,XQ5,77.30245298809476,claude-sonnet-5,,
+United Kingdom,Twins SSR + N3 homophily network,XQ6,72.39034004509449,claude-sonnet-5,71.1,other
+United States,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+United States,Twins DLR,XQ6,100.0,claude-sonnet-5,,
+United States,Twins SSR,XQ5,75.0053507685679,claude-sonnet-5,,
+United States,Twins SSR,XQ6,69.76646281033754,claude-sonnet-5,,
+United States,"Twins SSR (network subsample, round 1)",XQ5,75.2649006247579,claude-sonnet-5,,
+United States,"Twins SSR (network subsample, round 1)",XQ6,69.89848380287488,claude-sonnet-5,,
+United States,Twins SSR + N1 self-reflection,XQ5,75.67026281522381,claude-sonnet-5,,
+United States,Twins SSR + N1 self-reflection,XQ6,68.65849512321931,claude-sonnet-5,,
+United States,Twins SSR + N2 random network,XQ5,75.52345078852441,claude-sonnet-5,,
+United States,Twins SSR + N2 random network,XQ6,70.10041820506255,claude-sonnet-5,,
+United States,Twins SSR + N3 homophily network,XQ5,74.36662769980487,claude-sonnet-5,,
+United States,Twins SSR + N3 homophily network,XQ6,69.68825650711854,claude-sonnet-5,,
+Vietnam,Twins DLR,XQ5,100.0,claude-sonnet-5,,
+Vietnam,Twins DLR,XQ6,100.0,claude-sonnet-5,76.1,top
+Vietnam,Twins SSR,XQ5,79.95457360148627,claude-sonnet-5,,
+Vietnam,Twins SSR,XQ6,71.87021071091294,claude-sonnet-5,76.1,top
+Vietnam,"Twins SSR (network subsample, round 1)",XQ5,80.96665145623017,claude-sonnet-5,,
+Vietnam,"Twins SSR (network subsample, round 1)",XQ6,72.26672942439716,claude-sonnet-5,76.1,top
+Vietnam,Twins SSR + N1 self-reflection,XQ5,81.05349370174937,claude-sonnet-5,,
+Vietnam,Twins SSR + N1 self-reflection,XQ6,72.62062057852745,claude-sonnet-5,76.1,top
+Vietnam,Twins SSR + N2 random network,XQ5,80.60502888428498,claude-sonnet-5,,
+Vietnam,Twins SSR + N2 random network,XQ6,72.50901584823926,claude-sonnet-5,76.1,top
+Vietnam,Twins SSR + N3 homophily network,XQ5,80.78739982512919,claude-sonnet-5,,
+Vietnam,Twins SSR + N3 homophily network,XQ6,72.16023698449135,claude-sonnet-5,76.1,top
+Argentina,Twins DLR,POPMEAN,18.46153846153846,claude-sonnet-5,33.7,bottom
+Argentina,Twins SSR,POPMEAN,42.34930499057763,claude-sonnet-5,33.7,bottom
+Argentina,"Twins SSR (network subsample, round 1)",POPMEAN,42.26866571158446,claude-sonnet-5,33.7,bottom
+Argentina,Twins SSR + N1 self-reflection,POPMEAN,42.68367373423271,claude-sonnet-5,33.7,bottom
+Argentina,Twins SSR + N2 random network,POPMEAN,42.16764641321564,claude-sonnet-5,33.7,bottom
+Argentina,Twins SSR + N3 homophily network,POPMEAN,42.18333652296274,claude-sonnet-5,33.7,bottom
+Australia,Twins DLR,POPMEAN,31.923076923076923,claude-sonnet-5,,
+Australia,Twins SSR,POPMEAN,45.89839980060303,claude-sonnet-5,,
+Australia,"Twins SSR (network subsample, round 1)",POPMEAN,43.99604378632513,claude-sonnet-5,,
+Australia,Twins SSR + N1 self-reflection,POPMEAN,45.452880752039285,claude-sonnet-5,,
+Australia,Twins SSR + N2 random network,POPMEAN,44.15531790153183,claude-sonnet-5,,
+Australia,Twins SSR + N3 homophily network,POPMEAN,44.16042428283395,claude-sonnet-5,,
+Brazil,Twins DLR,POPMEAN,19.76923076923077,claude-sonnet-5,,
+Brazil,Twins SSR,POPMEAN,44.254072752728206,claude-sonnet-5,,
+Brazil,"Twins SSR (network subsample, round 1)",POPMEAN,43.14296612501466,claude-sonnet-5,,
+Brazil,Twins SSR + N1 self-reflection,POPMEAN,43.6818807613372,claude-sonnet-5,,
+Brazil,Twins SSR + N2 random network,POPMEAN,43.4530649746298,claude-sonnet-5,,
+Brazil,Twins SSR + N3 homophily network,POPMEAN,42.66175320042185,claude-sonnet-5,,
+Canada,Twins DLR,POPMEAN,32.38461538461539,claude-sonnet-5,34.5,bottom
+Canada,Twins SSR,POPMEAN,46.09433234262755,claude-sonnet-5,34.5,bottom
+Canada,"Twins SSR (network subsample, round 1)",POPMEAN,46.36403694821687,claude-sonnet-5,34.5,bottom
+Canada,Twins SSR + N1 self-reflection,POPMEAN,46.56587145015638,claude-sonnet-5,34.5,bottom
+Canada,Twins SSR + N2 random network,POPMEAN,46.61622575542309,claude-sonnet-5,34.5,bottom
+Canada,Twins SSR + N3 homophily network,POPMEAN,46.34457805193453,claude-sonnet-5,34.5,bottom
+Chile,Twins DLR,POPMEAN,23.846153846153847,claude-sonnet-5,,
+Chile,Twins SSR,POPMEAN,43.20592551233302,claude-sonnet-5,,
+Chile,"Twins SSR (network subsample, round 1)",POPMEAN,42.26102563043045,claude-sonnet-5,,
+Chile,Twins SSR + N1 self-reflection,POPMEAN,42.15921491771548,claude-sonnet-5,,
+Chile,Twins SSR + N2 random network,POPMEAN,41.87319146164187,claude-sonnet-5,,
+Chile,Twins SSR + N3 homophily network,POPMEAN,41.54397338014186,claude-sonnet-5,,
+China,Twins DLR,POPMEAN,46.76923076923077,claude-sonnet-5,,
+China,Twins SSR,POPMEAN,47.4186379814569,claude-sonnet-5,,
+China,"Twins SSR (network subsample, round 1)",POPMEAN,48.31975732624134,claude-sonnet-5,,
+China,Twins SSR + N1 self-reflection,POPMEAN,48.11303994363748,claude-sonnet-5,,
+China,Twins SSR + N2 random network,POPMEAN,48.35299188901593,claude-sonnet-5,,
+China,Twins SSR + N3 homophily network,POPMEAN,48.10559163515883,claude-sonnet-5,,
+Egypt,Twins DLR,POPMEAN,22.53846153846154,claude-sonnet-5,,
+Egypt,Twins SSR,POPMEAN,42.79022960268203,claude-sonnet-5,,
+Egypt,"Twins SSR (network subsample, round 1)",POPMEAN,42.92733151241414,claude-sonnet-5,,
+Egypt,Twins SSR + N1 self-reflection,POPMEAN,43.03145458207874,claude-sonnet-5,,
+Egypt,Twins SSR + N2 random network,POPMEAN,43.79359255696415,claude-sonnet-5,,
+Egypt,Twins SSR + N3 homophily network,POPMEAN,43.38338738996352,claude-sonnet-5,,
+France,Twins DLR,POPMEAN,27.46153846153846,claude-sonnet-5,,
+France,Twins SSR,POPMEAN,43.92175908612176,claude-sonnet-5,,
+France,"Twins SSR (network subsample, round 1)",POPMEAN,44.35511524991456,claude-sonnet-5,,
+France,Twins SSR + N1 self-reflection,POPMEAN,44.51308666612592,claude-sonnet-5,,
+France,Twins SSR + N2 random network,POPMEAN,43.88808400493431,claude-sonnet-5,,
+France,Twins SSR + N3 homophily network,POPMEAN,44.23869499458439,claude-sonnet-5,,
+Germany,Twins DLR,POPMEAN,24.23076923076923,claude-sonnet-5,31.3,bottom
+Germany,Twins SSR,POPMEAN,43.24494314116836,claude-sonnet-5,31.3,bottom
+Germany,"Twins SSR (network subsample, round 1)",POPMEAN,43.29800144392909,claude-sonnet-5,31.3,bottom
+Germany,Twins SSR + N1 self-reflection,POPMEAN,43.99854800914537,claude-sonnet-5,31.3,bottom
+Germany,Twins SSR + N2 random network,POPMEAN,43.791883101809816,claude-sonnet-5,31.3,bottom
+Germany,Twins SSR + N3 homophily network,POPMEAN,43.27910194337868,claude-sonnet-5,31.3,bottom
+India,Twins DLR,POPMEAN,22.153846153846157,claude-sonnet-5,53.4,top
+India,Twins SSR,POPMEAN,45.68904046027996,claude-sonnet-5,53.4,top
+India,"Twins SSR (network subsample, round 1)",POPMEAN,45.689244794172325,claude-sonnet-5,53.4,top
+India,Twins SSR + N1 self-reflection,POPMEAN,45.92419554700829,claude-sonnet-5,53.4,top
+India,Twins SSR + N2 random network,POPMEAN,45.69133461804369,claude-sonnet-5,53.4,top
+India,Twins SSR + N3 homophily network,POPMEAN,45.87848133883742,claude-sonnet-5,53.4,top
+Indonesia,Twins DLR,POPMEAN,58.76923076923077,claude-sonnet-5,,
+Indonesia,Twins SSR,POPMEAN,52.124044200895845,claude-sonnet-5,,
+Indonesia,"Twins SSR (network subsample, round 1)",POPMEAN,51.83382360733841,claude-sonnet-5,,
+Indonesia,Twins SSR + N1 self-reflection,POPMEAN,50.7780915924183,claude-sonnet-5,,
+Indonesia,Twins SSR + N2 random network,POPMEAN,51.84074428190857,claude-sonnet-5,,
+Indonesia,Twins SSR + N3 homophily network,POPMEAN,52.042886738203535,claude-sonnet-5,,
+Italy,Twins DLR,POPMEAN,20.07692307692308,claude-sonnet-5,31.7,bottom
+Italy,Twins SSR,POPMEAN,40.59215017386687,claude-sonnet-5,31.7,bottom
+Italy,"Twins SSR (network subsample, round 1)",POPMEAN,40.06807160873133,claude-sonnet-5,31.7,bottom
+Italy,Twins SSR + N1 self-reflection,POPMEAN,40.58330819232607,claude-sonnet-5,31.7,bottom
+Italy,Twins SSR + N2 random network,POPMEAN,39.10731031686772,claude-sonnet-5,31.7,bottom
+Italy,Twins SSR + N3 homophily network,POPMEAN,39.91852902436416,claude-sonnet-5,31.7,bottom
+Japan,Twins DLR,POPMEAN,49.53846153846154,claude-sonnet-5,32.4,bottom
+Japan,Twins SSR,POPMEAN,51.3860606543572,claude-sonnet-5,32.4,bottom
+Japan,"Twins SSR (network subsample, round 1)",POPMEAN,51.37875310515152,claude-sonnet-5,32.4,bottom
+Japan,Twins SSR + N1 self-reflection,POPMEAN,49.723396508231694,claude-sonnet-5,32.4,bottom
+Japan,Twins SSR + N2 random network,POPMEAN,51.212513843816815,claude-sonnet-5,32.4,bottom
+Japan,Twins SSR + N3 homophily network,POPMEAN,50.82939355553099,claude-sonnet-5,32.4,bottom
+Kazakhstan,Twins DLR,POPMEAN,28.0,claude-sonnet-5,,
+Kazakhstan,Twins SSR,POPMEAN,43.67047578616853,claude-sonnet-5,,
+Kazakhstan,"Twins SSR (network subsample, round 1)",POPMEAN,44.47723903310976,claude-sonnet-5,,
+Kazakhstan,Twins SSR + N1 self-reflection,POPMEAN,44.4967067429726,claude-sonnet-5,,
+Kazakhstan,Twins SSR + N2 random network,POPMEAN,44.07209308730872,claude-sonnet-5,,
+Kazakhstan,Twins SSR + N3 homophily network,POPMEAN,44.20058657564376,claude-sonnet-5,,
+Malaysia,Twins DLR,POPMEAN,56.84615384615385,claude-sonnet-5,52.2,top
+Malaysia,Twins SSR,POPMEAN,51.46907144679286,claude-sonnet-5,52.2,top
+Malaysia,"Twins SSR (network subsample, round 1)",POPMEAN,51.90469967994823,claude-sonnet-5,52.2,top
+Malaysia,Twins SSR + N1 self-reflection,POPMEAN,51.385564348226765,claude-sonnet-5,52.2,top
+Malaysia,Twins SSR + N2 random network,POPMEAN,51.39147735993143,claude-sonnet-5,52.2,top
+Malaysia,Twins SSR + N3 homophily network,POPMEAN,51.48426930545119,claude-sonnet-5,52.2,top
+Mexico,Twins DLR,POPMEAN,27.692307692307693,claude-sonnet-5,,
+Mexico,Twins SSR,POPMEAN,45.34173736824162,claude-sonnet-5,,
+Mexico,"Twins SSR (network subsample, round 1)",POPMEAN,44.66128864134968,claude-sonnet-5,,
+Mexico,Twins SSR + N1 self-reflection,POPMEAN,44.443870107915046,claude-sonnet-5,,
+Mexico,Twins SSR + N2 random network,POPMEAN,44.12841159981492,claude-sonnet-5,,
+Mexico,Twins SSR + N3 homophily network,POPMEAN,43.90756872006829,claude-sonnet-5,,
+Philippines,Twins DLR,POPMEAN,51.0,claude-sonnet-5,60.0,top
+Philippines,Twins SSR,POPMEAN,51.60658597589478,claude-sonnet-5,60.0,top
+Philippines,"Twins SSR (network subsample, round 1)",POPMEAN,51.22847768391872,claude-sonnet-5,60.0,top
+Philippines,Twins SSR + N1 self-reflection,POPMEAN,50.75596733802927,claude-sonnet-5,60.0,top
+Philippines,Twins SSR + N2 random network,POPMEAN,51.13429124446482,claude-sonnet-5,60.0,top
+Philippines,Twins SSR + N3 homophily network,POPMEAN,50.87924199519655,claude-sonnet-5,60.0,top
+Poland,Twins DLR,POPMEAN,18.53846153846154,claude-sonnet-5,25.4,bottom
+Poland,Twins SSR,POPMEAN,41.14532546715468,claude-sonnet-5,25.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",POPMEAN,41.96275789161228,claude-sonnet-5,25.4,bottom
+Poland,Twins SSR + N1 self-reflection,POPMEAN,41.80716210693852,claude-sonnet-5,25.4,bottom
+Poland,Twins SSR + N2 random network,POPMEAN,42.13739587289963,claude-sonnet-5,25.4,bottom
+Poland,Twins SSR + N3 homophily network,POPMEAN,42.09454428969024,claude-sonnet-5,25.4,bottom
+Russia,Twins DLR,POPMEAN,24.923076923076923,claude-sonnet-5,31.5,bottom
+Russia,Twins SSR,POPMEAN,42.56352701477095,claude-sonnet-5,31.5,bottom
+Russia,"Twins SSR (network subsample, round 1)",POPMEAN,42.33123524712453,claude-sonnet-5,31.5,bottom
+Russia,Twins SSR + N1 self-reflection,POPMEAN,41.59128538909506,claude-sonnet-5,31.5,bottom
+Russia,Twins SSR + N2 random network,POPMEAN,41.81998589139733,claude-sonnet-5,31.5,bottom
+Russia,Twins SSR + N3 homophily network,POPMEAN,41.9923306423189,claude-sonnet-5,31.5,bottom
+Saudi Arabia,Twins DLR,POPMEAN,32.92307692307692,claude-sonnet-5,51.0,top
+Saudi Arabia,Twins SSR,POPMEAN,46.449862600338,claude-sonnet-5,51.0,top
+Saudi Arabia,"Twins SSR (network subsample, round 1)",POPMEAN,47.861606992865866,claude-sonnet-5,51.0,top
+Saudi Arabia,Twins SSR + N1 self-reflection,POPMEAN,48.53849221300816,claude-sonnet-5,51.0,top
+Saudi Arabia,Twins SSR + N2 random network,POPMEAN,47.99226567561716,claude-sonnet-5,51.0,top
+Saudi Arabia,Twins SSR + N3 homophily network,POPMEAN,48.43341045790695,claude-sonnet-5,51.0,top
+Singapore,Twins DLR,POPMEAN,55.84615384615385,claude-sonnet-5,,
+Singapore,Twins SSR,POPMEAN,52.079564052188665,claude-sonnet-5,,
+Singapore,"Twins SSR (network subsample, round 1)",POPMEAN,52.55037336249699,claude-sonnet-5,,
+Singapore,Twins SSR + N1 self-reflection,POPMEAN,51.39992063329409,claude-sonnet-5,,
+Singapore,Twins SSR + N2 random network,POPMEAN,52.23432065442913,claude-sonnet-5,,
+Singapore,Twins SSR + N3 homophily network,POPMEAN,52.718140228798354,claude-sonnet-5,,
+South Africa,Twins DLR,POPMEAN,11.846153846153848,claude-sonnet-5,,
+South Africa,Twins SSR,POPMEAN,40.59646858920222,claude-sonnet-5,,
+South Africa,"Twins SSR (network subsample, round 1)",POPMEAN,41.03226739460869,claude-sonnet-5,,
+South Africa,Twins SSR + N1 self-reflection,POPMEAN,41.069847597335816,claude-sonnet-5,,
+South Africa,Twins SSR + N2 random network,POPMEAN,41.20862509038275,claude-sonnet-5,,
+South Africa,Twins SSR + N3 homophily network,POPMEAN,40.93422612109365,claude-sonnet-5,,
+Spain,Twins DLR,POPMEAN,25.384615384615383,claude-sonnet-5,,
+Spain,Twins SSR,POPMEAN,42.79764453291247,claude-sonnet-5,,
+Spain,"Twins SSR (network subsample, round 1)",POPMEAN,42.864241338169386,claude-sonnet-5,,
+Spain,Twins SSR + N1 self-reflection,POPMEAN,43.67208771202463,claude-sonnet-5,,
+Spain,Twins SSR + N2 random network,POPMEAN,42.94667836278924,claude-sonnet-5,,
+Spain,Twins SSR + N3 homophily network,POPMEAN,42.31724597808357,claude-sonnet-5,,
+Taiwan,Twins DLR,POPMEAN,56.76923076923077,claude-sonnet-5,,
+Taiwan,Twins SSR,POPMEAN,52.19435100518895,claude-sonnet-5,,
+Taiwan,"Twins SSR (network subsample, round 1)",POPMEAN,52.29970290677192,claude-sonnet-5,,
+Taiwan,Twins SSR + N1 self-reflection,POPMEAN,51.91274671014777,claude-sonnet-5,,
+Taiwan,Twins SSR + N2 random network,POPMEAN,51.98609881805408,claude-sonnet-5,,
+Taiwan,Twins SSR + N3 homophily network,POPMEAN,51.67671780110569,claude-sonnet-5,,
+Thailand,Twins DLR,POPMEAN,57.23076923076923,claude-sonnet-5,50.2,top
+Thailand,Twins SSR,POPMEAN,52.66425972867081,claude-sonnet-5,50.2,top
+Thailand,"Twins SSR (network subsample, round 1)",POPMEAN,52.17622695725541,claude-sonnet-5,50.2,top
+Thailand,Twins SSR + N1 self-reflection,POPMEAN,51.68908789409616,claude-sonnet-5,50.2,top
+Thailand,Twins SSR + N2 random network,POPMEAN,52.27091273279733,claude-sonnet-5,50.2,top
+Thailand,Twins SSR + N3 homophily network,POPMEAN,52.00004832851335,claude-sonnet-5,50.2,top
+Turkiye,Twins DLR,POPMEAN,19.0,claude-sonnet-5,,
+Turkiye,Twins SSR,POPMEAN,43.06151316305721,claude-sonnet-5,,
+Turkiye,"Twins SSR (network subsample, round 1)",POPMEAN,43.312112807037614,claude-sonnet-5,,
+Turkiye,Twins SSR + N1 self-reflection,POPMEAN,44.26567139472025,claude-sonnet-5,,
+Turkiye,Twins SSR + N2 random network,POPMEAN,43.634802123248924,claude-sonnet-5,,
+Turkiye,Twins SSR + N3 homophily network,POPMEAN,44.20569725105858,claude-sonnet-5,,
+UAE,Twins DLR,POPMEAN,37.61538461538461,claude-sonnet-5,52.8,top
+UAE,Twins SSR,POPMEAN,47.49858940689659,claude-sonnet-5,52.8,top
+UAE,"Twins SSR (network subsample, round 1)",POPMEAN,47.15378728699149,claude-sonnet-5,52.8,top
+UAE,Twins SSR + N1 self-reflection,POPMEAN,47.18773910763721,claude-sonnet-5,52.8,top
+UAE,Twins SSR + N2 random network,POPMEAN,46.84010633715548,claude-sonnet-5,52.8,top
+UAE,Twins SSR + N3 homophily network,POPMEAN,47.4836881994158,claude-sonnet-5,52.8,top
+United Kingdom,Twins DLR,POPMEAN,29.615384615384617,claude-sonnet-5,,
+United Kingdom,Twins SSR,POPMEAN,43.74700628624823,claude-sonnet-5,,
+United Kingdom,"Twins SSR (network subsample, round 1)",POPMEAN,44.63582771167785,claude-sonnet-5,,
+United Kingdom,Twins SSR + N1 self-reflection,POPMEAN,43.7370972969936,claude-sonnet-5,,
+United Kingdom,Twins SSR + N2 random network,POPMEAN,44.50734024247998,claude-sonnet-5,,
+United Kingdom,Twins SSR + N3 homophily network,POPMEAN,44.416839966792615,claude-sonnet-5,,
+United States,Twins DLR,POPMEAN,34.61538461538461,claude-sonnet-5,,
+United States,Twins SSR,POPMEAN,47.7522572269384,claude-sonnet-5,,
+United States,"Twins SSR (network subsample, round 1)",POPMEAN,47.70010971599698,claude-sonnet-5,,
+United States,Twins SSR + N1 self-reflection,POPMEAN,47.03249127052455,claude-sonnet-5,,
+United States,Twins SSR + N2 random network,POPMEAN,46.94276859677714,claude-sonnet-5,,
+United States,Twins SSR + N3 homophily network,POPMEAN,47.42244998198548,claude-sonnet-5,,
+Vietnam,Twins DLR,POPMEAN,58.92307692307692,claude-sonnet-5,53.1,top
+Vietnam,Twins SSR,POPMEAN,52.38676672843656,claude-sonnet-5,53.1,top
+Vietnam,"Twins SSR (network subsample, round 1)",POPMEAN,52.6188697004975,claude-sonnet-5,53.1,top
+Vietnam,Twins SSR + N1 self-reflection,POPMEAN,51.73632761042701,claude-sonnet-5,53.1,top
+Vietnam,Twins SSR + N2 random network,POPMEAN,52.35011914228226,claude-sonnet-5,53.1,top
+Vietnam,Twins SSR + N3 homophily network,POPMEAN,51.99788157397826,claude-sonnet-5,53.1,top
+Argentina,Twins DLR,XQ5,100.0,gpt-5.5,,
+Argentina,Twins DLR,XQ6,100.0,gpt-5.5,,
+Argentina,Twins SSR,XQ5,77.61277479461228,gpt-5.5,,
+Argentina,Twins SSR,XQ6,64.7108137607611,gpt-5.5,,
+Argentina,"Twins SSR (network subsample, round 1)",XQ5,77.0013425913122,gpt-5.5,,
+Argentina,"Twins SSR (network subsample, round 1)",XQ6,64.58991227050622,gpt-5.5,,
+Argentina,Twins SSR + N1 self-reflection,XQ5,76.08486872580316,gpt-5.5,,
+Argentina,Twins SSR + N1 self-reflection,XQ6,66.92735970020294,gpt-5.5,,
+Argentina,Twins SSR + N2 random network,XQ5,77.10873126983643,gpt-5.5,,
+Argentina,Twins SSR + N2 random network,XQ6,66.31166083117326,gpt-5.5,,
+Argentina,Twins SSR + N3 homophily network,XQ5,77.68498127659161,gpt-5.5,,
+Argentina,Twins SSR + N3 homophily network,XQ6,66.04627651472886,gpt-5.5,,
+Australia,Twins DLR,XQ5,100.0,gpt-5.5,,
+Australia,Twins DLR,XQ6,100.0,gpt-5.5,68.7,other
+Australia,Twins SSR,XQ5,77.53853832061465,gpt-5.5,,
+Australia,Twins SSR,XQ6,66.21658773347735,gpt-5.5,68.7,other
+Australia,"Twins SSR (network subsample, round 1)",XQ5,76.1921261706286,gpt-5.5,,
+Australia,"Twins SSR (network subsample, round 1)",XQ6,65.31132905433576,gpt-5.5,68.7,other
+Australia,Twins SSR + N1 self-reflection,XQ5,77.6810216696726,gpt-5.5,,
+Australia,Twins SSR + N1 self-reflection,XQ6,66.4563309897979,gpt-5.5,68.7,other
+Australia,Twins SSR + N2 random network,XQ5,76.78791729940308,gpt-5.5,,
+Australia,Twins SSR + N2 random network,XQ6,67.23928223053615,gpt-5.5,68.7,other
+Australia,Twins SSR + N3 homophily network,XQ5,76.12484198477532,gpt-5.5,,
+Australia,Twins SSR + N3 homophily network,XQ6,66.77045157800119,gpt-5.5,68.7,other
+Brazil,Twins DLR,XQ5,100.0,gpt-5.5,,
+Brazil,Twins DLR,XQ6,100.0,gpt-5.5,75.6,top
+Brazil,Twins SSR,XQ5,78.40345792720716,gpt-5.5,,
+Brazil,Twins SSR,XQ6,66.57478249445558,gpt-5.5,75.6,top
+Brazil,"Twins SSR (network subsample, round 1)",XQ5,75.56165248983436,gpt-5.5,,
+Brazil,"Twins SSR (network subsample, round 1)",XQ6,65.66562354564667,gpt-5.5,75.6,top
+Brazil,Twins SSR + N1 self-reflection,XQ5,75.68502249817054,gpt-5.5,,
+Brazil,Twins SSR + N1 self-reflection,XQ6,68.04856898883979,gpt-5.5,75.6,top
+Brazil,Twins SSR + N2 random network,XQ5,75.43328330748611,gpt-5.5,,
+Brazil,Twins SSR + N2 random network,XQ6,67.90272402266662,gpt-5.5,75.6,top
+Brazil,Twins SSR + N3 homophily network,XQ5,75.97070592972968,gpt-5.5,,
+Brazil,Twins SSR + N3 homophily network,XQ6,67.92868547141552,gpt-5.5,75.6,top
+Canada,Twins DLR,XQ5,100.0,gpt-5.5,,
+Canada,Twins DLR,XQ6,100.0,gpt-5.5,,
+Canada,Twins SSR,XQ5,77.53400124671559,gpt-5.5,,
+Canada,Twins SSR,XQ6,65.21944945678115,gpt-5.5,,
+Canada,"Twins SSR (network subsample, round 1)",XQ5,76.54531382024288,gpt-5.5,,
+Canada,"Twins SSR (network subsample, round 1)",XQ6,65.18816348165274,gpt-5.5,,
+Canada,Twins SSR + N1 self-reflection,XQ5,76.91707206269105,gpt-5.5,,
+Canada,Twins SSR + N1 self-reflection,XQ6,67.2652954608202,gpt-5.5,,
+Canada,Twins SSR + N2 random network,XQ5,76.72477767699294,gpt-5.5,,
+Canada,Twins SSR + N2 random network,XQ6,65.66297255456448,gpt-5.5,,
+Canada,Twins SSR + N3 homophily network,XQ5,76.89888478981125,gpt-5.5,,
+Canada,Twins SSR + N3 homophily network,XQ6,66.32617630064487,gpt-5.5,,
+Chile,Twins DLR,XQ5,100.0,gpt-5.5,,
+Chile,Twins DLR,XQ6,100.0,gpt-5.5,,
+Chile,Twins SSR,XQ5,79.05589279485866,gpt-5.5,,
+Chile,Twins SSR,XQ6,65.06077202409506,gpt-5.5,,
+Chile,"Twins SSR (network subsample, round 1)",XQ5,77.79660107360947,gpt-5.5,,
+Chile,"Twins SSR (network subsample, round 1)",XQ6,64.6135152131319,gpt-5.5,,
+Chile,Twins SSR + N1 self-reflection,XQ5,77.7832381427288,gpt-5.5,,
+Chile,Twins SSR + N1 self-reflection,XQ6,67.5782606502374,gpt-5.5,,
+Chile,Twins SSR + N2 random network,XQ5,77.7997471143802,gpt-5.5,,
+Chile,Twins SSR + N2 random network,XQ6,66.3451324403286,gpt-5.5,,
+Chile,Twins SSR + N3 homophily network,XQ5,77.59542400638263,gpt-5.5,,
+Chile,Twins SSR + N3 homophily network,XQ6,66.17997745672862,gpt-5.5,,
+China,Twins DLR,XQ5,98.0,gpt-5.5,,
+China,Twins DLR,XQ6,98.0,gpt-5.5,61.3,other
+China,Twins SSR,XQ5,77.47694949805737,gpt-5.5,,
+China,Twins SSR,XQ6,65.68966592662036,gpt-5.5,61.3,other
+China,"Twins SSR (network subsample, round 1)",XQ5,77.75521001882024,gpt-5.5,,
+China,"Twins SSR (network subsample, round 1)",XQ6,65.99910321955879,gpt-5.5,61.3,other
+China,Twins SSR + N1 self-reflection,XQ5,78.69763058092859,gpt-5.5,,
+China,Twins SSR + N1 self-reflection,XQ6,64.20825505476698,gpt-5.5,61.3,other
+China,Twins SSR + N2 random network,XQ5,77.46195995145374,gpt-5.5,,
+China,Twins SSR + N2 random network,XQ6,62.6968009754492,gpt-5.5,61.3,other
+China,Twins SSR + N3 homophily network,XQ5,77.41230982873175,gpt-5.5,,
+China,Twins SSR + N3 homophily network,XQ6,65.00322354336579,gpt-5.5,61.3,other
+Egypt,Twins DLR,XQ5,100.0,gpt-5.5,,
+Egypt,Twins DLR,XQ6,100.0,gpt-5.5,,
+Egypt,Twins SSR,XQ5,81.16479705584685,gpt-5.5,,
+Egypt,Twins SSR,XQ6,67.5081224925816,gpt-5.5,,
+Egypt,"Twins SSR (network subsample, round 1)",XQ5,80.23028899398115,gpt-5.5,,
+Egypt,"Twins SSR (network subsample, round 1)",XQ6,66.27316461876035,gpt-5.5,,
+Egypt,Twins SSR + N1 self-reflection,XQ5,80.83990056481626,gpt-5.5,,
+Egypt,Twins SSR + N1 self-reflection,XQ6,67.70477786660194,gpt-5.5,,
+Egypt,Twins SSR + N2 random network,XQ5,80.34480502208073,gpt-5.5,,
+Egypt,Twins SSR + N2 random network,XQ6,66.91961087286472,gpt-5.5,,
+Egypt,Twins SSR + N3 homophily network,XQ5,80.66861760285165,gpt-5.5,,
+Egypt,Twins SSR + N3 homophily network,XQ6,67.72639859467745,gpt-5.5,,
+France,Twins DLR,XQ5,100.0,gpt-5.5,58.2,bottom
+France,Twins DLR,XQ6,100.0,gpt-5.5,56.8,bottom
+France,Twins SSR,XQ5,77.06311779221109,gpt-5.5,58.2,bottom
+France,Twins SSR,XQ6,63.5568283887842,gpt-5.5,56.8,bottom
+France,"Twins SSR (network subsample, round 1)",XQ5,77.1574527108007,gpt-5.5,58.2,bottom
+France,"Twins SSR (network subsample, round 1)",XQ6,62.98229074673145,gpt-5.5,56.8,bottom
+France,Twins SSR + N1 self-reflection,XQ5,76.5621224211322,gpt-5.5,58.2,bottom
+France,Twins SSR + N1 self-reflection,XQ6,67.1353413661321,gpt-5.5,56.8,bottom
+France,Twins SSR + N2 random network,XQ5,77.16661906076801,gpt-5.5,58.2,bottom
+France,Twins SSR + N2 random network,XQ6,66.19700156152248,gpt-5.5,56.8,bottom
+France,Twins SSR + N3 homophily network,XQ5,76.64593214790027,gpt-5.5,58.2,bottom
+France,Twins SSR + N3 homophily network,XQ6,63.79011859496435,gpt-5.5,56.8,bottom
+Germany,Twins DLR,XQ5,100.0,gpt-5.5,54.4,bottom
+Germany,Twins DLR,XQ6,100.0,gpt-5.5,51.6,bottom
+Germany,Twins SSR,XQ5,79.18779517213504,gpt-5.5,54.4,bottom
+Germany,Twins SSR,XQ6,65.49639290944049,gpt-5.5,51.6,bottom
+Germany,"Twins SSR (network subsample, round 1)",XQ5,78.56125877963173,gpt-5.5,54.4,bottom
+Germany,"Twins SSR (network subsample, round 1)",XQ6,64.36367144188316,gpt-5.5,51.6,bottom
+Germany,Twins SSR + N1 self-reflection,XQ5,78.57020331499776,gpt-5.5,54.4,bottom
+Germany,Twins SSR + N1 self-reflection,XQ6,66.29691918690999,gpt-5.5,51.6,bottom
+Germany,Twins SSR + N2 random network,XQ5,78.05545443462002,gpt-5.5,54.4,bottom
+Germany,Twins SSR + N2 random network,XQ6,65.3797094275554,gpt-5.5,51.6,bottom
+Germany,Twins SSR + N3 homophily network,XQ5,77.95741682251294,gpt-5.5,54.4,bottom
+Germany,Twins SSR + N3 homophily network,XQ6,66.22330925116937,gpt-5.5,51.6,bottom
+India,Twins DLR,XQ5,100.0,gpt-5.5,83.8,top
+India,Twins DLR,XQ6,100.0,gpt-5.5,83.3,top
+India,Twins SSR,XQ5,81.23699226975576,gpt-5.5,83.8,top
+India,Twins SSR,XQ6,68.61593231186271,gpt-5.5,83.3,top
+India,"Twins SSR (network subsample, round 1)",XQ5,81.5391136871444,gpt-5.5,83.8,top
+India,"Twins SSR (network subsample, round 1)",XQ6,68.63033326963584,gpt-5.5,83.3,top
+India,Twins SSR + N1 self-reflection,XQ5,81.63717307978206,gpt-5.5,83.8,top
+India,Twins SSR + N1 self-reflection,XQ6,69.16035957634449,gpt-5.5,83.3,top
+India,Twins SSR + N2 random network,XQ5,80.76301239844825,gpt-5.5,83.8,top
+India,Twins SSR + N2 random network,XQ6,68.12159487356742,gpt-5.5,83.3,top
+India,Twins SSR + N3 homophily network,XQ5,80.8694578624434,gpt-5.5,83.8,top
+India,Twins SSR + N3 homophily network,XQ6,68.72271200021108,gpt-5.5,83.3,top
+Indonesia,Twins DLR,XQ5,100.0,gpt-5.5,82.7,top
+Indonesia,Twins DLR,XQ6,100.0,gpt-5.5,,
+Indonesia,Twins SSR,XQ5,82.26889847715697,gpt-5.5,82.7,top
+Indonesia,Twins SSR,XQ6,69.256462873891,gpt-5.5,,
+Indonesia,"Twins SSR (network subsample, round 1)",XQ5,81.55952072805829,gpt-5.5,82.7,top
+Indonesia,"Twins SSR (network subsample, round 1)",XQ6,70.09857065975666,gpt-5.5,,
+Indonesia,Twins SSR + N1 self-reflection,XQ5,81.71929818060663,gpt-5.5,82.7,top
+Indonesia,Twins SSR + N1 self-reflection,XQ6,69.8087355742852,gpt-5.5,,
+Indonesia,Twins SSR + N2 random network,XQ5,81.86405276258786,gpt-5.5,82.7,top
+Indonesia,Twins SSR + N2 random network,XQ6,69.9176708360513,gpt-5.5,,
+Indonesia,Twins SSR + N3 homophily network,XQ5,81.51655849483278,gpt-5.5,82.7,top
+Indonesia,Twins SSR + N3 homophily network,XQ6,70.82547761499882,gpt-5.5,,
+Italy,Twins DLR,XQ5,100.0,gpt-5.5,56.4,bottom
+Italy,Twins DLR,XQ6,99.0,gpt-5.5,56.2,bottom
+Italy,Twins SSR,XQ5,77.5399967661771,gpt-5.5,56.4,bottom
+Italy,Twins SSR,XQ6,64.39716642093845,gpt-5.5,56.2,bottom
+Italy,"Twins SSR (network subsample, round 1)",XQ5,77.7167275796334,gpt-5.5,56.4,bottom
+Italy,"Twins SSR (network subsample, round 1)",XQ6,64.23648954446737,gpt-5.5,56.2,bottom
+Italy,Twins SSR + N1 self-reflection,XQ5,78.08322023186419,gpt-5.5,56.4,bottom
+Italy,Twins SSR + N1 self-reflection,XQ6,67.23288307587306,gpt-5.5,56.2,bottom
+Italy,Twins SSR + N2 random network,XQ5,78.01189220199983,gpt-5.5,56.4,bottom
+Italy,Twins SSR + N2 random network,XQ6,66.97631699343522,gpt-5.5,56.2,bottom
+Italy,Twins SSR + N3 homophily network,XQ5,78.29439903299014,gpt-5.5,56.4,bottom
+Italy,Twins SSR + N3 homophily network,XQ6,67.17911764979362,gpt-5.5,56.2,bottom
+Japan,Twins DLR,XQ5,100.0,gpt-5.5,52.7,bottom
+Japan,Twins DLR,XQ6,100.0,gpt-5.5,36.4,bottom
+Japan,Twins SSR,XQ5,79.56009004513423,gpt-5.5,52.7,bottom
+Japan,Twins SSR,XQ6,65.39442090690675,gpt-5.5,36.4,bottom
+Japan,"Twins SSR (network subsample, round 1)",XQ5,79.96006142761972,gpt-5.5,52.7,bottom
+Japan,"Twins SSR (network subsample, round 1)",XQ6,65.78816837320726,gpt-5.5,36.4,bottom
+Japan,Twins SSR + N1 self-reflection,XQ5,79.39157070385086,gpt-5.5,52.7,bottom
+Japan,Twins SSR + N1 self-reflection,XQ6,67.36142498751481,gpt-5.5,36.4,bottom
+Japan,Twins SSR + N2 random network,XQ5,79.64872659908401,gpt-5.5,52.7,bottom
+Japan,Twins SSR + N2 random network,XQ6,66.89489309986432,gpt-5.5,36.4,bottom
+Japan,Twins SSR + N3 homophily network,XQ5,80.11051384939087,gpt-5.5,52.7,bottom
+Japan,Twins SSR + N3 homophily network,XQ6,66.82185356196318,gpt-5.5,36.4,bottom
+Kazakhstan,Twins DLR,XQ5,99.0,gpt-5.5,50.8,bottom
+Kazakhstan,Twins DLR,XQ6,99.0,gpt-5.5,59.5,bottom
+Kazakhstan,Twins SSR,XQ5,79.99436882634957,gpt-5.5,50.8,bottom
+Kazakhstan,Twins SSR,XQ6,67.23389034066349,gpt-5.5,59.5,bottom
+Kazakhstan,"Twins SSR (network subsample, round 1)",XQ5,80.29423713684082,gpt-5.5,50.8,bottom
+Kazakhstan,"Twins SSR (network subsample, round 1)",XQ6,67.71743083993594,gpt-5.5,59.5,bottom
+Kazakhstan,Twins SSR + N1 self-reflection,XQ5,79.7300934791565,gpt-5.5,50.8,bottom
+Kazakhstan,Twins SSR + N1 self-reflection,XQ6,68.94749027987321,gpt-5.5,59.5,bottom
+Kazakhstan,Twins SSR + N2 random network,XQ5,80.27761350075404,gpt-5.5,50.8,bottom
+Kazakhstan,Twins SSR + N2 random network,XQ6,68.63879064718883,gpt-5.5,59.5,bottom
+Kazakhstan,Twins SSR + N3 homophily network,XQ5,78.79342637956142,gpt-5.5,50.8,bottom
+Kazakhstan,Twins SSR + N3 homophily network,XQ6,69.15546422203381,gpt-5.5,59.5,bottom
+Malaysia,Twins DLR,XQ5,100.0,gpt-5.5,77.4,top
+Malaysia,Twins DLR,XQ6,100.0,gpt-5.5,,
+Malaysia,Twins SSR,XQ5,79.12929822256305,gpt-5.5,77.4,top
+Malaysia,Twins SSR,XQ6,68.03150067012757,gpt-5.5,,
+Malaysia,"Twins SSR (network subsample, round 1)",XQ5,80.22819116711617,gpt-5.5,77.4,top
+Malaysia,"Twins SSR (network subsample, round 1)",XQ6,68.16580814619859,gpt-5.5,,
+Malaysia,Twins SSR + N1 self-reflection,XQ5,80.22717027200592,gpt-5.5,77.4,top
+Malaysia,Twins SSR + N1 self-reflection,XQ6,70.35453940431277,gpt-5.5,,
+Malaysia,Twins SSR + N2 random network,XQ5,80.34056906898816,gpt-5.5,77.4,top
+Malaysia,Twins SSR + N2 random network,XQ6,69.75229089458783,gpt-5.5,,
+Malaysia,Twins SSR + N3 homophily network,XQ5,79.9387738108635,gpt-5.5,77.4,top
+Malaysia,Twins SSR + N3 homophily network,XQ6,69.7276855011781,gpt-5.5,,
+Mexico,Twins DLR,XQ5,100.0,gpt-5.5,78.9,top
+Mexico,Twins DLR,XQ6,100.0,gpt-5.5,79.8,top
+Mexico,Twins SSR,XQ5,78.90282461047173,gpt-5.5,78.9,top
+Mexico,Twins SSR,XQ6,65.77427837997675,gpt-5.5,79.8,top
+Mexico,"Twins SSR (network subsample, round 1)",XQ5,76.91209268238809,gpt-5.5,78.9,top
+Mexico,"Twins SSR (network subsample, round 1)",XQ6,65.05009386688471,gpt-5.5,79.8,top
+Mexico,Twins SSR + N1 self-reflection,XQ5,77.74164212246735,gpt-5.5,78.9,top
+Mexico,Twins SSR + N1 self-reflection,XQ6,67.86363440255325,gpt-5.5,79.8,top
+Mexico,Twins SSR + N2 random network,XQ5,76.8326336476538,gpt-5.5,78.9,top
+Mexico,Twins SSR + N2 random network,XQ6,66.99310277899106,gpt-5.5,79.8,top
+Mexico,Twins SSR + N3 homophily network,XQ5,77.58409644996043,gpt-5.5,78.9,top
+Mexico,Twins SSR + N3 homophily network,XQ6,67.87685076395671,gpt-5.5,79.8,top
+Philippines,Twins DLR,XQ5,100.0,gpt-5.5,87.0,top
+Philippines,Twins DLR,XQ6,100.0,gpt-5.5,85.6,top
+Philippines,Twins SSR,XQ5,81.80495845774999,gpt-5.5,87.0,top
+Philippines,Twins SSR,XQ6,69.65647196769714,gpt-5.5,85.6,top
+Philippines,"Twins SSR (network subsample, round 1)",XQ5,82.20649434460533,gpt-5.5,87.0,top
+Philippines,"Twins SSR (network subsample, round 1)",XQ6,69.58000106116135,gpt-5.5,85.6,top
+Philippines,Twins SSR + N1 self-reflection,XQ5,81.94056757622295,gpt-5.5,87.0,top
+Philippines,Twins SSR + N1 self-reflection,XQ6,70.52603167792161,gpt-5.5,85.6,top
+Philippines,Twins SSR + N2 random network,XQ5,82.70554828974936,gpt-5.5,87.0,top
+Philippines,Twins SSR + N2 random network,XQ6,69.09440847734611,gpt-5.5,85.6,top
+Philippines,Twins SSR + N3 homophily network,XQ5,82.85155511564679,gpt-5.5,87.0,top
+Philippines,Twins SSR + N3 homophily network,XQ6,70.18311440944672,gpt-5.5,85.6,top
+Poland,Twins DLR,XQ5,99.0,gpt-5.5,54.4,bottom
+Poland,Twins DLR,XQ6,99.0,gpt-5.5,53.4,bottom
+Poland,Twins SSR,XQ5,75.89580941883226,gpt-5.5,54.4,bottom
+Poland,Twins SSR,XQ6,63.79085274413998,gpt-5.5,53.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",XQ5,75.76612125668261,gpt-5.5,54.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",XQ6,63.25560489049621,gpt-5.5,53.4,bottom
+Poland,Twins SSR + N1 self-reflection,XQ5,75.4842790050639,gpt-5.5,54.4,bottom
+Poland,Twins SSR + N1 self-reflection,XQ6,65.08461140096188,gpt-5.5,53.4,bottom
+Poland,Twins SSR + N2 random network,XQ5,74.78357416060236,gpt-5.5,54.4,bottom
+Poland,Twins SSR + N2 random network,XQ6,64.73616513113181,gpt-5.5,53.4,bottom
+Poland,Twins SSR + N3 homophily network,XQ5,75.07368851866987,gpt-5.5,54.4,bottom
+Poland,Twins SSR + N3 homophily network,XQ6,64.91539694368839,gpt-5.5,53.4,bottom
+Russia,Twins DLR,XQ5,99.0,gpt-5.5,44.5,bottom
+Russia,Twins DLR,XQ6,99.0,gpt-5.5,48.6,bottom
+Russia,Twins SSR,XQ5,77.95007135967414,gpt-5.5,44.5,bottom
+Russia,Twins SSR,XQ6,64.42937392369161,gpt-5.5,48.6,bottom
+Russia,"Twins SSR (network subsample, round 1)",XQ5,76.7582407179806,gpt-5.5,44.5,bottom
+Russia,"Twins SSR (network subsample, round 1)",XQ6,65.26440175871055,gpt-5.5,48.6,bottom
+Russia,Twins SSR + N1 self-reflection,XQ5,76.77574446631802,gpt-5.5,44.5,bottom
+Russia,Twins SSR + N1 self-reflection,XQ6,67.65110182265441,gpt-5.5,48.6,bottom
+Russia,Twins SSR + N2 random network,XQ5,77.12336417701509,gpt-5.5,44.5,bottom
+Russia,Twins SSR + N2 random network,XQ6,64.53183198969944,gpt-5.5,48.6,bottom
+Russia,Twins SSR + N3 homophily network,XQ5,76.92465805345111,gpt-5.5,44.5,bottom
+Russia,Twins SSR + N3 homophily network,XQ6,66.55714462200801,gpt-5.5,48.6,bottom
+Saudi Arabia,Twins DLR,XQ5,100.0,gpt-5.5,,
+Saudi Arabia,Twins DLR,XQ6,100.0,gpt-5.5,,
+Saudi Arabia,Twins SSR,XQ5,79.96924574797352,gpt-5.5,,
+Saudi Arabia,Twins SSR,XQ6,68.46617828682065,gpt-5.5,,
+Saudi Arabia,"Twins SSR (network subsample, round 1)",XQ5,79.98240174932612,gpt-5.5,,
+Saudi Arabia,"Twins SSR (network subsample, round 1)",XQ6,68.62581390887499,gpt-5.5,,
+Saudi Arabia,Twins SSR + N1 self-reflection,XQ5,80.36825492150254,gpt-5.5,,
+Saudi Arabia,Twins SSR + N1 self-reflection,XQ6,68.4900788962841,gpt-5.5,,
+Saudi Arabia,Twins SSR + N2 random network,XQ5,79.7755816578865,gpt-5.5,,
+Saudi Arabia,Twins SSR + N2 random network,XQ6,67.2947700011361,gpt-5.5,,
+Saudi Arabia,Twins SSR + N3 homophily network,XQ5,79.5729384985235,gpt-5.5,,
+Saudi Arabia,Twins SSR + N3 homophily network,XQ6,68.81518413623174,gpt-5.5,,
+Singapore,Twins DLR,XQ5,100.0,gpt-5.5,,
+Singapore,Twins DLR,XQ6,100.0,gpt-5.5,,
+Singapore,Twins SSR,XQ5,79.92419695357482,gpt-5.5,,
+Singapore,Twins SSR,XQ6,68.05621115491314,gpt-5.5,,
+Singapore,"Twins SSR (network subsample, round 1)",XQ5,80.14856240815587,gpt-5.5,,
+Singapore,"Twins SSR (network subsample, round 1)",XQ6,67.50113675993427,gpt-5.5,,
+Singapore,Twins SSR + N1 self-reflection,XQ5,79.32851269841932,gpt-5.5,,
+Singapore,Twins SSR + N1 self-reflection,XQ6,68.92520898332198,gpt-5.5,,
+Singapore,Twins SSR + N2 random network,XQ5,79.13415962623226,gpt-5.5,,
+Singapore,Twins SSR + N2 random network,XQ6,68.50682217627764,gpt-5.5,,
+Singapore,Twins SSR + N3 homophily network,XQ5,78.53176659180058,gpt-5.5,,
+Singapore,Twins SSR + N3 homophily network,XQ6,66.76636514565554,gpt-5.5,,
+South Africa,Twins DLR,XQ5,100.0,gpt-5.5,,
+South Africa,Twins DLR,XQ6,100.0,gpt-5.5,78.2,top
+South Africa,Twins SSR,XQ5,78.46452069034179,gpt-5.5,,
+South Africa,Twins SSR,XQ6,66.33500329033082,gpt-5.5,78.2,top
+South Africa,"Twins SSR (network subsample, round 1)",XQ5,79.53431735850043,gpt-5.5,,
+South Africa,"Twins SSR (network subsample, round 1)",XQ6,66.26070837181626,gpt-5.5,78.2,top
+South Africa,Twins SSR + N1 self-reflection,XQ5,78.50127995842033,gpt-5.5,,
+South Africa,Twins SSR + N1 self-reflection,XQ6,67.93764779965083,gpt-5.5,78.2,top
+South Africa,Twins SSR + N2 random network,XQ5,79.27387668854661,gpt-5.5,,
+South Africa,Twins SSR + N2 random network,XQ6,67.67108259101708,gpt-5.5,78.2,top
+South Africa,Twins SSR + N3 homophily network,XQ5,78.70849168962903,gpt-5.5,,
+South Africa,Twins SSR + N3 homophily network,XQ6,67.76773067812125,gpt-5.5,78.2,top
+Spain,Twins DLR,XQ5,100.0,gpt-5.5,,
+Spain,Twins DLR,XQ6,100.0,gpt-5.5,,
+Spain,Twins SSR,XQ5,79.29714820099373,gpt-5.5,,
+Spain,Twins SSR,XQ6,65.07464879642066,gpt-5.5,,
+Spain,"Twins SSR (network subsample, round 1)",XQ5,80.12047012646993,gpt-5.5,,
+Spain,"Twins SSR (network subsample, round 1)",XQ6,66.00250288844109,gpt-5.5,,
+Spain,Twins SSR + N1 self-reflection,XQ5,79.23508455355962,gpt-5.5,,
+Spain,Twins SSR + N1 self-reflection,XQ6,67.76028854151566,gpt-5.5,,
+Spain,Twins SSR + N2 random network,XQ5,79.7795063422786,gpt-5.5,,
+Spain,Twins SSR + N2 random network,XQ6,66.53796230753262,gpt-5.5,,
+Spain,Twins SSR + N3 homophily network,XQ5,80.73217872116301,gpt-5.5,,
+Spain,Twins SSR + N3 homophily network,XQ6,66.78457909574111,gpt-5.5,,
+Taiwan,Twins DLR,XQ5,100.0,gpt-5.5,,
+Taiwan,Twins DLR,XQ6,100.0,gpt-5.5,,
+Taiwan,Twins SSR,XQ5,79.92686538894971,gpt-5.5,,
+Taiwan,Twins SSR,XQ6,68.14740542136133,gpt-5.5,,
+Taiwan,"Twins SSR (network subsample, round 1)",XQ5,80.2039830883344,gpt-5.5,,
+Taiwan,"Twins SSR (network subsample, round 1)",XQ6,69.85747322440147,gpt-5.5,,
+Taiwan,Twins SSR + N1 self-reflection,XQ5,80.668965280056,gpt-5.5,,
+Taiwan,Twins SSR + N1 self-reflection,XQ6,68.0871868878603,gpt-5.5,,
+Taiwan,Twins SSR + N2 random network,XQ5,79.65255488952,gpt-5.5,,
+Taiwan,Twins SSR + N2 random network,XQ6,68.61377706130345,gpt-5.5,,
+Taiwan,Twins SSR + N3 homophily network,XQ5,79.70205979214775,gpt-5.5,,
+Taiwan,Twins SSR + N3 homophily network,XQ6,69.18769647677739,gpt-5.5,,
+Thailand,Twins DLR,XQ5,100.0,gpt-5.5,79.4,top
+Thailand,Twins DLR,XQ6,100.0,gpt-5.5,72.5,other
+Thailand,Twins SSR,XQ5,81.64533756921689,gpt-5.5,79.4,top
+Thailand,Twins SSR,XQ6,69.52686851471663,gpt-5.5,72.5,other
+Thailand,"Twins SSR (network subsample, round 1)",XQ5,81.16213220689032,gpt-5.5,79.4,top
+Thailand,"Twins SSR (network subsample, round 1)",XQ6,69.58288701872031,gpt-5.5,72.5,other
+Thailand,Twins SSR + N1 self-reflection,XQ5,78.94103870623641,gpt-5.5,79.4,top
+Thailand,Twins SSR + N1 self-reflection,XQ6,70.68832263350487,gpt-5.5,72.5,other
+Thailand,Twins SSR + N2 random network,XQ5,80.59704257796209,gpt-5.5,79.4,top
+Thailand,Twins SSR + N2 random network,XQ6,70.9670477360487,gpt-5.5,72.5,other
+Thailand,Twins SSR + N3 homophily network,XQ5,80.71725862721603,gpt-5.5,79.4,top
+Thailand,Twins SSR + N3 homophily network,XQ6,71.82481375833352,gpt-5.5,72.5,other
+Turkiye,Twins DLR,XQ5,99.0,gpt-5.5,,
+Turkiye,Twins DLR,XQ6,99.0,gpt-5.5,69.2,other
+Turkiye,Twins SSR,XQ5,78.95237236966689,gpt-5.5,,
+Turkiye,Twins SSR,XQ6,67.16494150087237,gpt-5.5,69.2,other
+Turkiye,"Twins SSR (network subsample, round 1)",XQ5,79.79433455400996,gpt-5.5,,
+Turkiye,"Twins SSR (network subsample, round 1)",XQ6,67.71488825480144,gpt-5.5,69.2,other
+Turkiye,Twins SSR + N1 self-reflection,XQ5,79.93847677277195,gpt-5.5,,
+Turkiye,Twins SSR + N1 self-reflection,XQ6,68.62405347327392,gpt-5.5,69.2,other
+Turkiye,Twins SSR + N2 random network,XQ5,80.90718219677608,gpt-5.5,,
+Turkiye,Twins SSR + N2 random network,XQ6,67.12007321417332,gpt-5.5,69.2,other
+Turkiye,Twins SSR + N3 homophily network,XQ5,81.17999992436833,gpt-5.5,,
+Turkiye,Twins SSR + N3 homophily network,XQ6,67.740368694067,gpt-5.5,69.2,other
+UAE,Twins DLR,XQ5,100.0,gpt-5.5,78.0,top
+UAE,Twins DLR,XQ6,100.0,gpt-5.5,78.5,top
+UAE,Twins SSR,XQ5,80.83383872856696,gpt-5.5,78.0,top
+UAE,Twins SSR,XQ6,69.54277569055557,gpt-5.5,78.5,top
+UAE,"Twins SSR (network subsample, round 1)",XQ5,81.34703646103542,gpt-5.5,78.0,top
+UAE,"Twins SSR (network subsample, round 1)",XQ6,69.23060702780883,gpt-5.5,78.5,top
+UAE,Twins SSR + N1 self-reflection,XQ5,81.36626386394103,gpt-5.5,78.0,top
+UAE,Twins SSR + N1 self-reflection,XQ6,70.66598199307919,gpt-5.5,78.5,top
+UAE,Twins SSR + N2 random network,XQ5,81.52501206431124,gpt-5.5,78.0,top
+UAE,Twins SSR + N2 random network,XQ6,70.20077124238014,gpt-5.5,78.5,top
+UAE,Twins SSR + N3 homophily network,XQ5,81.82196804218822,gpt-5.5,78.0,top
+UAE,Twins SSR + N3 homophily network,XQ6,71.55858571330707,gpt-5.5,78.5,top
+United Kingdom,Twins DLR,XQ5,100.0,gpt-5.5,,
+United Kingdom,Twins DLR,XQ6,100.0,gpt-5.5,71.1,other
+United Kingdom,Twins SSR,XQ5,77.54008753101031,gpt-5.5,,
+United Kingdom,Twins SSR,XQ6,65.01786479726434,gpt-5.5,71.1,other
+United Kingdom,"Twins SSR (network subsample, round 1)",XQ5,79.170496666597,gpt-5.5,,
+United Kingdom,"Twins SSR (network subsample, round 1)",XQ6,65.91197835902373,gpt-5.5,71.1,other
+United Kingdom,Twins SSR + N1 self-reflection,XQ5,78.5149583303266,gpt-5.5,,
+United Kingdom,Twins SSR + N1 self-reflection,XQ6,66.05316940696548,gpt-5.5,71.1,other
+United Kingdom,Twins SSR + N2 random network,XQ5,80.719365419613,gpt-5.5,,
+United Kingdom,Twins SSR + N2 random network,XQ6,66.84296374519666,gpt-5.5,71.1,other
+United Kingdom,Twins SSR + N3 homophily network,XQ5,79.1694413125515,gpt-5.5,,
+United Kingdom,Twins SSR + N3 homophily network,XQ6,66.83357164263725,gpt-5.5,71.1,other
+United States,Twins DLR,XQ5,100.0,gpt-5.5,,
+United States,Twins DLR,XQ6,100.0,gpt-5.5,,
+United States,Twins SSR,XQ5,78.66371647765239,gpt-5.5,,
+United States,Twins SSR,XQ6,65.29707761855246,gpt-5.5,,
+United States,"Twins SSR (network subsample, round 1)",XQ5,77.76622019708157,gpt-5.5,,
+United States,"Twins SSR (network subsample, round 1)",XQ6,65.40528773021097,gpt-5.5,,
+United States,Twins SSR + N1 self-reflection,XQ5,77.50193151334922,gpt-5.5,,
+United States,Twins SSR + N1 self-reflection,XQ6,65.72767801582813,gpt-5.5,,
+United States,Twins SSR + N2 random network,XQ5,77.40783827172386,gpt-5.5,,
+United States,Twins SSR + N2 random network,XQ6,65.3253927520321,gpt-5.5,,
+United States,Twins SSR + N3 homophily network,XQ5,78.10689016348786,gpt-5.5,,
+United States,Twins SSR + N3 homophily network,XQ6,65.1635096097986,gpt-5.5,,
+Vietnam,Twins DLR,XQ5,100.0,gpt-5.5,,
+Vietnam,Twins DLR,XQ6,100.0,gpt-5.5,76.1,top
+Vietnam,Twins SSR,XQ5,80.67863838126262,gpt-5.5,,
+Vietnam,Twins SSR,XQ6,69.7370573207736,gpt-5.5,76.1,top
+Vietnam,"Twins SSR (network subsample, round 1)",XQ5,81.53402631481488,gpt-5.5,,
+Vietnam,"Twins SSR (network subsample, round 1)",XQ6,70.56351594626904,gpt-5.5,76.1,top
+Vietnam,Twins SSR + N1 self-reflection,XQ5,80.83847151862251,gpt-5.5,,
+Vietnam,Twins SSR + N1 self-reflection,XQ6,70.97283783058326,gpt-5.5,76.1,top
+Vietnam,Twins SSR + N2 random network,XQ5,81.14330979684989,gpt-5.5,,
+Vietnam,Twins SSR + N2 random network,XQ6,71.09163299202919,gpt-5.5,76.1,top
+Vietnam,Twins SSR + N3 homophily network,XQ5,81.02034360170364,gpt-5.5,,
+Vietnam,Twins SSR + N3 homophily network,XQ6,71.45318056146304,gpt-5.5,76.1,top
+Argentina,Twins DLR,POPMEAN,24.153846153846157,gpt-5.5,33.7,bottom
+Argentina,Twins SSR,POPMEAN,46.54306896086277,gpt-5.5,33.7,bottom
+Argentina,"Twins SSR (network subsample, round 1)",POPMEAN,45.39371211617221,gpt-5.5,33.7,bottom
+Argentina,Twins SSR + N1 self-reflection,POPMEAN,45.233933637342986,gpt-5.5,33.7,bottom
+Argentina,Twins SSR + N2 random network,POPMEAN,45.08335823782341,gpt-5.5,33.7,bottom
+Argentina,Twins SSR + N3 homophily network,POPMEAN,46.012298904264966,gpt-5.5,33.7,bottom
+Australia,Twins DLR,POPMEAN,38.46153846153846,gpt-5.5,,
+Australia,Twins SSR,POPMEAN,51.94162772880749,gpt-5.5,,
+Australia,"Twins SSR (network subsample, round 1)",POPMEAN,50.87844486711982,gpt-5.5,,
+Australia,Twins SSR + N1 self-reflection,POPMEAN,50.31343388105096,gpt-5.5,,
+Australia,Twins SSR + N2 random network,POPMEAN,50.42243387147584,gpt-5.5,,
+Australia,Twins SSR + N3 homophily network,POPMEAN,50.91364499915793,gpt-5.5,,
+Brazil,Twins DLR,POPMEAN,32.46153846153846,gpt-5.5,,
+Brazil,Twins SSR,POPMEAN,48.47633761922796,gpt-5.5,,
+Brazil,"Twins SSR (network subsample, round 1)",POPMEAN,46.23004729325526,gpt-5.5,,
+Brazil,Twins SSR + N1 self-reflection,POPMEAN,45.567762081721895,gpt-5.5,,
+Brazil,Twins SSR + N2 random network,POPMEAN,46.90979599815133,gpt-5.5,,
+Brazil,Twins SSR + N3 homophily network,POPMEAN,46.70572014044687,gpt-5.5,,
+Canada,Twins DLR,POPMEAN,37.46153846153846,gpt-5.5,34.5,bottom
+Canada,Twins SSR,POPMEAN,51.86430515381697,gpt-5.5,34.5,bottom
+Canada,"Twins SSR (network subsample, round 1)",POPMEAN,51.12520519430162,gpt-5.5,34.5,bottom
+Canada,Twins SSR + N1 self-reflection,POPMEAN,50.90498236779921,gpt-5.5,34.5,bottom
+Canada,Twins SSR + N2 random network,POPMEAN,50.914080853181545,gpt-5.5,34.5,bottom
+Canada,Twins SSR + N3 homophily network,POPMEAN,51.37373972316431,gpt-5.5,34.5,bottom
+Chile,Twins DLR,POPMEAN,33.07692307692308,gpt-5.5,,
+Chile,Twins SSR,POPMEAN,49.45538172346699,gpt-5.5,,
+Chile,"Twins SSR (network subsample, round 1)",POPMEAN,49.35489682022831,gpt-5.5,,
+Chile,Twins SSR + N1 self-reflection,POPMEAN,48.77596367137714,gpt-5.5,,
+Chile,Twins SSR + N2 random network,POPMEAN,49.26540287113577,gpt-5.5,,
+Chile,Twins SSR + N3 homophily network,POPMEAN,49.96401555560208,gpt-5.5,,
+China,Twins DLR,POPMEAN,40.0,gpt-5.5,,
+China,Twins SSR,POPMEAN,53.47842926156749,gpt-5.5,,
+China,"Twins SSR (network subsample, round 1)",POPMEAN,53.91346384413569,gpt-5.5,,
+China,Twins SSR + N1 self-reflection,POPMEAN,53.09070643464251,gpt-5.5,,
+China,Twins SSR + N2 random network,POPMEAN,55.46443451451796,gpt-5.5,,
+China,Twins SSR + N3 homophily network,POPMEAN,54.85125913412208,gpt-5.5,,
+Egypt,Twins DLR,POPMEAN,28.76923076923077,gpt-5.5,,
+Egypt,Twins SSR,POPMEAN,47.98155207768229,gpt-5.5,,
+Egypt,"Twins SSR (network subsample, round 1)",POPMEAN,47.85659250026674,gpt-5.5,,
+Egypt,Twins SSR + N1 self-reflection,POPMEAN,46.839970107956034,gpt-5.5,,
+Egypt,Twins SSR + N2 random network,POPMEAN,48.95437866051366,gpt-5.5,,
+Egypt,Twins SSR + N3 homophily network,POPMEAN,49.044572722237376,gpt-5.5,,
+France,Twins DLR,POPMEAN,33.38461538461539,gpt-5.5,,
+France,Twins SSR,POPMEAN,47.76801521742257,gpt-5.5,,
+France,"Twins SSR (network subsample, round 1)",POPMEAN,48.26923193854665,gpt-5.5,,
+France,Twins SSR + N1 self-reflection,POPMEAN,46.78530760488592,gpt-5.5,,
+France,Twins SSR + N2 random network,POPMEAN,47.64793654030583,gpt-5.5,,
+France,Twins SSR + N3 homophily network,POPMEAN,47.54324665420066,gpt-5.5,,
+Germany,Twins DLR,POPMEAN,28.846153846153847,gpt-5.5,31.3,bottom
+Germany,Twins SSR,POPMEAN,47.52832513924768,gpt-5.5,31.3,bottom
+Germany,"Twins SSR (network subsample, round 1)",POPMEAN,47.09143429945045,gpt-5.5,31.3,bottom
+Germany,Twins SSR + N1 self-reflection,POPMEAN,46.50875480499053,gpt-5.5,31.3,bottom
+Germany,Twins SSR + N2 random network,POPMEAN,47.07377353868191,gpt-5.5,31.3,bottom
+Germany,Twins SSR + N3 homophily network,POPMEAN,47.5000301349936,gpt-5.5,31.3,bottom
+India,Twins DLR,POPMEAN,39.30769230769231,gpt-5.5,53.4,top
+India,Twins SSR,POPMEAN,50.59132305995359,gpt-5.5,53.4,top
+India,"Twins SSR (network subsample, round 1)",POPMEAN,51.02151274158902,gpt-5.5,53.4,top
+India,Twins SSR + N1 self-reflection,POPMEAN,49.90372725878712,gpt-5.5,53.4,top
+India,Twins SSR + N2 random network,POPMEAN,52.0382411155625,gpt-5.5,53.4,top
+India,Twins SSR + N3 homophily network,POPMEAN,51.919562122652486,gpt-5.5,53.4,top
+Indonesia,Twins DLR,POPMEAN,63.15384615384615,gpt-5.5,,
+Indonesia,Twins SSR,POPMEAN,57.95802192780116,gpt-5.5,,
+Indonesia,"Twins SSR (network subsample, round 1)",POPMEAN,57.87377619135496,gpt-5.5,,
+Indonesia,Twins SSR + N1 self-reflection,POPMEAN,56.96460274172629,gpt-5.5,,
+Indonesia,Twins SSR + N2 random network,POPMEAN,58.17074126932898,gpt-5.5,,
+Indonesia,Twins SSR + N3 homophily network,POPMEAN,58.37465391699914,gpt-5.5,,
+Italy,Twins DLR,POPMEAN,23.615384615384617,gpt-5.5,31.7,bottom
+Italy,Twins SSR,POPMEAN,46.4195995875137,gpt-5.5,31.7,bottom
+Italy,"Twins SSR (network subsample, round 1)",POPMEAN,46.37671832098415,gpt-5.5,31.7,bottom
+Italy,Twins SSR + N1 self-reflection,POPMEAN,46.18829395179198,gpt-5.5,31.7,bottom
+Italy,Twins SSR + N2 random network,POPMEAN,46.48002382470691,gpt-5.5,31.7,bottom
+Italy,Twins SSR + N3 homophily network,POPMEAN,47.10670829306919,gpt-5.5,31.7,bottom
+Japan,Twins DLR,POPMEAN,48.61538461538461,gpt-5.5,32.4,bottom
+Japan,Twins SSR,POPMEAN,54.986701387357456,gpt-5.5,32.4,bottom
+Japan,"Twins SSR (network subsample, round 1)",POPMEAN,54.87628020005954,gpt-5.5,32.4,bottom
+Japan,Twins SSR + N1 self-reflection,POPMEAN,54.231580762423135,gpt-5.5,32.4,bottom
+Japan,Twins SSR + N2 random network,POPMEAN,55.36273783723138,gpt-5.5,32.4,bottom
+Japan,Twins SSR + N3 homophily network,POPMEAN,54.80621311745071,gpt-5.5,32.4,bottom
+Kazakhstan,Twins DLR,POPMEAN,37.0,gpt-5.5,,
+Kazakhstan,Twins SSR,POPMEAN,49.7195051828536,gpt-5.5,,
+Kazakhstan,"Twins SSR (network subsample, round 1)",POPMEAN,51.143930293941374,gpt-5.5,,
+Kazakhstan,Twins SSR + N1 self-reflection,POPMEAN,50.33696633069535,gpt-5.5,,
+Kazakhstan,Twins SSR + N2 random network,POPMEAN,51.23652715729951,gpt-5.5,,
+Kazakhstan,Twins SSR + N3 homophily network,POPMEAN,51.64827398701917,gpt-5.5,,
+Malaysia,Twins DLR,POPMEAN,54.53846153846154,gpt-5.5,52.2,top
+Malaysia,Twins SSR,POPMEAN,55.58841455355909,gpt-5.5,52.2,top
+Malaysia,"Twins SSR (network subsample, round 1)",POPMEAN,55.02071160057272,gpt-5.5,52.2,top
+Malaysia,Twins SSR + N1 self-reflection,POPMEAN,54.62352880860509,gpt-5.5,52.2,top
+Malaysia,Twins SSR + N2 random network,POPMEAN,54.66948269857366,gpt-5.5,52.2,top
+Malaysia,Twins SSR + N3 homophily network,POPMEAN,54.75193244858869,gpt-5.5,52.2,top
+Mexico,Twins DLR,POPMEAN,39.38461538461539,gpt-5.5,,
+Mexico,Twins SSR,POPMEAN,50.10900555662334,gpt-5.5,,
+Mexico,"Twins SSR (network subsample, round 1)",POPMEAN,48.92766615969012,gpt-5.5,,
+Mexico,Twins SSR + N1 self-reflection,POPMEAN,48.017223240250765,gpt-5.5,,
+Mexico,Twins SSR + N2 random network,POPMEAN,47.98405430417485,gpt-5.5,,
+Mexico,Twins SSR + N3 homophily network,POPMEAN,48.97934456421441,gpt-5.5,,
+Philippines,Twins DLR,POPMEAN,62.30769230769231,gpt-5.5,60.0,top
+Philippines,Twins SSR,POPMEAN,57.442646044055856,gpt-5.5,60.0,top
+Philippines,"Twins SSR (network subsample, round 1)",POPMEAN,57.64900220267993,gpt-5.5,60.0,top
+Philippines,Twins SSR + N1 self-reflection,POPMEAN,56.98670988953062,gpt-5.5,60.0,top
+Philippines,Twins SSR + N2 random network,POPMEAN,58.03832774346992,gpt-5.5,60.0,top
+Philippines,Twins SSR + N3 homophily network,POPMEAN,58.73451413562121,gpt-5.5,60.0,top
+Poland,Twins DLR,POPMEAN,20.46153846153846,gpt-5.5,25.4,bottom
+Poland,Twins SSR,POPMEAN,44.8768682804854,gpt-5.5,25.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",POPMEAN,45.77986273890188,gpt-5.5,25.4,bottom
+Poland,Twins SSR + N1 self-reflection,POPMEAN,45.2661281374722,gpt-5.5,25.4,bottom
+Poland,Twins SSR + N2 random network,POPMEAN,45.65528604914101,gpt-5.5,25.4,bottom
+Poland,Twins SSR + N3 homophily network,POPMEAN,45.29489472119311,gpt-5.5,25.4,bottom
+Russia,Twins DLR,POPMEAN,25.0,gpt-5.5,31.5,bottom
+Russia,Twins SSR,POPMEAN,48.372653284435,gpt-5.5,31.5,bottom
+Russia,"Twins SSR (network subsample, round 1)",POPMEAN,47.98156101080126,gpt-5.5,31.5,bottom
+Russia,Twins SSR + N1 self-reflection,POPMEAN,46.61393413024064,gpt-5.5,31.5,bottom
+Russia,Twins SSR + N2 random network,POPMEAN,47.69788554335836,gpt-5.5,31.5,bottom
+Russia,Twins SSR + N3 homophily network,POPMEAN,48.700767697833776,gpt-5.5,31.5,bottom
+Saudi Arabia,Twins DLR,POPMEAN,37.84615384615385,gpt-5.5,51.0,top
+Saudi Arabia,Twins SSR,POPMEAN,50.914364331935886,gpt-5.5,51.0,top
+Saudi Arabia,"Twins SSR (network subsample, round 1)",POPMEAN,51.01040871230365,gpt-5.5,51.0,top
+Saudi Arabia,Twins SSR + N1 self-reflection,POPMEAN,51.06574601224303,gpt-5.5,51.0,top
+Saudi Arabia,Twins SSR + N2 random network,POPMEAN,52.93436797100929,gpt-5.5,51.0,top
+Saudi Arabia,Twins SSR + N3 homophily network,POPMEAN,52.28305504920559,gpt-5.5,51.0,top
+Singapore,Twins DLR,POPMEAN,59.53846153846154,gpt-5.5,,
+Singapore,Twins SSR,POPMEAN,58.32885010478804,gpt-5.5,,
+Singapore,"Twins SSR (network subsample, round 1)",POPMEAN,58.934324863146216,gpt-5.5,,
+Singapore,Twins SSR + N1 self-reflection,POPMEAN,58.7985349772834,gpt-5.5,,
+Singapore,Twins SSR + N2 random network,POPMEAN,59.5874073568676,gpt-5.5,,
+Singapore,Twins SSR + N3 homophily network,POPMEAN,59.72532164980945,gpt-5.5,,
+South Africa,Twins DLR,POPMEAN,22.153846153846157,gpt-5.5,,
+South Africa,Twins SSR,POPMEAN,46.05178238633065,gpt-5.5,,
+South Africa,"Twins SSR (network subsample, round 1)",POPMEAN,46.382097870534345,gpt-5.5,,
+South Africa,Twins SSR + N1 self-reflection,POPMEAN,46.49720597476695,gpt-5.5,,
+South Africa,Twins SSR + N2 random network,POPMEAN,46.585968644107474,gpt-5.5,,
+South Africa,Twins SSR + N3 homophily network,POPMEAN,46.86764344717876,gpt-5.5,,
+Spain,Twins DLR,POPMEAN,30.0,gpt-5.5,,
+Spain,Twins SSR,POPMEAN,47.7717546663157,gpt-5.5,,
+Spain,"Twins SSR (network subsample, round 1)",POPMEAN,47.97863398374219,gpt-5.5,,
+Spain,Twins SSR + N1 self-reflection,POPMEAN,47.61236083685805,gpt-5.5,,
+Spain,Twins SSR + N2 random network,POPMEAN,47.94154032122966,gpt-5.5,,
+Spain,Twins SSR + N3 homophily network,POPMEAN,48.48340690161285,gpt-5.5,,
+Taiwan,Twins DLR,POPMEAN,62.23076923076923,gpt-5.5,,
+Taiwan,Twins SSR,POPMEAN,59.29838002379607,gpt-5.5,,
+Taiwan,"Twins SSR (network subsample, round 1)",POPMEAN,59.80700721397109,gpt-5.5,,
+Taiwan,Twins SSR + N1 self-reflection,POPMEAN,59.41887329022816,gpt-5.5,,
+Taiwan,Twins SSR + N2 random network,POPMEAN,60.381323835538765,gpt-5.5,,
+Taiwan,Twins SSR + N3 homophily network,POPMEAN,60.683365661222254,gpt-5.5,,
+Thailand,Twins DLR,POPMEAN,61.76923076923077,gpt-5.5,50.2,top
+Thailand,Twins SSR,POPMEAN,58.72628046310131,gpt-5.5,50.2,top
+Thailand,"Twins SSR (network subsample, round 1)",POPMEAN,58.84846528362214,gpt-5.5,50.2,top
+Thailand,Twins SSR + N1 self-reflection,POPMEAN,59.240063113046624,gpt-5.5,50.2,top
+Thailand,Twins SSR + N2 random network,POPMEAN,59.89545079475441,gpt-5.5,50.2,top
+Thailand,Twins SSR + N3 homophily network,POPMEAN,59.99964959565681,gpt-5.5,50.2,top
+Turkiye,Twins DLR,POPMEAN,32.0,gpt-5.5,,
+Turkiye,Twins SSR,POPMEAN,49.42325568562671,gpt-5.5,,
+Turkiye,"Twins SSR (network subsample, round 1)",POPMEAN,50.20689833481018,gpt-5.5,,
+Turkiye,Twins SSR + N1 self-reflection,POPMEAN,48.151119496768246,gpt-5.5,,
+Turkiye,Twins SSR + N2 random network,POPMEAN,50.72588579283294,gpt-5.5,,
+Turkiye,Twins SSR + N3 homophily network,POPMEAN,50.6424892189201,gpt-5.5,,
+UAE,Twins DLR,POPMEAN,42.92307692307692,gpt-5.5,52.8,top
+UAE,Twins SSR,POPMEAN,52.49396971677793,gpt-5.5,52.8,top
+UAE,"Twins SSR (network subsample, round 1)",POPMEAN,53.1532468371227,gpt-5.5,52.8,top
+UAE,Twins SSR + N1 self-reflection,POPMEAN,52.25942016866976,gpt-5.5,52.8,top
+UAE,Twins SSR + N2 random network,POPMEAN,54.584508295014686,gpt-5.5,52.8,top
+UAE,Twins SSR + N3 homophily network,POPMEAN,54.24449462863682,gpt-5.5,52.8,top
+United Kingdom,Twins DLR,POPMEAN,33.38461538461539,gpt-5.5,,
+United Kingdom,Twins SSR,POPMEAN,50.293985860836464,gpt-5.5,,
+United Kingdom,"Twins SSR (network subsample, round 1)",POPMEAN,50.817367981060414,gpt-5.5,,
+United Kingdom,Twins SSR + N1 self-reflection,POPMEAN,50.30461504650275,gpt-5.5,,
+United Kingdom,Twins SSR + N2 random network,POPMEAN,51.0974724227611,gpt-5.5,,
+United Kingdom,Twins SSR + N3 homophily network,POPMEAN,50.71217605290504,gpt-5.5,,
+United States,Twins DLR,POPMEAN,39.53846153846154,gpt-5.5,,
+United States,Twins SSR,POPMEAN,51.942539257386265,gpt-5.5,,
+United States,"Twins SSR (network subsample, round 1)",POPMEAN,51.52731327541349,gpt-5.5,,
+United States,Twins SSR + N1 self-reflection,POPMEAN,51.00371063985756,gpt-5.5,,
+United States,Twins SSR + N2 random network,POPMEAN,51.7786633854527,gpt-5.5,,
+United States,Twins SSR + N3 homophily network,POPMEAN,51.86329069803102,gpt-5.5,,
+Vietnam,Twins DLR,POPMEAN,63.38461538461539,gpt-5.5,53.1,top
+Vietnam,Twins SSR,POPMEAN,58.89099656674799,gpt-5.5,53.1,top
+Vietnam,"Twins SSR (network subsample, round 1)",POPMEAN,59.16990623238597,gpt-5.5,53.1,top
+Vietnam,Twins SSR + N1 self-reflection,POPMEAN,58.79836775383058,gpt-5.5,53.1,top
+Vietnam,Twins SSR + N2 random network,POPMEAN,59.66910535540337,gpt-5.5,53.1,top
+Vietnam,Twins SSR + N3 homophily network,POPMEAN,60.00745844756679,gpt-5.5,53.1,top
+Argentina,Twins DLR,XQ5,100.0,gemini-3.1-pro,,
+Argentina,Twins DLR,XQ6,100.0,gemini-3.1-pro,,
+Argentina,Twins SSR,XQ5,81.25413455938411,gemini-3.1-pro,,
+Argentina,Twins SSR,XQ6,72.74627873394638,gemini-3.1-pro,,
+Argentina,"Twins SSR (network subsample, round 1)",XQ5,80.26897396478763,gemini-3.1-pro,,
+Argentina,"Twins SSR (network subsample, round 1)",XQ6,72.8924734890461,gemini-3.1-pro,,
+Argentina,Twins SSR + N1 self-reflection,XQ5,82.52588888009389,gemini-3.1-pro,,
+Argentina,Twins SSR + N1 self-reflection,XQ6,75.91315249602,gemini-3.1-pro,,
+Argentina,Twins SSR + N2 random network,XQ5,82.02401235699654,gemini-3.1-pro,,
+Argentina,Twins SSR + N2 random network,XQ6,76.33697172005971,gemini-3.1-pro,,
+Argentina,Twins SSR + N3 homophily network,XQ5,81.61440956924174,gemini-3.1-pro,,
+Argentina,Twins SSR + N3 homophily network,XQ6,76.16255422433217,gemini-3.1-pro,,
+Australia,Twins DLR,XQ5,99.0,gemini-3.1-pro,,
+Australia,Twins DLR,XQ6,99.0,gemini-3.1-pro,68.7,other
+Australia,Twins SSR,XQ5,83.83909586568674,gemini-3.1-pro,,
+Australia,Twins SSR,XQ6,72.63098361343145,gemini-3.1-pro,68.7,other
+Australia,"Twins SSR (network subsample, round 1)",XQ5,82.16491649548213,gemini-3.1-pro,,
+Australia,"Twins SSR (network subsample, round 1)",XQ6,72.01435121397178,gemini-3.1-pro,68.7,other
+Australia,Twins SSR + N1 self-reflection,XQ5,84.21684973769717,gemini-3.1-pro,,
+Australia,Twins SSR + N1 self-reflection,XQ6,74.13909465074539,gemini-3.1-pro,68.7,other
+Australia,Twins SSR + N2 random network,XQ5,84.76520872778363,gemini-3.1-pro,,
+Australia,Twins SSR + N2 random network,XQ6,73.93994137644768,gemini-3.1-pro,68.7,other
+Australia,Twins SSR + N3 homophily network,XQ5,83.79651326272223,gemini-3.1-pro,,
+Australia,Twins SSR + N3 homophily network,XQ6,76.08596573273341,gemini-3.1-pro,68.7,other
+Brazil,Twins DLR,XQ5,99.0,gemini-3.1-pro,,
+Brazil,Twins DLR,XQ6,99.0,gemini-3.1-pro,75.6,top
+Brazil,Twins SSR,XQ5,83.55879819641835,gemini-3.1-pro,,
+Brazil,Twins SSR,XQ6,72.74127239733934,gemini-3.1-pro,75.6,top
+Brazil,"Twins SSR (network subsample, round 1)",XQ5,82.00321413577232,gemini-3.1-pro,,
+Brazil,"Twins SSR (network subsample, round 1)",XQ6,72.36072560151418,gemini-3.1-pro,75.6,top
+Brazil,Twins SSR + N1 self-reflection,XQ5,82.4482299056318,gemini-3.1-pro,,
+Brazil,Twins SSR + N1 self-reflection,XQ6,73.6649430295026,gemini-3.1-pro,75.6,top
+Brazil,Twins SSR + N2 random network,XQ5,83.78736206226878,gemini-3.1-pro,,
+Brazil,Twins SSR + N2 random network,XQ6,75.1141303529342,gemini-3.1-pro,75.6,top
+Brazil,Twins SSR + N3 homophily network,XQ5,82.91049798329671,gemini-3.1-pro,,
+Brazil,Twins SSR + N3 homophily network,XQ6,74.11009440819423,gemini-3.1-pro,75.6,top
+Canada,Twins DLR,XQ5,99.0,gemini-3.1-pro,,
+Canada,Twins DLR,XQ6,98.0,gemini-3.1-pro,,
+Canada,Twins SSR,XQ5,83.96412362158588,gemini-3.1-pro,,
+Canada,Twins SSR,XQ6,72.39351515471935,gemini-3.1-pro,,
+Canada,"Twins SSR (network subsample, round 1)",XQ5,83.9289816055033,gemini-3.1-pro,,
+Canada,"Twins SSR (network subsample, round 1)",XQ6,72.77817569673061,gemini-3.1-pro,,
+Canada,Twins SSR + N1 self-reflection,XQ5,85.32380117310417,gemini-3.1-pro,,
+Canada,Twins SSR + N1 self-reflection,XQ6,75.73734315733115,gemini-3.1-pro,,
+Canada,Twins SSR + N2 random network,XQ5,86.30652622216277,gemini-3.1-pro,,
+Canada,Twins SSR + N2 random network,XQ6,74.7312303384145,gemini-3.1-pro,,
+Canada,Twins SSR + N3 homophily network,XQ5,85.0281587905354,gemini-3.1-pro,,
+Canada,Twins SSR + N3 homophily network,XQ6,75.72527401149273,gemini-3.1-pro,,
+Chile,Twins DLR,XQ5,95.0,gemini-3.1-pro,,
+Chile,Twins DLR,XQ6,95.0,gemini-3.1-pro,,
+Chile,Twins SSR,XQ5,83.9136330857873,gemini-3.1-pro,,
+Chile,Twins SSR,XQ6,72.4862699136138,gemini-3.1-pro,,
+Chile,"Twins SSR (network subsample, round 1)",XQ5,82.54372506505914,gemini-3.1-pro,,
+Chile,"Twins SSR (network subsample, round 1)",XQ6,72.82584610084693,gemini-3.1-pro,,
+Chile,Twins SSR + N1 self-reflection,XQ5,86.03879551092784,gemini-3.1-pro,,
+Chile,Twins SSR + N1 self-reflection,XQ6,75.56310231486957,gemini-3.1-pro,,
+Chile,Twins SSR + N2 random network,XQ5,84.86628625128004,gemini-3.1-pro,,
+Chile,Twins SSR + N2 random network,XQ6,75.03887442251046,gemini-3.1-pro,,
+Chile,Twins SSR + N3 homophily network,XQ5,85.44798857635922,gemini-3.1-pro,,
+Chile,Twins SSR + N3 homophily network,XQ6,75.27699877818425,gemini-3.1-pro,,
+China,Twins DLR,XQ5,96.0,gemini-3.1-pro,,
+China,Twins DLR,XQ6,96.0,gemini-3.1-pro,61.3,other
+China,Twins SSR,XQ5,80.9156657544321,gemini-3.1-pro,,
+China,Twins SSR,XQ6,72.57161180162802,gemini-3.1-pro,61.3,other
+China,"Twins SSR (network subsample, round 1)",XQ5,78.59602227394653,gemini-3.1-pro,,
+China,"Twins SSR (network subsample, round 1)",XQ6,72.62470337251823,gemini-3.1-pro,61.3,other
+China,Twins SSR + N1 self-reflection,XQ5,82.32632944154953,gemini-3.1-pro,,
+China,Twins SSR + N1 self-reflection,XQ6,75.13988656302293,gemini-3.1-pro,61.3,other
+China,Twins SSR + N2 random network,XQ5,84.08275197779017,gemini-3.1-pro,,
+China,Twins SSR + N2 random network,XQ6,76.1598149438699,gemini-3.1-pro,61.3,other
+China,Twins SSR + N3 homophily network,XQ5,82.00956131851056,gemini-3.1-pro,,
+China,Twins SSR + N3 homophily network,XQ6,75.70836578806241,gemini-3.1-pro,61.3,other
+Egypt,Twins DLR,XQ5,95.0,gemini-3.1-pro,,
+Egypt,Twins DLR,XQ6,95.0,gemini-3.1-pro,,
+Egypt,Twins SSR,XQ5,85.00110931694648,gemini-3.1-pro,,
+Egypt,Twins SSR,XQ6,72.31958521157503,gemini-3.1-pro,,
+Egypt,"Twins SSR (network subsample, round 1)",XQ5,84.30895148052109,gemini-3.1-pro,,
+Egypt,"Twins SSR (network subsample, round 1)",XQ6,71.7358632137378,gemini-3.1-pro,,
+Egypt,Twins SSR + N1 self-reflection,XQ5,85.33840426140361,gemini-3.1-pro,,
+Egypt,Twins SSR + N1 self-reflection,XQ6,75.24682688216369,gemini-3.1-pro,,
+Egypt,Twins SSR + N2 random network,XQ5,85.2396485209465,gemini-3.1-pro,,
+Egypt,Twins SSR + N2 random network,XQ6,75.38618696232636,gemini-3.1-pro,,
+Egypt,Twins SSR + N3 homophily network,XQ5,85.62945829497444,gemini-3.1-pro,,
+Egypt,Twins SSR + N3 homophily network,XQ6,73.75341512262821,gemini-3.1-pro,,
+France,Twins DLR,XQ5,95.0,gemini-3.1-pro,58.2,bottom
+France,Twins DLR,XQ6,95.0,gemini-3.1-pro,56.8,bottom
+France,Twins SSR,XQ5,81.53579105747242,gemini-3.1-pro,58.2,bottom
+France,Twins SSR,XQ6,72.86733517050743,gemini-3.1-pro,56.8,bottom
+France,"Twins SSR (network subsample, round 1)",XQ5,80.60977214740383,gemini-3.1-pro,58.2,bottom
+France,"Twins SSR (network subsample, round 1)",XQ6,72.72269003093243,gemini-3.1-pro,56.8,bottom
+France,Twins SSR + N1 self-reflection,XQ5,84.21453103423119,gemini-3.1-pro,58.2,bottom
+France,Twins SSR + N1 self-reflection,XQ6,75.26018823186557,gemini-3.1-pro,56.8,bottom
+France,Twins SSR + N2 random network,XQ5,83.06876906090312,gemini-3.1-pro,58.2,bottom
+France,Twins SSR + N2 random network,XQ6,75.94222312172253,gemini-3.1-pro,56.8,bottom
+France,Twins SSR + N3 homophily network,XQ5,83.30443061060376,gemini-3.1-pro,58.2,bottom
+France,Twins SSR + N3 homophily network,XQ6,75.69103541473548,gemini-3.1-pro,56.8,bottom
+Germany,Twins DLR,XQ5,98.0,gemini-3.1-pro,54.4,bottom
+Germany,Twins DLR,XQ6,98.0,gemini-3.1-pro,51.6,bottom
+Germany,Twins SSR,XQ5,82.79590693737185,gemini-3.1-pro,54.4,bottom
+Germany,Twins SSR,XQ6,72.4841947555542,gemini-3.1-pro,51.6,bottom
+Germany,"Twins SSR (network subsample, round 1)",XQ5,82.10682315959254,gemini-3.1-pro,54.4,bottom
+Germany,"Twins SSR (network subsample, round 1)",XQ6,72.16233092049758,gemini-3.1-pro,51.6,bottom
+Germany,Twins SSR + N1 self-reflection,XQ5,83.02474932952059,gemini-3.1-pro,54.4,bottom
+Germany,Twins SSR + N1 self-reflection,XQ6,74.28621267278989,gemini-3.1-pro,51.6,bottom
+Germany,Twins SSR + N2 random network,XQ5,83.1034309003132,gemini-3.1-pro,54.4,bottom
+Germany,Twins SSR + N2 random network,XQ6,74.30608337124188,gemini-3.1-pro,51.6,bottom
+Germany,Twins SSR + N3 homophily network,XQ5,84.31445077061653,gemini-3.1-pro,54.4,bottom
+Germany,Twins SSR + N3 homophily network,XQ6,74.47087056934834,gemini-3.1-pro,51.6,bottom
+India,Twins DLR,XQ5,98.0,gemini-3.1-pro,83.8,top
+India,Twins DLR,XQ6,98.0,gemini-3.1-pro,83.3,top
+India,Twins SSR,XQ5,86.59698128944903,gemini-3.1-pro,83.8,top
+India,Twins SSR,XQ6,73.01196441799402,gemini-3.1-pro,83.3,top
+India,"Twins SSR (network subsample, round 1)",XQ5,88.06308405266869,gemini-3.1-pro,83.8,top
+India,"Twins SSR (network subsample, round 1)",XQ6,72.59686753153801,gemini-3.1-pro,83.3,top
+India,Twins SSR + N1 self-reflection,XQ5,88.30988264746136,gemini-3.1-pro,83.8,top
+India,Twins SSR + N1 self-reflection,XQ6,75.01044462124507,gemini-3.1-pro,83.3,top
+India,Twins SSR + N2 random network,XQ5,88.92678015761905,gemini-3.1-pro,83.8,top
+India,Twins SSR + N2 random network,XQ6,75.35256375869115,gemini-3.1-pro,83.3,top
+India,Twins SSR + N3 homophily network,XQ5,88.8252648545636,gemini-3.1-pro,83.8,top
+India,Twins SSR + N3 homophily network,XQ6,75.89976775149505,gemini-3.1-pro,83.3,top
+Indonesia,Twins DLR,XQ5,98.0,gemini-3.1-pro,82.7,top
+Indonesia,Twins DLR,XQ6,98.0,gemini-3.1-pro,,
+Indonesia,Twins SSR,XQ5,85.06226480503878,gemini-3.1-pro,82.7,top
+Indonesia,Twins SSR,XQ6,71.79262364656101,gemini-3.1-pro,,
+Indonesia,"Twins SSR (network subsample, round 1)",XQ5,84.8915762702624,gemini-3.1-pro,82.7,top
+Indonesia,"Twins SSR (network subsample, round 1)",XQ6,71.79050793251629,gemini-3.1-pro,,
+Indonesia,Twins SSR + N1 self-reflection,XQ5,86.78249011437099,gemini-3.1-pro,82.7,top
+Indonesia,Twins SSR + N1 self-reflection,XQ6,76.23318483432134,gemini-3.1-pro,,
+Indonesia,Twins SSR + N2 random network,XQ5,87.2764737241798,gemini-3.1-pro,82.7,top
+Indonesia,Twins SSR + N2 random network,XQ6,75.31049132347107,gemini-3.1-pro,,
+Indonesia,Twins SSR + N3 homophily network,XQ5,88.26402556565073,gemini-3.1-pro,82.7,top
+Indonesia,Twins SSR + N3 homophily network,XQ6,74.81174098948638,gemini-3.1-pro,,
+Italy,Twins DLR,XQ5,93.0,gemini-3.1-pro,56.4,bottom
+Italy,Twins DLR,XQ6,93.0,gemini-3.1-pro,56.2,bottom
+Italy,Twins SSR,XQ5,80.67236915975809,gemini-3.1-pro,56.4,bottom
+Italy,Twins SSR,XQ6,72.28501988947392,gemini-3.1-pro,56.2,bottom
+Italy,"Twins SSR (network subsample, round 1)",XQ5,80.0853907979197,gemini-3.1-pro,56.4,bottom
+Italy,"Twins SSR (network subsample, round 1)",XQ6,71.72880008816719,gemini-3.1-pro,56.2,bottom
+Italy,Twins SSR + N1 self-reflection,XQ5,83.03385035859215,gemini-3.1-pro,56.4,bottom
+Italy,Twins SSR + N1 self-reflection,XQ6,73.38388944665591,gemini-3.1-pro,56.2,bottom
+Italy,Twins SSR + N2 random network,XQ5,82.38362299071419,gemini-3.1-pro,56.4,bottom
+Italy,Twins SSR + N2 random network,XQ6,73.2179616143306,gemini-3.1-pro,56.2,bottom
+Italy,Twins SSR + N3 homophily network,XQ5,83.23576693733533,gemini-3.1-pro,56.4,bottom
+Italy,Twins SSR + N3 homophily network,XQ6,73.42414525647958,gemini-3.1-pro,56.2,bottom
+Japan,Twins DLR,XQ5,91.0,gemini-3.1-pro,52.7,bottom
+Japan,Twins DLR,XQ6,87.0,gemini-3.1-pro,36.4,bottom
+Japan,Twins SSR,XQ5,82.35794709588063,gemini-3.1-pro,52.7,bottom
+Japan,Twins SSR,XQ6,71.72860022634268,gemini-3.1-pro,36.4,bottom
+Japan,"Twins SSR (network subsample, round 1)",XQ5,83.2051083776686,gemini-3.1-pro,52.7,bottom
+Japan,"Twins SSR (network subsample, round 1)",XQ6,71.41310468316078,gemini-3.1-pro,36.4,bottom
+Japan,Twins SSR + N1 self-reflection,XQ5,82.94939926928944,gemini-3.1-pro,52.7,bottom
+Japan,Twins SSR + N1 self-reflection,XQ6,73.6225592593352,gemini-3.1-pro,36.4,bottom
+Japan,Twins SSR + N2 random network,XQ5,85.13072702619765,gemini-3.1-pro,52.7,bottom
+Japan,Twins SSR + N2 random network,XQ6,74.26107180615266,gemini-3.1-pro,36.4,bottom
+Japan,Twins SSR + N3 homophily network,XQ5,83.81558169921239,gemini-3.1-pro,52.7,bottom
+Japan,Twins SSR + N3 homophily network,XQ6,74.40234186748664,gemini-3.1-pro,36.4,bottom
+Kazakhstan,Twins DLR,XQ5,97.0,gemini-3.1-pro,50.8,bottom
+Kazakhstan,Twins DLR,XQ6,97.0,gemini-3.1-pro,59.5,bottom
+Kazakhstan,Twins SSR,XQ5,83.85438680916559,gemini-3.1-pro,50.8,bottom
+Kazakhstan,Twins SSR,XQ6,72.27697843313217,gemini-3.1-pro,59.5,bottom
+Kazakhstan,"Twins SSR (network subsample, round 1)",XQ5,83.76773864923355,gemini-3.1-pro,50.8,bottom
+Kazakhstan,"Twins SSR (network subsample, round 1)",XQ6,72.62622584899266,gemini-3.1-pro,59.5,bottom
+Kazakhstan,Twins SSR + N1 self-reflection,XQ5,85.76911904745631,gemini-3.1-pro,50.8,bottom
+Kazakhstan,Twins SSR + N1 self-reflection,XQ6,75.50395990411441,gemini-3.1-pro,59.5,bottom
+Kazakhstan,Twins SSR + N2 random network,XQ5,85.46233917276065,gemini-3.1-pro,50.8,bottom
+Kazakhstan,Twins SSR + N2 random network,XQ6,75.34739029904206,gemini-3.1-pro,59.5,bottom
+Kazakhstan,Twins SSR + N3 homophily network,XQ5,85.47488910456498,gemini-3.1-pro,50.8,bottom
+Kazakhstan,Twins SSR + N3 homophily network,XQ6,73.547087063392,gemini-3.1-pro,59.5,bottom
+Malaysia,Twins DLR,XQ5,98.0,gemini-3.1-pro,77.4,top
+Malaysia,Twins DLR,XQ6,98.0,gemini-3.1-pro,,
+Malaysia,Twins SSR,XQ5,85.0931074966987,gemini-3.1-pro,77.4,top
+Malaysia,Twins SSR,XQ6,72.34623346477747,gemini-3.1-pro,,
+Malaysia,"Twins SSR (network subsample, round 1)",XQ5,86.14693588680692,gemini-3.1-pro,77.4,top
+Malaysia,"Twins SSR (network subsample, round 1)",XQ6,72.24732123315334,gemini-3.1-pro,,
+Malaysia,Twins SSR + N1 self-reflection,XQ5,87.3868598540624,gemini-3.1-pro,77.4,top
+Malaysia,Twins SSR + N1 self-reflection,XQ6,75.34954719245434,gemini-3.1-pro,,
+Malaysia,Twins SSR + N2 random network,XQ5,86.94925619496239,gemini-3.1-pro,77.4,top
+Malaysia,Twins SSR + N2 random network,XQ6,73.84919916590054,gemini-3.1-pro,,
+Malaysia,Twins SSR + N3 homophily network,XQ5,87.43458211421967,gemini-3.1-pro,77.4,top
+Malaysia,Twins SSR + N3 homophily network,XQ6,74.0042860309283,gemini-3.1-pro,,
+Mexico,Twins DLR,XQ5,97.0,gemini-3.1-pro,78.9,top
+Mexico,Twins DLR,XQ6,97.0,gemini-3.1-pro,79.8,top
+Mexico,Twins SSR,XQ5,83.22895199184742,gemini-3.1-pro,78.9,top
+Mexico,Twins SSR,XQ6,72.44729957729578,gemini-3.1-pro,79.8,top
+Mexico,"Twins SSR (network subsample, round 1)",XQ5,81.92779576198923,gemini-3.1-pro,78.9,top
+Mexico,"Twins SSR (network subsample, round 1)",XQ6,72.39158876240253,gemini-3.1-pro,79.8,top
+Mexico,Twins SSR + N1 self-reflection,XQ5,83.20948372284572,gemini-3.1-pro,78.9,top
+Mexico,Twins SSR + N1 self-reflection,XQ6,73.92738565802574,gemini-3.1-pro,79.8,top
+Mexico,Twins SSR + N2 random network,XQ5,85.3882098529074,gemini-3.1-pro,78.9,top
+Mexico,Twins SSR + N2 random network,XQ6,74.1235127300024,gemini-3.1-pro,79.8,top
+Mexico,Twins SSR + N3 homophily network,XQ5,84.51271827022235,gemini-3.1-pro,78.9,top
+Mexico,Twins SSR + N3 homophily network,XQ6,73.56128181020419,gemini-3.1-pro,79.8,top
+Philippines,Twins DLR,XQ5,98.0,gemini-3.1-pro,87.0,top
+Philippines,Twins DLR,XQ6,98.0,gemini-3.1-pro,85.6,top
+Philippines,Twins SSR,XQ5,85.47567649930716,gemini-3.1-pro,87.0,top
+Philippines,Twins SSR,XQ6,73.09497522562742,gemini-3.1-pro,85.6,top
+Philippines,"Twins SSR (network subsample, round 1)",XQ5,86.16448753409915,gemini-3.1-pro,87.0,top
+Philippines,"Twins SSR (network subsample, round 1)",XQ6,73.2872428248326,gemini-3.1-pro,85.6,top
+Philippines,Twins SSR + N1 self-reflection,XQ5,87.55447414186266,gemini-3.1-pro,87.0,top
+Philippines,Twins SSR + N1 self-reflection,XQ6,75.74158656100433,gemini-3.1-pro,85.6,top
+Philippines,Twins SSR + N2 random network,XQ5,87.67926308843825,gemini-3.1-pro,87.0,top
+Philippines,Twins SSR + N2 random network,XQ6,75.60703168312709,gemini-3.1-pro,85.6,top
+Philippines,Twins SSR + N3 homophily network,XQ5,87.46954066885841,gemini-3.1-pro,87.0,top
+Philippines,Twins SSR + N3 homophily network,XQ6,75.56226874391238,gemini-3.1-pro,85.6,top
+Poland,Twins DLR,XQ5,94.0,gemini-3.1-pro,54.4,bottom
+Poland,Twins DLR,XQ6,94.0,gemini-3.1-pro,53.4,bottom
+Poland,Twins SSR,XQ5,80.1553663474818,gemini-3.1-pro,54.4,bottom
+Poland,Twins SSR,XQ6,71.20140872895718,gemini-3.1-pro,53.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",XQ5,81.87169341577423,gemini-3.1-pro,54.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",XQ6,71.58864056070645,gemini-3.1-pro,53.4,bottom
+Poland,Twins SSR + N1 self-reflection,XQ5,84.53736245632172,gemini-3.1-pro,54.4,bottom
+Poland,Twins SSR + N1 self-reflection,XQ6,74.17805065711339,gemini-3.1-pro,53.4,bottom
+Poland,Twins SSR + N2 random network,XQ5,84.2278780705399,gemini-3.1-pro,54.4,bottom
+Poland,Twins SSR + N2 random network,XQ6,73.41449332733949,gemini-3.1-pro,53.4,bottom
+Poland,Twins SSR + N3 homophily network,XQ5,84.54049517711003,gemini-3.1-pro,54.4,bottom
+Poland,Twins SSR + N3 homophily network,XQ6,72.49795327583949,gemini-3.1-pro,53.4,bottom
+Russia,Twins DLR,XQ5,97.0,gemini-3.1-pro,44.5,bottom
+Russia,Twins DLR,XQ6,97.0,gemini-3.1-pro,48.6,bottom
+Russia,Twins SSR,XQ5,82.19881456096968,gemini-3.1-pro,44.5,bottom
+Russia,Twins SSR,XQ6,72.04217904806137,gemini-3.1-pro,48.6,bottom
+Russia,"Twins SSR (network subsample, round 1)",XQ5,81.98479132519829,gemini-3.1-pro,44.5,bottom
+Russia,"Twins SSR (network subsample, round 1)",XQ6,72.48217585186164,gemini-3.1-pro,48.6,bottom
+Russia,Twins SSR + N1 self-reflection,XQ5,84.04416435708602,gemini-3.1-pro,44.5,bottom
+Russia,Twins SSR + N1 self-reflection,XQ6,74.61557639141877,gemini-3.1-pro,48.6,bottom
+Russia,Twins SSR + N2 random network,XQ5,85.37505331966612,gemini-3.1-pro,44.5,bottom
+Russia,Twins SSR + N2 random network,XQ6,74.25106051067512,gemini-3.1-pro,48.6,bottom
+Russia,Twins SSR + N3 homophily network,XQ5,84.84450048870511,gemini-3.1-pro,44.5,bottom
+Russia,Twins SSR + N3 homophily network,XQ6,74.77664716541767,gemini-3.1-pro,48.6,bottom
+Saudi Arabia,Twins DLR,XQ5,99.0,gemini-3.1-pro,,
+Saudi Arabia,Twins DLR,XQ6,99.0,gemini-3.1-pro,,
+Saudi Arabia,Twins SSR,XQ5,85.62525342404842,gemini-3.1-pro,,
+Saudi Arabia,Twins SSR,XQ6,72.01854226738214,gemini-3.1-pro,,
+Saudi Arabia,"Twins SSR (network subsample, round 1)",XQ5,85.89632146888309,gemini-3.1-pro,,
+Saudi Arabia,"Twins SSR (network subsample, round 1)",XQ6,72.23634486397107,gemini-3.1-pro,,
+Saudi Arabia,Twins SSR + N1 self-reflection,XQ5,86.63732772072156,gemini-3.1-pro,,
+Saudi Arabia,Twins SSR + N1 self-reflection,XQ6,74.73034081359704,gemini-3.1-pro,,
+Saudi Arabia,Twins SSR + N2 random network,XQ5,88.33961682187187,gemini-3.1-pro,,
+Saudi Arabia,Twins SSR + N2 random network,XQ6,75.25673081477483,gemini-3.1-pro,,
+Saudi Arabia,Twins SSR + N3 homophily network,XQ5,88.10273950298627,gemini-3.1-pro,,
+Saudi Arabia,Twins SSR + N3 homophily network,XQ6,75.0127291182677,gemini-3.1-pro,,
+Singapore,Twins DLR,XQ5,100.0,gemini-3.1-pro,,
+Singapore,Twins DLR,XQ6,100.0,gemini-3.1-pro,,
+Singapore,Twins SSR,XQ5,85.7796301916256,gemini-3.1-pro,,
+Singapore,Twins SSR,XQ6,72.33107627928257,gemini-3.1-pro,,
+Singapore,"Twins SSR (network subsample, round 1)",XQ5,87.24261863364113,gemini-3.1-pro,,
+Singapore,"Twins SSR (network subsample, round 1)",XQ6,71.28027704854806,gemini-3.1-pro,,
+Singapore,Twins SSR + N1 self-reflection,XQ5,87.46637364228566,gemini-3.1-pro,,
+Singapore,Twins SSR + N1 self-reflection,XQ6,76.16681451598804,gemini-3.1-pro,,
+Singapore,Twins SSR + N2 random network,XQ5,89.05483563741048,gemini-3.1-pro,,
+Singapore,Twins SSR + N2 random network,XQ6,74.52320113778114,gemini-3.1-pro,,
+Singapore,Twins SSR + N3 homophily network,XQ5,89.40902696715462,gemini-3.1-pro,,
+Singapore,Twins SSR + N3 homophily network,XQ6,76.3028234243393,gemini-3.1-pro,,
+South Africa,Twins DLR,XQ5,98.0,gemini-3.1-pro,,
+South Africa,Twins DLR,XQ6,98.0,gemini-3.1-pro,78.2,top
+South Africa,Twins SSR,XQ5,82.73177490631913,gemini-3.1-pro,,
+South Africa,Twins SSR,XQ6,72.19066993892193,gemini-3.1-pro,78.2,top
+South Africa,"Twins SSR (network subsample, round 1)",XQ5,83.26988635791672,gemini-3.1-pro,,
+South Africa,"Twins SSR (network subsample, round 1)",XQ6,71.36733929316203,gemini-3.1-pro,78.2,top
+South Africa,Twins SSR + N1 self-reflection,XQ5,84.1749546262953,gemini-3.1-pro,,
+South Africa,Twins SSR + N1 self-reflection,XQ6,74.59641424318154,gemini-3.1-pro,78.2,top
+South Africa,Twins SSR + N2 random network,XQ5,84.83039038048851,gemini-3.1-pro,,
+South Africa,Twins SSR + N2 random network,XQ6,74.56947885453701,gemini-3.1-pro,78.2,top
+South Africa,Twins SSR + N3 homophily network,XQ5,85.81467279129558,gemini-3.1-pro,,
+South Africa,Twins SSR + N3 homophily network,XQ6,74.61206925412019,gemini-3.1-pro,78.2,top
+Spain,Twins DLR,XQ5,99.0,gemini-3.1-pro,,
+Spain,Twins DLR,XQ6,99.0,gemini-3.1-pro,,
+Spain,Twins SSR,XQ5,83.19093235085407,gemini-3.1-pro,,
+Spain,Twins SSR,XQ6,72.9245962575078,gemini-3.1-pro,,
+Spain,"Twins SSR (network subsample, round 1)",XQ5,83.30759762061966,gemini-3.1-pro,,
+Spain,"Twins SSR (network subsample, round 1)",XQ6,73.68785426020622,gemini-3.1-pro,,
+Spain,Twins SSR + N1 self-reflection,XQ5,83.74372790257137,gemini-3.1-pro,,
+Spain,Twins SSR + N1 self-reflection,XQ6,75.15928191443284,gemini-3.1-pro,,
+Spain,Twins SSR + N2 random network,XQ5,85.47252217928569,gemini-3.1-pro,,
+Spain,Twins SSR + N2 random network,XQ6,75.44075183570385,gemini-3.1-pro,,
+Spain,Twins SSR + N3 homophily network,XQ5,85.2596981326739,gemini-3.1-pro,,
+Spain,Twins SSR + N3 homophily network,XQ6,74.67805738250415,gemini-3.1-pro,,
+Taiwan,Twins DLR,XQ5,97.0,gemini-3.1-pro,,
+Taiwan,Twins DLR,XQ6,97.0,gemini-3.1-pro,,
+Taiwan,Twins SSR,XQ5,84.11414425572056,gemini-3.1-pro,,
+Taiwan,Twins SSR,XQ6,72.59314797004117,gemini-3.1-pro,,
+Taiwan,"Twins SSR (network subsample, round 1)",XQ5,84.49190858337614,gemini-3.1-pro,,
+Taiwan,"Twins SSR (network subsample, round 1)",XQ6,72.5192143023014,gemini-3.1-pro,,
+Taiwan,Twins SSR + N1 self-reflection,XQ5,86.2679163283772,gemini-3.1-pro,,
+Taiwan,Twins SSR + N1 self-reflection,XQ6,75.14578628043334,gemini-3.1-pro,,
+Taiwan,Twins SSR + N2 random network,XQ5,86.43824925025304,gemini-3.1-pro,,
+Taiwan,Twins SSR + N2 random network,XQ6,74.47168889145057,gemini-3.1-pro,,
+Taiwan,Twins SSR + N3 homophily network,XQ5,87.518756488959,gemini-3.1-pro,,
+Taiwan,Twins SSR + N3 homophily network,XQ6,72.96288686494033,gemini-3.1-pro,,
+Thailand,Twins DLR,XQ5,98.0,gemini-3.1-pro,79.4,top
+Thailand,Twins DLR,XQ6,98.0,gemini-3.1-pro,72.5,other
+Thailand,Twins SSR,XQ5,85.10426790515581,gemini-3.1-pro,79.4,top
+Thailand,Twins SSR,XQ6,71.89037322998047,gemini-3.1-pro,72.5,other
+Thailand,"Twins SSR (network subsample, round 1)",XQ5,85.20108744502068,gemini-3.1-pro,79.4,top
+Thailand,"Twins SSR (network subsample, round 1)",XQ6,71.67773681382339,gemini-3.1-pro,72.5,other
+Thailand,Twins SSR + N1 self-reflection,XQ5,87.9007323914104,gemini-3.1-pro,79.4,top
+Thailand,Twins SSR + N1 self-reflection,XQ6,74.80675853788853,gemini-3.1-pro,72.5,other
+Thailand,Twins SSR + N2 random network,XQ5,87.7392524977525,gemini-3.1-pro,79.4,top
+Thailand,Twins SSR + N2 random network,XQ6,73.29294386009376,gemini-3.1-pro,72.5,other
+Thailand,Twins SSR + N3 homophily network,XQ5,87.982693778144,gemini-3.1-pro,79.4,top
+Thailand,Twins SSR + N3 homophily network,XQ6,73.76386180520058,gemini-3.1-pro,72.5,other
+Turkiye,Twins DLR,XQ5,92.0,gemini-3.1-pro,,
+Turkiye,Twins DLR,XQ6,92.0,gemini-3.1-pro,69.2,other
+Turkiye,Twins SSR,XQ5,83.95861176153161,gemini-3.1-pro,,
+Turkiye,Twins SSR,XQ6,71.68060963600874,gemini-3.1-pro,69.2,other
+Turkiye,"Twins SSR (network subsample, round 1)",XQ5,85.65306698282559,gemini-3.1-pro,,
+Turkiye,"Twins SSR (network subsample, round 1)",XQ6,72.3900440086921,gemini-3.1-pro,69.2,other
+Turkiye,Twins SSR + N1 self-reflection,XQ5,87.90004995134142,gemini-3.1-pro,,
+Turkiye,Twins SSR + N1 self-reflection,XQ6,75.17499181131522,gemini-3.1-pro,69.2,other
+Turkiye,Twins SSR + N2 random network,XQ5,87.87698136435615,gemini-3.1-pro,,
+Turkiye,Twins SSR + N2 random network,XQ6,74.86580307284991,gemini-3.1-pro,69.2,other
+Turkiye,Twins SSR + N3 homophily network,XQ5,88.1373240550359,gemini-3.1-pro,,
+Turkiye,Twins SSR + N3 homophily network,XQ6,74.68795371552308,gemini-3.1-pro,69.2,other
+UAE,Twins DLR,XQ5,97.0,gemini-3.1-pro,78.0,top
+UAE,Twins DLR,XQ6,97.0,gemini-3.1-pro,78.5,top
+UAE,Twins SSR,XQ5,84.66133062231043,gemini-3.1-pro,78.0,top
+UAE,Twins SSR,XQ6,73.42602510005236,gemini-3.1-pro,78.5,top
+UAE,"Twins SSR (network subsample, round 1)",XQ5,86.79089470042122,gemini-3.1-pro,78.0,top
+UAE,"Twins SSR (network subsample, round 1)",XQ6,73.50606421629588,gemini-3.1-pro,78.5,top
+UAE,Twins SSR + N1 self-reflection,XQ5,86.98068430026372,gemini-3.1-pro,78.0,top
+UAE,Twins SSR + N1 self-reflection,XQ6,74.27013449370861,gemini-3.1-pro,78.5,top
+UAE,Twins SSR + N2 random network,XQ5,88.07152307695813,gemini-3.1-pro,78.0,top
+UAE,Twins SSR + N2 random network,XQ6,74.83858913183212,gemini-3.1-pro,78.5,top
+UAE,Twins SSR + N3 homophily network,XQ5,87.8528873787986,gemini-3.1-pro,78.0,top
+UAE,Twins SSR + N3 homophily network,XQ6,74.78682155410449,gemini-3.1-pro,78.5,top
+United Kingdom,Twins DLR,XQ5,95.0,gemini-3.1-pro,,
+United Kingdom,Twins DLR,XQ6,95.0,gemini-3.1-pro,71.1,other
+United Kingdom,Twins SSR,XQ5,81.6736470162894,gemini-3.1-pro,,
+United Kingdom,Twins SSR,XQ6,72.63379869610071,gemini-3.1-pro,71.1,other
+United Kingdom,"Twins SSR (network subsample, round 1)",XQ5,84.4568323261208,gemini-3.1-pro,,
+United Kingdom,"Twins SSR (network subsample, round 1)",XQ6,74.2823004970948,gemini-3.1-pro,71.1,other
+United Kingdom,Twins SSR + N1 self-reflection,XQ5,84.13520629828174,gemini-3.1-pro,,
+United Kingdom,Twins SSR + N1 self-reflection,XQ6,74.79230303317308,gemini-3.1-pro,71.1,other
+United Kingdom,Twins SSR + N2 random network,XQ5,85.1230304936568,gemini-3.1-pro,,
+United Kingdom,Twins SSR + N2 random network,XQ6,74.58753146231174,gemini-3.1-pro,71.1,other
+United Kingdom,Twins SSR + N3 homophily network,XQ5,87.27085378434923,gemini-3.1-pro,,
+United Kingdom,Twins SSR + N3 homophily network,XQ6,76.2456343571345,gemini-3.1-pro,71.1,other
+United States,Twins DLR,XQ5,100.0,gemini-3.1-pro,,
+United States,Twins DLR,XQ6,100.0,gemini-3.1-pro,,
+United States,Twins SSR,XQ5,83.06330119570097,gemini-3.1-pro,,
+United States,Twins SSR,XQ6,71.76362715288997,gemini-3.1-pro,,
+United States,"Twins SSR (network subsample, round 1)",XQ5,82.17515473564465,gemini-3.1-pro,,
+United States,"Twins SSR (network subsample, round 1)",XQ6,71.75935072203477,gemini-3.1-pro,,
+United States,Twins SSR + N1 self-reflection,XQ5,84.42327885164154,gemini-3.1-pro,,
+United States,Twins SSR + N1 self-reflection,XQ6,73.23034043113391,gemini-3.1-pro,,
+United States,Twins SSR + N2 random network,XQ5,85.5501718322436,gemini-3.1-pro,,
+United States,Twins SSR + N2 random network,XQ6,73.63614114622276,gemini-3.1-pro,,
+United States,Twins SSR + N3 homophily network,XQ5,83.66228895054924,gemini-3.1-pro,,
+United States,Twins SSR + N3 homophily network,XQ6,73.57969507575035,gemini-3.1-pro,,
+Vietnam,Twins DLR,XQ5,99.0,gemini-3.1-pro,,
+Vietnam,Twins DLR,XQ6,99.0,gemini-3.1-pro,76.1,top
+Vietnam,Twins SSR,XQ5,85.34211782117686,gemini-3.1-pro,,
+Vietnam,Twins SSR,XQ6,72.37641033530235,gemini-3.1-pro,76.1,top
+Vietnam,"Twins SSR (network subsample, round 1)",XQ5,86.92202816406886,gemini-3.1-pro,,
+Vietnam,"Twins SSR (network subsample, round 1)",XQ6,73.2426352550586,gemini-3.1-pro,76.1,top
+Vietnam,Twins SSR + N1 self-reflection,XQ5,87.92902522616916,gemini-3.1-pro,,
+Vietnam,Twins SSR + N1 self-reflection,XQ6,75.67430446545283,gemini-3.1-pro,76.1,top
+Vietnam,Twins SSR + N2 random network,XQ5,88.70174758964114,gemini-3.1-pro,,
+Vietnam,Twins SSR + N2 random network,XQ6,75.11940255761147,gemini-3.1-pro,76.1,top
+Vietnam,Twins SSR + N3 homophily network,XQ5,89.30201288726595,gemini-3.1-pro,,
+Vietnam,Twins SSR + N3 homophily network,XQ6,75.49218140542507,gemini-3.1-pro,76.1,top
+Argentina,Twins DLR,POPMEAN,15.923076923076923,gemini-3.1-pro,33.7,bottom
+Argentina,Twins SSR,POPMEAN,39.73397900515528,gemini-3.1-pro,33.7,bottom
+Argentina,"Twins SSR (network subsample, round 1)",POPMEAN,37.5244899476695,gemini-3.1-pro,33.7,bottom
+Argentina,Twins SSR + N1 self-reflection,POPMEAN,39.48669977342948,gemini-3.1-pro,33.7,bottom
+Argentina,Twins SSR + N2 random network,POPMEAN,41.941063794659385,gemini-3.1-pro,33.7,bottom
+Argentina,Twins SSR + N3 homophily network,POPMEAN,41.80035348801619,gemini-3.1-pro,33.7,bottom
+Australia,Twins DLR,POPMEAN,33.46153846153846,gemini-3.1-pro,,
+Australia,Twins SSR,POPMEAN,46.03288649551861,gemini-3.1-pro,,
+Australia,"Twins SSR (network subsample, round 1)",POPMEAN,44.32890509476108,gemini-3.1-pro,,
+Australia,Twins SSR + N1 self-reflection,POPMEAN,46.15763811334615,gemini-3.1-pro,,
+Australia,Twins SSR + N2 random network,POPMEAN,46.47688151073869,gemini-3.1-pro,,
+Australia,Twins SSR + N3 homophily network,POPMEAN,46.810516022468114,gemini-3.1-pro,,
+Brazil,Twins DLR,POPMEAN,24.46153846153846,gemini-3.1-pro,,
+Brazil,Twins SSR,POPMEAN,44.31147037020831,gemini-3.1-pro,,
+Brazil,"Twins SSR (network subsample, round 1)",POPMEAN,41.599142654775136,gemini-3.1-pro,,
+Brazil,Twins SSR + N1 self-reflection,POPMEAN,44.50993363988596,gemini-3.1-pro,,
+Brazil,Twins SSR + N2 random network,POPMEAN,46.07000449099405,gemini-3.1-pro,,
+Brazil,Twins SSR + N3 homophily network,POPMEAN,45.3344642687056,gemini-3.1-pro,,
+Canada,Twins DLR,POPMEAN,36.23076923076923,gemini-3.1-pro,34.5,bottom
+Canada,Twins SSR,POPMEAN,46.912223757966935,gemini-3.1-pro,34.5,bottom
+Canada,"Twins SSR (network subsample, round 1)",POPMEAN,45.144403932278834,gemini-3.1-pro,34.5,bottom
+Canada,Twins SSR + N1 self-reflection,POPMEAN,47.21403984647646,gemini-3.1-pro,34.5,bottom
+Canada,Twins SSR + N2 random network,POPMEAN,47.79087663983254,gemini-3.1-pro,34.5,bottom
+Canada,Twins SSR + N3 homophily network,POPMEAN,48.04019937549359,gemini-3.1-pro,34.5,bottom
+Chile,Twins DLR,POPMEAN,27.384615384615383,gemini-3.1-pro,,
+Chile,Twins SSR,POPMEAN,44.98118154557922,gemini-3.1-pro,,
+Chile,"Twins SSR (network subsample, round 1)",POPMEAN,43.577526436019376,gemini-3.1-pro,,
+Chile,Twins SSR + N1 self-reflection,POPMEAN,44.04123967442884,gemini-3.1-pro,,
+Chile,Twins SSR + N2 random network,POPMEAN,45.071184558864125,gemini-3.1-pro,,
+Chile,Twins SSR + N3 homophily network,POPMEAN,46.45933427819253,gemini-3.1-pro,,
+China,Twins DLR,POPMEAN,57.76923076923077,gemini-3.1-pro,,
+China,Twins SSR,POPMEAN,51.56924116857896,gemini-3.1-pro,,
+China,"Twins SSR (network subsample, round 1)",POPMEAN,51.7281482025364,gemini-3.1-pro,,
+China,Twins SSR + N1 self-reflection,POPMEAN,51.89897190831371,gemini-3.1-pro,,
+China,Twins SSR + N2 random network,POPMEAN,54.49348639731164,gemini-3.1-pro,,
+China,Twins SSR + N3 homophily network,POPMEAN,54.01837015665697,gemini-3.1-pro,,
+Egypt,Twins DLR,POPMEAN,25.153846153846157,gemini-3.1-pro,,
+Egypt,Twins SSR,POPMEAN,45.48317506162327,gemini-3.1-pro,,
+Egypt,"Twins SSR (network subsample, round 1)",POPMEAN,45.74637168918863,gemini-3.1-pro,,
+Egypt,Twins SSR + N1 self-reflection,POPMEAN,45.57246677624497,gemini-3.1-pro,,
+Egypt,Twins SSR + N2 random network,POPMEAN,47.58216284916031,gemini-3.1-pro,,
+Egypt,Twins SSR + N3 homophily network,POPMEAN,47.75772821504738,gemini-3.1-pro,,
+France,Twins DLR,POPMEAN,32.69230769230769,gemini-3.1-pro,,
+France,Twins SSR,POPMEAN,43.85192027606099,gemini-3.1-pro,,
+France,"Twins SSR (network subsample, round 1)",POPMEAN,42.21176547050437,gemini-3.1-pro,,
+France,Twins SSR + N1 self-reflection,POPMEAN,43.950580245630135,gemini-3.1-pro,,
+France,Twins SSR + N2 random network,POPMEAN,45.406513041308784,gemini-3.1-pro,,
+France,Twins SSR + N3 homophily network,POPMEAN,45.067014212565965,gemini-3.1-pro,,
+Germany,Twins DLR,POPMEAN,24.846153846153847,gemini-3.1-pro,31.3,bottom
+Germany,Twins SSR,POPMEAN,42.765472311608704,gemini-3.1-pro,31.3,bottom
+Germany,"Twins SSR (network subsample, round 1)",POPMEAN,42.05548886952989,gemini-3.1-pro,31.3,bottom
+Germany,Twins SSR + N1 self-reflection,POPMEAN,43.58662793212567,gemini-3.1-pro,31.3,bottom
+Germany,Twins SSR + N2 random network,POPMEAN,44.87179497224416,gemini-3.1-pro,31.3,bottom
+Germany,Twins SSR + N3 homophily network,POPMEAN,46.36245667153207,gemini-3.1-pro,31.3,bottom
+India,Twins DLR,POPMEAN,41.30769230769231,gemini-3.1-pro,53.4,top
+India,Twins SSR,POPMEAN,50.432127229005104,gemini-3.1-pro,53.4,top
+India,"Twins SSR (network subsample, round 1)",POPMEAN,51.24343321194279,gemini-3.1-pro,53.4,top
+India,Twins SSR + N1 self-reflection,POPMEAN,51.126603428810725,gemini-3.1-pro,53.4,top
+India,Twins SSR + N2 random network,POPMEAN,52.92414858203726,gemini-3.1-pro,53.4,top
+India,Twins SSR + N3 homophily network,POPMEAN,52.965377315778646,gemini-3.1-pro,53.4,top
+Indonesia,Twins DLR,POPMEAN,71.3076923076923,gemini-3.1-pro,,
+Indonesia,Twins SSR,POPMEAN,56.93929381885095,gemini-3.1-pro,,
+Indonesia,"Twins SSR (network subsample, round 1)",POPMEAN,56.9101261850312,gemini-3.1-pro,,
+Indonesia,Twins SSR + N1 self-reflection,POPMEAN,58.53893728185548,gemini-3.1-pro,,
+Indonesia,Twins SSR + N2 random network,POPMEAN,59.144856277819294,gemini-3.1-pro,,
+Indonesia,Twins SSR + N3 homophily network,POPMEAN,58.474363889070105,gemini-3.1-pro,,
+Italy,Twins DLR,POPMEAN,19.307692307692307,gemini-3.1-pro,31.7,bottom
+Italy,Twins SSR,POPMEAN,39.24732056665932,gemini-3.1-pro,31.7,bottom
+Italy,"Twins SSR (network subsample, round 1)",POPMEAN,39.812389301690175,gemini-3.1-pro,31.7,bottom
+Italy,Twins SSR + N1 self-reflection,POPMEAN,40.6180351342745,gemini-3.1-pro,31.7,bottom
+Italy,Twins SSR + N2 random network,POPMEAN,41.38206490206302,gemini-3.1-pro,31.7,bottom
+Italy,Twins SSR + N3 homophily network,POPMEAN,42.04031614419992,gemini-3.1-pro,31.7,bottom
+Japan,Twins DLR,POPMEAN,57.69230769230769,gemini-3.1-pro,32.4,bottom
+Japan,Twins SSR,POPMEAN,53.39812998612809,gemini-3.1-pro,32.4,bottom
+Japan,"Twins SSR (network subsample, round 1)",POPMEAN,53.09924033395976,gemini-3.1-pro,32.4,bottom
+Japan,Twins SSR + N1 self-reflection,POPMEAN,53.85579038185441,gemini-3.1-pro,32.4,bottom
+Japan,Twins SSR + N2 random network,POPMEAN,54.59754669735706,gemini-3.1-pro,32.4,bottom
+Japan,Twins SSR + N3 homophily network,POPMEAN,53.505716829179455,gemini-3.1-pro,32.4,bottom
+Kazakhstan,Twins DLR,POPMEAN,39.84615384615385,gemini-3.1-pro,,
+Kazakhstan,Twins SSR,POPMEAN,47.97390429446096,gemini-3.1-pro,,
+Kazakhstan,"Twins SSR (network subsample, round 1)",POPMEAN,48.60089784943331,gemini-3.1-pro,,
+Kazakhstan,Twins SSR + N1 self-reflection,POPMEAN,49.00156905113022,gemini-3.1-pro,,
+Kazakhstan,Twins SSR + N2 random network,POPMEAN,51.5446179297966,gemini-3.1-pro,,
+Kazakhstan,Twins SSR + N3 homophily network,POPMEAN,51.12074255502058,gemini-3.1-pro,,
+Malaysia,Twins DLR,POPMEAN,65.07692307692308,gemini-3.1-pro,52.2,top
+Malaysia,Twins SSR,POPMEAN,55.46035665085784,gemini-3.1-pro,52.2,top
+Malaysia,"Twins SSR (network subsample, round 1)",POPMEAN,54.95831099821675,gemini-3.1-pro,52.2,top
+Malaysia,Twins SSR + N1 self-reflection,POPMEAN,56.49817666122491,gemini-3.1-pro,52.2,top
+Malaysia,Twins SSR + N2 random network,POPMEAN,57.06716956679025,gemini-3.1-pro,52.2,top
+Malaysia,Twins SSR + N3 homophily network,POPMEAN,57.63940836274708,gemini-3.1-pro,52.2,top
+Mexico,Twins DLR,POPMEAN,36.61538461538461,gemini-3.1-pro,,
+Mexico,Twins SSR,POPMEAN,47.821955504114,gemini-3.1-pro,,
+Mexico,"Twins SSR (network subsample, round 1)",POPMEAN,46.86812358813784,gemini-3.1-pro,,
+Mexico,Twins SSR + N1 self-reflection,POPMEAN,47.94620612283266,gemini-3.1-pro,,
+Mexico,Twins SSR + N2 random network,POPMEAN,49.08356628887604,gemini-3.1-pro,,
+Mexico,Twins SSR + N3 homophily network,POPMEAN,49.35296584912683,gemini-3.1-pro,,
+Philippines,Twins DLR,POPMEAN,67.6923076923077,gemini-3.1-pro,60.0,top
+Philippines,Twins SSR,POPMEAN,56.31438017416362,gemini-3.1-pro,60.0,top
+Philippines,"Twins SSR (network subsample, round 1)",POPMEAN,56.4737840460998,gemini-3.1-pro,60.0,top
+Philippines,Twins SSR + N1 self-reflection,POPMEAN,58.03956973710624,gemini-3.1-pro,60.0,top
+Philippines,Twins SSR + N2 random network,POPMEAN,58.19510358478586,gemini-3.1-pro,60.0,top
+Philippines,Twins SSR + N3 homophily network,POPMEAN,59.1797599748683,gemini-3.1-pro,60.0,top
+Poland,Twins DLR,POPMEAN,21.0,gemini-3.1-pro,25.4,bottom
+Poland,Twins SSR,POPMEAN,38.38327772188196,gemini-3.1-pro,25.4,bottom
+Poland,"Twins SSR (network subsample, round 1)",POPMEAN,38.80106999552304,gemini-3.1-pro,25.4,bottom
+Poland,Twins SSR + N1 self-reflection,POPMEAN,39.29570507387341,gemini-3.1-pro,25.4,bottom
+Poland,Twins SSR + N2 random network,POPMEAN,41.02961619905319,gemini-3.1-pro,25.4,bottom
+Poland,Twins SSR + N3 homophily network,POPMEAN,41.209269382026,gemini-3.1-pro,25.4,bottom
+Russia,Twins DLR,POPMEAN,31.46153846153846,gemini-3.1-pro,31.5,bottom
+Russia,Twins SSR,POPMEAN,45.07922345698251,gemini-3.1-pro,31.5,bottom
+Russia,"Twins SSR (network subsample, round 1)",POPMEAN,44.1487892383769,gemini-3.1-pro,31.5,bottom
+Russia,Twins SSR + N1 self-reflection,POPMEAN,44.91502176897481,gemini-3.1-pro,31.5,bottom
+Russia,Twins SSR + N2 random network,POPMEAN,47.14139968088893,gemini-3.1-pro,31.5,bottom
+Russia,Twins SSR + N3 homophily network,POPMEAN,47.23895758271954,gemini-3.1-pro,31.5,bottom
+Saudi Arabia,Twins DLR,POPMEAN,38.69230769230769,gemini-3.1-pro,51.0,top
+Saudi Arabia,Twins SSR,POPMEAN,49.3807555892655,gemini-3.1-pro,51.0,top
+Saudi Arabia,"Twins SSR (network subsample, round 1)",POPMEAN,49.11538089851097,gemini-3.1-pro,51.0,top
+Saudi Arabia,Twins SSR + N1 self-reflection,POPMEAN,50.02368949308819,gemini-3.1-pro,51.0,top
+Saudi Arabia,Twins SSR + N2 random network,POPMEAN,52.6334556266788,gemini-3.1-pro,51.0,top
+Saudi Arabia,Twins SSR + N3 homophily network,POPMEAN,52.67685610216305,gemini-3.1-pro,51.0,top
+Singapore,Twins DLR,POPMEAN,67.23076923076923,gemini-3.1-pro,,
+Singapore,Twins SSR,POPMEAN,55.87672597312054,gemini-3.1-pro,,
+Singapore,"Twins SSR (network subsample, round 1)",POPMEAN,55.99125917564864,gemini-3.1-pro,,
+Singapore,Twins SSR + N1 self-reflection,POPMEAN,57.29844502414194,gemini-3.1-pro,,
+Singapore,Twins SSR + N2 random network,POPMEAN,58.99293966331046,gemini-3.1-pro,,
+Singapore,Twins SSR + N3 homophily network,POPMEAN,59.12914876628493,gemini-3.1-pro,,
+South Africa,Twins DLR,POPMEAN,11.538461538461538,gemini-3.1-pro,,
+South Africa,Twins SSR,POPMEAN,39.25920382850354,gemini-3.1-pro,,
+South Africa,"Twins SSR (network subsample, round 1)",POPMEAN,38.63287894247936,gemini-3.1-pro,,
+South Africa,Twins SSR + N1 self-reflection,POPMEAN,40.93922776042018,gemini-3.1-pro,,
+South Africa,Twins SSR + N2 random network,POPMEAN,42.008081155588535,gemini-3.1-pro,,
+South Africa,Twins SSR + N3 homophily network,POPMEAN,42.37306377583973,gemini-3.1-pro,,
+Spain,Twins DLR,POPMEAN,26.07692307692308,gemini-3.1-pro,,
+Spain,Twins SSR,POPMEAN,42.62400556733898,gemini-3.1-pro,,
+Spain,"Twins SSR (network subsample, round 1)",POPMEAN,41.36625624515628,gemini-3.1-pro,,
+Spain,Twins SSR + N1 self-reflection,POPMEAN,43.68669762609818,gemini-3.1-pro,,
+Spain,Twins SSR + N2 random network,POPMEAN,44.59946956669534,gemini-3.1-pro,,
+Spain,Twins SSR + N3 homophily network,POPMEAN,45.02913901733688,gemini-3.1-pro,,
+Taiwan,Twins DLR,POPMEAN,73.61538461538461,gemini-3.1-pro,,
+Taiwan,Twins SSR,POPMEAN,57.10594566208363,gemini-3.1-pro,,
+Taiwan,"Twins SSR (network subsample, round 1)",POPMEAN,57.54654414377743,gemini-3.1-pro,,
+Taiwan,Twins SSR + N1 self-reflection,POPMEAN,59.76341020656006,gemini-3.1-pro,,
+Taiwan,Twins SSR + N2 random network,POPMEAN,60.488161172965256,gemini-3.1-pro,,
+Taiwan,Twins SSR + N3 homophily network,POPMEAN,60.313253714015055,gemini-3.1-pro,,
+Thailand,Twins DLR,POPMEAN,74.0,gemini-3.1-pro,50.2,top
+Thailand,Twins SSR,POPMEAN,57.43569099259685,gemini-3.1-pro,50.2,top
+Thailand,"Twins SSR (network subsample, round 1)",POPMEAN,57.42631720084754,gemini-3.1-pro,50.2,top
+Thailand,Twins SSR + N1 self-reflection,POPMEAN,58.412391041669466,gemini-3.1-pro,50.2,top
+Thailand,Twins SSR + N2 random network,POPMEAN,59.26881712474862,gemini-3.1-pro,50.2,top
+Thailand,Twins SSR + N3 homophily network,POPMEAN,59.55506437879598,gemini-3.1-pro,50.2,top
+Turkiye,Twins DLR,POPMEAN,27.46153846153846,gemini-3.1-pro,,
+Turkiye,Twins SSR,POPMEAN,44.808612877016415,gemini-3.1-pro,,
+Turkiye,"Twins SSR (network subsample, round 1)",POPMEAN,46.24207135886513,gemini-3.1-pro,,
+Turkiye,Twins SSR + N1 self-reflection,POPMEAN,46.258248594109205,gemini-3.1-pro,,
+Turkiye,Twins SSR + N2 random network,POPMEAN,47.9374425976438,gemini-3.1-pro,,
+Turkiye,Twins SSR + N3 homophily network,POPMEAN,48.91453914670293,gemini-3.1-pro,,
+UAE,Twins DLR,POPMEAN,43.23076923076923,gemini-3.1-pro,52.8,top
+UAE,Twins SSR,POPMEAN,50.28780437051096,gemini-3.1-pro,52.8,top
+UAE,"Twins SSR (network subsample, round 1)",POPMEAN,51.09834524599429,gemini-3.1-pro,52.8,top
+UAE,Twins SSR + N1 self-reflection,POPMEAN,51.24445553713992,gemini-3.1-pro,52.8,top
+UAE,Twins SSR + N2 random network,POPMEAN,53.68202761228536,gemini-3.1-pro,52.8,top
+UAE,Twins SSR + N3 homophily network,POPMEAN,53.02072000670062,gemini-3.1-pro,52.8,top
+United Kingdom,Twins DLR,POPMEAN,29.923076923076923,gemini-3.1-pro,,
+United Kingdom,Twins SSR,POPMEAN,44.01561925836288,gemini-3.1-pro,,
+United Kingdom,"Twins SSR (network subsample, round 1)",POPMEAN,45.91387224405928,gemini-3.1-pro,,
+United Kingdom,Twins SSR + N1 self-reflection,POPMEAN,46.01043006178539,gemini-3.1-pro,,
+United Kingdom,Twins SSR + N2 random network,POPMEAN,47.774020028674926,gemini-3.1-pro,,
+United Kingdom,Twins SSR + N3 homophily network,POPMEAN,47.44682700858044,gemini-3.1-pro,,
+United States,Twins DLR,POPMEAN,39.0,gemini-3.1-pro,,
+United States,Twins SSR,POPMEAN,47.795534009639226,gemini-3.1-pro,,
+United States,"Twins SSR (network subsample, round 1)",POPMEAN,47.24636169895352,gemini-3.1-pro,,
+United States,Twins SSR + N1 self-reflection,POPMEAN,48.26896226658573,gemini-3.1-pro,,
+United States,Twins SSR + N2 random network,POPMEAN,49.32212333413008,gemini-3.1-pro,,
+United States,Twins SSR + N3 homophily network,POPMEAN,49.24655574903951,gemini-3.1-pro,,
+Vietnam,Twins DLR,POPMEAN,68.46153846153847,gemini-3.1-pro,53.1,top
+Vietnam,Twins SSR,POPMEAN,57.32877414410763,gemini-3.1-pro,53.1,top
+Vietnam,"Twins SSR (network subsample, round 1)",POPMEAN,58.19144105882224,gemini-3.1-pro,53.1,top
+Vietnam,Twins SSR + N1 self-reflection,POPMEAN,58.7806550647509,gemini-3.1-pro,53.1,top
+Vietnam,Twins SSR + N2 random network,POPMEAN,59.67826720908253,gemini-3.1-pro,53.1,top
+Vietnam,Twins SSR + N3 homophily network,POPMEAN,60.05676859691992,gemini-3.1-pro,53.1,top

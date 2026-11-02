@@ -1,0 +1,19 @@
+model,cond,item_type,pairs,share_verbatim_repeat
+claude-sonnet-5,P3a+N1self,popularity (XQ1),11700,0.20068376068376068
+claude-sonnet-5,P3a+N1self,"own preference (XQ5, XQ6)",1800,0.21333333333333335
+claude-sonnet-5,P3a+N2random,popularity (XQ1),11699,0.4686725361141978
+claude-sonnet-5,P3a+N2random,"own preference (XQ5, XQ6)",1800,0.655
+claude-sonnet-5,P3a+N3homophily,popularity (XQ1),11700,0.4505982905982906
+claude-sonnet-5,P3a+N3homophily,"own preference (XQ5, XQ6)",1800,0.6438888888888888
+gpt-5.5,P3a+N1self,popularity (XQ1),11700,8.547008547008547e-05
+gpt-5.5,P3a+N1self,"own preference (XQ5, XQ6)",1800,0.0011111111111111111
+gpt-5.5,P3a+N2random,popularity (XQ1),11700,0.0005982905982905983
+gpt-5.5,P3a+N2random,"own preference (XQ5, XQ6)",1800,0.005
+gpt-5.5,P3a+N3homophily,popularity (XQ1),11700,0.0007692307692307692
+gpt-5.5,P3a+N3homophily,"own preference (XQ5, XQ6)",1800,0.0011111111111111111
+gemini-3.1-pro,P3a+N1self,popularity (XQ1),11700,0.0
+gemini-3.1-pro,P3a+N1self,"own preference (XQ5, XQ6)",1800,0.0
+gemini-3.1-pro,P3a+N2random,popularity (XQ1),11700,0.00452991452991453
+gemini-3.1-pro,P3a+N2random,"own preference (XQ5, XQ6)",1800,0.011111111111111112
+gemini-3.1-pro,P3a+N3homophily,popularity (XQ1),11700,0.006837606837606838
+gemini-3.1-pro,P3a+N3homophily,"own preference (XQ5, XQ6)",1800,0.011666666666666667

@@ -1,0 +1,235 @@
+model,cond,var,continent,mean_error_pp,n_countries
+claude-sonnet-5,Twins DLR,POPMEAN,Americas,-8.676923076923078,2
+claude-sonnet-5,Twins DLR,POPMEAN,Asia-Pacific,-0.9346153846153845,6
+claude-sonnet-5,Twins DLR,POPMEAN,Europe,-8.032692307692306,4
+claude-sonnet-5,Twins DLR,POPMEAN,Middle East,-16.630769230769232,2
+claude-sonnet-5,Twins DLR,XQ5,Americas,21.099999999999994,1
+claude-sonnet-5,Twins DLR,XQ5,Asia-Pacific,26.02857142857143,7
+claude-sonnet-5,Twins DLR,XQ5,Europe,45.42,5
+claude-sonnet-5,Twins DLR,XQ5,Middle East,22.0,1
+claude-sonnet-5,Twins DLR,XQ6,Africa,21.799999999999997,1
+claude-sonnet-5,Twins DLR,XQ6,Americas,22.300000000000004,2
+claude-sonnet-5,Twins DLR,XQ6,Asia-Pacific,31.200000000000003,8
+claude-sonnet-5,Twins DLR,XQ6,Europe,41.01428571428572,7
+claude-sonnet-5,Twins DLR,XQ6,Middle East,21.5,1
+claude-sonnet-5,Twins SSR,POPMEAN,Americas,10.12181866660259,2
+claude-sonnet-5,Twins SSR,POPMEAN,Asia-Pacific,0.6502974990720283,6
+claude-sonnet-5,Twins SSR,POPMEAN,Europe,11.911486449240215,4
+claude-sonnet-5,Twins SSR,POPMEAN,Middle East,-4.925773996382702,2
+claude-sonnet-5,Twins SSR,XQ5,Americas,-2.1732970913214587,1
+claude-sonnet-5,Twins SSR,XQ5,Asia-Pacific,5.393706756618487,7
+claude-sonnet-5,Twins SSR,XQ5,Europe,18.3546690282334,5
+claude-sonnet-5,Twins SSR,XQ5,Middle East,-0.24784773526091897,1
+claude-sonnet-5,Twins SSR,XQ6,Africa,-8.723297999051724,1
+claude-sonnet-5,Twins SSR,XQ6,Americas,-7.308640982768139,2
+claude-sonnet-5,Twins SSR,XQ6,Asia-Pacific,3.1325169438964897,8
+claude-sonnet-5,Twins SSR,XQ6,Europe,10.488688593520541,7
+claude-sonnet-5,Twins SSR,XQ6,Middle East,-6.489035107195377,1
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",POPMEAN,Americas,10.216351329900665,2
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",POPMEAN,Asia-Pacific,0.6160453201572823,6
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",POPMEAN,Europe,11.940016547849307,4
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",POPMEAN,Middle East,-4.392302860071322,2
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ5,Americas,-3.6651938762929746,1
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ5,Asia-Pacific,5.742061648151234,7
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ5,Europe,18.1256121661728,5
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ5,Middle East,0.2113292978869623,1
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ6,Africa,-8.954267449180293,1
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ6,Americas,-7.78497970489164,2
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ6,Asia-Pacific,3.2635279696434774,8
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ6,Europe,10.555630158774907,7
+claude-sonnet-5,"Twins SSR (network subsample, round 1)",XQ6,Middle East,-5.899596000711128,1
+claude-sonnet-5,Twins SSR + N1 self-reflection,POPMEAN,Americas,10.524772592194545,2
+claude-sonnet-5,Twins SSR + N1 self-reflection,POPMEAN,Asia-Pacific,-0.014243458996801905,6
+claude-sonnet-5,Twins SSR + N1 self-reflection,POPMEAN,Europe,12.020075924376256,4
+claude-sonnet-5,Twins SSR + N1 self-reflection,POPMEAN,Middle East,-4.036884339677311,2
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ5,Americas,-4.5460793316364345,1
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ5,Asia-Pacific,5.470910378690393,7
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ5,Europe,18.925298702363733,5
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ5,Middle East,1.5039552036258925,1
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ6,Africa,-8.80241795764843,1
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ6,Americas,-8.288891922168311,2
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ6,Asia-Pacific,3.035865444507535,8
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ6,Europe,10.533583074340575,7
+claude-sonnet-5,Twins SSR + N1 self-reflection,XQ6,Middle East,-7.147926108283087,1
+claude-sonnet-5,Twins SSR + N2 random network,POPMEAN,Americas,10.291936084319364,2
+claude-sonnet-5,Twins SSR + N2 random network,POPMEAN,Asia-Pacific,0.4584414902227228,6
+claude-sonnet-5,Twins SSR + N2 random network,POPMEAN,Europe,11.739143795743624,4
+claude-sonnet-5,Twins SSR + N2 random network,POPMEAN,Middle East,-4.483813993613676,2
+claude-sonnet-5,Twins SSR + N2 random network,XQ5,Americas,-3.9221966869301355,1
+claude-sonnet-5,Twins SSR + N2 random network,XQ5,Asia-Pacific,5.649467771713964,7
+claude-sonnet-5,Twins SSR + N2 random network,XQ5,Europe,17.8380535637964,5
+claude-sonnet-5,Twins SSR + N2 random network,XQ5,Middle East,0.13843535052406253,1
+claude-sonnet-5,Twins SSR + N2 random network,XQ6,Africa,-8.707439846793818,1
+claude-sonnet-5,Twins SSR + N2 random network,XQ6,Americas,-8.051260586952168,2
+claude-sonnet-5,Twins SSR + N2 random network,XQ6,Asia-Pacific,3.271259398323795,8
+claude-sonnet-5,Twins SSR + N2 random network,XQ6,Europe,10.308417647870474,7
+claude-sonnet-5,Twins SSR + N2 random network,XQ6,Middle East,-6.075649196902916,1
+claude-sonnet-5,Twins SSR + N3 homophily network,POPMEAN,Americas,10.163957287448635,2
+claude-sonnet-5,Twins SSR + N3 homophily network,POPMEAN,Asia-Pacific,0.2948860162512936,6
+claude-sonnet-5,Twins SSR + N3 homophily network,POPMEAN,Europe,11.846126474937995,4
+claude-sonnet-5,Twins SSR + N3 homophily network,POPMEAN,Middle East,-3.9414506713386217,2
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ5,Americas,-4.033125260472303,1
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ5,Asia-Pacific,5.6972067108229965,7
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ5,Europe,17.921202175766222,5
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ5,Middle East,0.08228636781375087,1
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ6,Africa,-9.527985723803894,1
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ6,Americas,-7.78991894933084,2
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ6,Asia-Pacific,3.330943663418295,8
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ6,Europe,10.911848267595287,7
+claude-sonnet-5,Twins SSR + N3 homophily network,XQ6,Middle East,-6.325829039017364,1
+gemini-3.1-pro,Twins DLR,POPMEAN,Americas,-8.023076923076923,2
+gemini-3.1-pro,Twins DLR,POPMEAN,Asia-Pacific,12.155128205128207,6
+gemini-3.1-pro,Twins DLR,POPMEAN,Europe,-5.821153846153846,4
+gemini-3.1-pro,Twins DLR,POPMEAN,Middle East,-10.938461538461535,2
+gemini-3.1-pro,Twins DLR,XQ5,Americas,18.099999999999994,1
+gemini-3.1-pro,Twins DLR,XQ5,Asia-Pacific,23.457142857142856,7
+gemini-3.1-pro,Twins DLR,XQ5,Europe,41.82,5
+gemini-3.1-pro,Twins DLR,XQ5,Middle East,19.0,1
+gemini-3.1-pro,Twins DLR,XQ6,Africa,19.799999999999997,1
+gemini-3.1-pro,Twins DLR,XQ6,Americas,20.300000000000004,2
+gemini-3.1-pro,Twins DLR,XQ6,Asia-Pacific,28.575000000000003,8
+gemini-3.1-pro,Twins DLR,XQ6,Europe,36.728571428571435,7
+gemini-3.1-pro,Twins DLR,XQ6,Middle East,18.5,1
+gemini-3.1-pro,Twins SSR,POPMEAN,Americas,9.223101381561104,2
+gemini-3.1-pro,Twins SSR,POPMEAN,Asia-Pacific,4.844909862809854,6
+gemini-3.1-pro,Twins SSR,POPMEAN,Europe,11.393823514283124,4
+gemini-3.1-pro,Twins SSR,POPMEAN,Middle East,-2.065720020111769,2
+gemini-3.1-pro,Twins SSR,XQ5,Americas,4.328951991847418,1
+gemini-3.1-pro,Twins SSR,XQ5,Asia-Pacific,11.392090271527957,7
+gemini-3.1-pro,Twins SSR,XQ5,Europe,27.89164961261077,5
+gemini-3.1-pro,Twins SSR,XQ5,Middle East,6.66133062231043,1
+gemini-3.1-pro,Twins SSR,XQ6,Africa,-6.009330061078074,1
+gemini-3.1-pro,Twins SSR,XQ6,Americas,-5.105714012682434,2
+gemini-3.1-pro,Twins SSR,XQ6,Asia-Pacific,4.522737160429826,8
+gemini-3.1-pro,Twins SSR,XQ6,Europe,14.042077989237649,7
+gemini-3.1-pro,Twins SSR,XQ6,Middle East,-5.073974899947643,1
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",POPMEAN,Americas,7.234446939974166,2
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",POPMEAN,Asia-Pacific,5.015421141648148,6
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",POPMEAN,Europe,11.22943435128,4
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",POPMEAN,Middle East,-1.7931369277473692,2
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ5,Americas,3.027795761989225,1
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ5,Asia-Pacific,11.948574030822853,7
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ5,Europe,27.751694169177718,5
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ5,Middle East,8.79089470042122,1
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ6,Africa,-6.83266070683797,1
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ6,Americas,-5.323842818041641,2
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ6,Asia-Pacific,4.510358442987008,8
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ6,Europe,14.3509974225646,7
+gemini-3.1-pro,"Twins SSR (network subsample, round 1)",XQ6,Middle East,-4.993935783704117,1
+gemini-3.1-pro,Twins SSR + N1 self-reflection,POPMEAN,Americas,9.250369809952968,2
+gemini-3.1-pro,Twins SSR + N1 self-reflection,POPMEAN,Asia-Pacific,5.902197719236109,6
+gemini-3.1-pro,Twins SSR + N1 self-reflection,POPMEAN,Europe,12.128847477312098,4
+gemini-3.1-pro,Twins SSR + N1 self-reflection,POPMEAN,Middle East,-1.2659274848859425,2
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ5,Americas,4.309483722845712,1
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ5,Asia-Pacific,13.264708209416222,7
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ5,Europe,30.19093150715033,5
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ5,Middle East,8.980684300263718,1
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ6,Africa,-3.603585756818461,1
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ6,Americas,-3.9038356562358274,2
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ6,Asia-Pacific,7.029824320351088,8
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ6,Europe,16.398744606333118,7
+gemini-3.1-pro,Twins SSR + N1 self-reflection,XQ6,Middle East,-4.2298655062913895,1
+gemini-3.1-pro,Twins SSR + N2 random network,POPMEAN,Americas,10.765970217245961,2
+gemini-3.1-pro,Twins SSR + N2 random network,POPMEAN,Asia-Pacific,6.738508794133597,6
+gemini-3.1-pro,Twins SSR + N2 random network,POPMEAN,Europe,13.631218938562325,4
+gemini-3.1-pro,Twins SSR + N2 random network,POPMEAN,Middle East,1.2577416194820827,2
+gemini-3.1-pro,Twins SSR + N2 random network,XQ5,Americas,6.488209852907389,1
+gemini-3.1-pro,Twins SSR + N2 random network,XQ5,Asia-Pacific,13.62344169455861,7
+gemini-3.1-pro,Twins SSR + N2 random network,XQ5,Europe,30.05175086842731,5
+gemini-3.1-pro,Twins SSR + N2 random network,XQ5,Middle East,10.07152307695813,1
+gemini-3.1-pro,Twins SSR + N2 random network,XQ6,Africa,-3.6305211454629926,1
+gemini-3.1-pro,Twins SSR + N2 random network,XQ6,Americas,-3.0811784585316957,2
+gemini-3.1-pro,Twins SSR + N2 random network,XQ6,Asia-Pacific,6.960020035629472,8
+gemini-3.1-pro,Twins SSR + N2 random network,XQ6,Europe,16.240736640067325,7
+gemini-3.1-pro,Twins SSR + N2 random network,XQ6,Middle East,-3.661410868167877,1
+gemini-3.1-pro,Twins SSR + N3 homophily network,POPMEAN,Americas,10.820276431754891,2
+gemini-3.1-pro,Twins SSR + N3 homophily network,POPMEAN,Asia-Pacific,6.933682576381564,6
+gemini-3.1-pro,Twins SSR + N3 homophily network,POPMEAN,Europe,14.237749945119385,4
+gemini-3.1-pro,Twins SSR + N3 homophily network,POPMEAN,Middle East,0.9487880544318372,2
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ5,Americas,5.612718270222345,1
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ5,Asia-Pacific,13.638082540744822,7
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ5,Europe,30.46792879687415,5
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ5,Middle East,9.852887378798599,1
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ6,Africa,-3.5879307458798166,1
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ6,Americas,-3.864311890800785,2
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ6,Asia-Pacific,7.132730019713445,8
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ6,Europe,16.413462822068308,7
+gemini-3.1-pro,Twins SSR + N3 homophily network,XQ6,Middle East,-3.713178445895508,1
+gpt-5.5,Twins DLR,POPMEAN,Americas,-3.292307692307693,2
+gpt-5.5,Twins DLR,POPMEAN,Asia-Pacific,4.7705128205128196,6
+gpt-5.5,Twins DLR,POPMEAN,Europe,-5.494230769230769,4
+gpt-5.5,Twins DLR,POPMEAN,Middle East,-11.515384615384615,2
+gpt-5.5,Twins DLR,XQ5,Americas,21.099999999999994,1
+gpt-5.5,Twins DLR,XQ5,Asia-Pacific,26.457142857142856,7
+gpt-5.5,Twins DLR,XQ5,Europe,46.019999999999996,5
+gpt-5.5,Twins DLR,XQ5,Middle East,22.0,1
+gpt-5.5,Twins DLR,XQ6,Africa,21.799999999999997,1
+gpt-5.5,Twins DLR,XQ6,Americas,22.300000000000004,2
+gpt-5.5,Twins DLR,XQ6,Asia-Pacific,31.700000000000003,8
+gpt-5.5,Twins DLR,XQ6,Europe,41.300000000000004,7
+gpt-5.5,Twins DLR,XQ6,Middle East,21.5,1
+gpt-5.5,Twins SSR,POPMEAN,Americas,15.103687057339869,2
+gpt-5.5,Twins SSR,POPMEAN,Asia-Pacific,5.821060345795881,6
+gpt-5.5,Twins SSR,POPMEAN,Europe,16.824361572920445,4
+gpt-5.5,Twins SSR,POPMEAN,Middle East,-0.1958329756430892,2
+gpt-5.5,Twins SSR,XQ5,Americas,0.0028246104717197795,1
+gpt-5.5,Twins SSR,XQ5,Asia-Pacific,7.405706266846636,7
+gpt-5.5,Twins SSR,XQ5,Europe,23.947358101805925,5
+gpt-5.5,Twins SSR,XQ5,Middle East,2.8338387285669597,1
+gpt-5.5,Twins SSR,XQ6,Africa,-11.864996709669185,1
+gpt-5.5,Twins SSR,XQ6,Americas,-11.525469562783833,2
+gpt-5.5,Twins SSR,XQ6,Asia-Pacific,-0.16613812216024382,8
+gpt-5.5,Twins SSR,XQ6,Europe,6.707631526447349,7
+gpt-5.5,Twins SSR,XQ6,Middle East,-8.957224309444427,1
+gpt-5.5,"Twins SSR (network subsample, round 1)",POPMEAN,Americas,14.159458655236914,2
+gpt-5.5,"Twins SSR (network subsample, round 1)",POPMEAN,Asia-Pacific,5.880979710151553,6
+gpt-5.5,"Twins SSR (network subsample, round 1)",POPMEAN,Europe,16.832394092534436,4
+gpt-5.5,"Twins SSR (network subsample, round 1)",POPMEAN,Middle East,0.18182777471317735,2
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ5,Americas,-1.9879073176119135,1
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ5,Asia-Pacific,7.592821528325004,7
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ5,Europe,23.611960208945806,5
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ5,Middle East,3.3470364610354153,1
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ6,Africa,-11.939291628183739,1
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ6,Americas,-12.342141293734308,2
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ6,Asia-Pacific,-0.028403902146961535,8
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ6,Europe,6.689903570873416,7
+gpt-5.5,"Twins SSR (network subsample, round 1)",XQ6,Middle East,-9.26939297219117,1
+gpt-5.5,Twins SSR + N1 self-reflection,POPMEAN,Americas,13.969458002571095,2
+gpt-5.5,Twins SSR + N1 self-reflection,POPMEAN,Asia-Pacific,5.413996264370528,6
+gpt-5.5,Twins SSR + N1 self-reflection,POPMEAN,Europe,16.169277756123837,4
+gpt-5.5,Twins SSR + N1 self-reflection,POPMEAN,Middle East,-0.23741690954360095,2
+gpt-5.5,Twins SSR + N1 self-reflection,XQ5,Americas,-1.1583578775326515,1
+gpt-5.5,Twins SSR + N1 self-reflection,XQ5,Asia-Pacific,7.1124159996944725,7
+gpt-5.5,Twins SSR + N1 self-reflection,XQ5,Europe,23.515113887875213,5
+gpt-5.5,Twins SSR + N1 self-reflection,XQ5,Middle East,3.366263863941029,1
+gpt-5.5,Twins SSR + N1 self-reflection,XQ6,Africa,-10.26235220034917,1
+gpt-5.5,Twins SSR + N1 self-reflection,XQ6,Americas,-9.743898304303478,2
+gpt-5.5,Twins SSR + N1 self-reflection,XQ6,Asia-Pacific,0.6151316287883928,8
+gpt-5.5,Twins SSR + N1 self-reflection,XQ6,Europe,8.739725676110119,7
+gpt-5.5,Twins SSR + N1 self-reflection,XQ6,Middle East,-7.8340180069208145,1
+gpt-5.5,Twins SSR + N2 random network,POPMEAN,Americas,13.898719545502477,2
+gpt-5.5,Twins SSR + N2 random network,POPMEAN,Asia-Pacific,6.395557590832539,6
+gpt-5.5,Twins SSR + N2 random network,POPMEAN,Europe,16.75174223897205,4
+gpt-5.5,Twins SSR + N2 random network,POPMEAN,Middle East,1.859438133011988,2
+gpt-5.5,Twins SSR + N2 random network,XQ5,Americas,-2.0673663523462125,1
+gpt-5.5,Twins SSR + N2 random network,XQ5,Asia-Pacific,7.485223599653395,7
+gpt-5.5,Twins SSR + N2 random network,XQ5,Europe,23.448180807001062,5
+gpt-5.5,Twins SSR + N2 random network,XQ5,Middle East,3.525012064311241,1
+gpt-5.5,Twins SSR + N2 random network,XQ6,Africa,-10.52891740898292,1
+gpt-5.5,Twins SSR + N2 random network,XQ6,Americas,-10.252086599171157,2
+gpt-5.5,Twins SSR + N2 random network,XQ6,Asia-Pacific,0.16805637900374037,8
+gpt-5.5,Twins SSR + N2 random network,XQ6,Europe,7.840580294673475,7
+gpt-5.5,Twins SSR + N2 random network,XQ6,Middle East,-8.299228757619858,1
+gpt-5.5,Twins SSR + N3 homophily network,POPMEAN,Americas,14.593019313714638,2
+gpt-5.5,Twins SSR + N3 homophily network,POPMEAN,Asia-Pacific,6.486554977922783,6
+gpt-5.5,Twins SSR + N3 homophily network,POPMEAN,Europe,17.17560021177242,4
+gpt-5.5,Twins SSR + N3 homophily network,POPMEAN,Middle East,1.3637748389212092,2
+gpt-5.5,Twins SSR + N3 homophily network,XQ5,Americas,-1.3159035500395788,1
+gpt-5.5,Twins SSR + N3 homophily network,XQ5,Asia-Pacific,7.285363448564967,7
+gpt-5.5,Twins SSR + N3 homophily network,XQ5,Europe,23.399218915104864,5
+gpt-5.5,Twins SSR + N3 homophily network,XQ5,Middle East,3.8219680421882174,1
+gpt-5.5,Twins SSR + N3 homophily network,XQ6,Africa,-10.43226932187875,1
+gpt-5.5,Twins SSR + N3 homophily network,XQ6,Americas,-9.79723188231388,2
+gpt-5.5,Twins SSR + N3 homophily network,XQ6,Asia-Pacific,0.8168517043522927,8
+gpt-5.5,Twins SSR + N3 homophily network,XQ6,Europe,8.048432485475429,7
+gpt-5.5,Twins SSR + N3 homophily network,XQ6,Middle East,-6.9414142866929325,1

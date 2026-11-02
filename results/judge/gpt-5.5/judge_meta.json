@@ -1,0 +1,13 @@
+{
+ "judge": "gpt-5.5",
+ "model_id": "gpt-5.5",
+ "calls": 360,
+ "answers": 18000,
+ "unparsed": 0,
+ "errors": 0,
+ "usage": {
+  "input": 622851,
+  "output": 122546,
+  "calls": 360
+ }
+}

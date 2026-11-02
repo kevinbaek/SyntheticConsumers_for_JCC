@@ -1,0 +1,10 @@
+pair,source,model,n,spearman,p
+XQ5~XQ6,B2 persona-free LLM (same countries as human),claude-sonnet-5,12,0.965034965034965,3.880985299627466e-07
+XQ5~POPMEAN,B2 persona-free LLM (same countries as human),claude-sonnet-5,10,0.9272727272727272,0.00011203450639397586
+XQ6~POPMEAN,B2 persona-free LLM (same countries as human),claude-sonnet-5,10,0.9272727272727272,0.00011203450639397586
+XQ5~XQ6,B2 persona-free LLM (same countries as human),gemini-3.1-pro,12,0.9860139860139862,4.1168959116543235e-09
+XQ5~POPMEAN,B2 persona-free LLM (same countries as human),gemini-3.1-pro,10,0.8787878787878788,0.0008138621117322101
+XQ6~POPMEAN,B2 persona-free LLM (same countries as human),gemini-3.1-pro,10,0.8303030303030302,0.002940227023279509
+XQ5~XQ6,B2 persona-free LLM (same countries as human),gpt-5.5,12,0.9912201988042226,4.048631900089489e-10
+XQ5~POPMEAN,B2 persona-free LLM (same countries as human),gpt-5.5,10,0.8997002046464956,0.00039167359562948317
+XQ6~POPMEAN,B2 persona-free LLM (same countries as human),gpt-5.5,10,0.9030303030303028,0.0003436121977632824

@@ -1,0 +1,11 @@
+{
+ "model": "gemini-3.1-pro",
+ "calls": 93,
+ "errors": 0,
+ "usage": {
+  "input": 78123,
+  "output": 20260,
+  "thinking": 52417,
+  "calls": 93
+ }
+}
