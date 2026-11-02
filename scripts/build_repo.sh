@@ -9,7 +9,7 @@ cp -r "$SRC/hallyu_twins" "$SRC/configs" "$SRC/scripts" "$SRC/tests" "$SRC/verif
 mkdir -p "$DST/data" && cp -r "$SRC/data/pdf_tables" "$DST/data/"
 mkdir -p "$DST/models" && cp "$SRC/models/README.md" "$DST/models/" 2>/dev/null || true
 cp "$SRC/pyproject.toml" "$SRC/README.md" "$DST/"
-mkdir -p "$DST/paper" && cp "$SRC"/paper/Baek_Kim_JCC_manuscript.docx "$SRC"/paper/ms_part*.md "$SRC"/paper/refs.json "$SRC"/paper/build_docx.js "$DST/paper/"
+mkdir -p "$DST/paper" && cp "$SRC"/paper/Baek_Kim_JCC_manuscript.docx "$SRC"/paper/Baek_Kim_JCC_supplementary.docx "$SRC"/paper/main_part*.md "$SRC"/paper/supp.md "$SRC"/paper/refs.json "$SRC"/paper/build_docx.js "$DST/paper/"
 [ -f "$SRC/LICENSE" ] && cp "$SRC/LICENSE" "$DST/"
 cp "$SRC/.gitignore" "$SRC/.env.example" "$DST/"
 # results: final runs (responses, scored items, run metadata) + analysis tables and figures
@@ -29,6 +29,7 @@ for r in "$SRC"/outputs/final_*; do
 done
 [ -d "$SRC/outputs/analysis_final" ] && cp -r "$SRC/outputs/analysis_final" "$DST/results/"
 [ -d "$SRC/outputs/probes" ] && cp -r "$SRC/outputs/probes" "$DST/results/"
+[ -d "$SRC/outputs/judge" ] && cp -r "$SRC/outputs/judge" "$DST/results/"        # LLM-judge re-scoring of the SSR answers
 find "$DST" -name "__pycache__" -prune -exec rm -rf {} + ; find "$DST" -name "*.sqlite" -delete; rm -rf "$DST/.pytest_cache"
 # secret scan: provider key shapes, plus the exact values of the keys in use when KEYS_FILE points to the
 # (never released) key file; the values are read into a temporary pattern file and never printed

@@ -46,9 +46,9 @@ def fig1_design():
         if txt:
             ax.text((x1 + x2) / 2, (y1 + y2) / 2 + 1.2, txt, ha="center", fontsize=7.5, color="#555555")
     box(1, 24, 20, 18, "KOFICE report (2026)", "respondent profile\n(30 countries, 31 rows)\n\nprinted outcomes:\nXQ5, XQ6, POPMEAN,\n3-band and 13-domain totals", fc="#fff8ec", ec="#c98a1a")
-    box(27, 26, 18, 14, "Personas", "IPF on printed margins\n100 twins per country\n(3,000; 900 for networks)")
+    box(27, 26, 18, 14, "Personas", "IPF on printed margins\n100 personas per country\n(3,000; 900 for networks)")
     box(51, 31, 22, 11, "Round 1, per model", "DLR (labelled options,\nhalf reversed)  |  SSR (free text)")
-    box(51, 17, 22, 11, "Round 2 (900 twins)", "N1 self-reflection\nN2 random  |  N3 homophily, k = 3")
+    box(51, 17, 22, 11, "Round 2 (900 personas)", "N1 self-reflection\nN2 random  |  N3 homophily, k = 3")
     box(51, 3, 22, 11, "Persona-free estimate (B2)", "same model asked for each\ncountry's share, 3 runs")
     box(79, 24, 15, 18, "SSR scoring", "text-embedding-3-small\nanchor similarity\n-> P(1..5), T2B")
     box(79, 3, 15, 18, "Comparators", "B0, B5, LOCO,\nB-PROFILE, B-XITEM, B1\n(no LLM)", fc="#f4f4f4", ec=GREY)
@@ -72,7 +72,7 @@ def fig1_design():
 
 def fig_mae():
     X = _opt("rb_listed_extra")
-    methods = [("Twins DLR", "Twins, direct rating (DLR)"), ("Twins SSR", "Twins, SSR"),
+    methods = [("Twins DLR", "Personas, direct rating (DLR)"), ("Twins SSR", "Personas, SSR"),
                ("B2 persona-free LLM", "Persona-free estimate (B2)"), ("Twins SSR + CAL-LOCO", "SSR + CAL-LOCO"),
                ("Twins SSR + CAL-STYLE", "SSR + country offset (CAL-STYLE)")]
     base = [("B0 uniform", "Uniform 40% (B0)"), ("B5 30-country total", "30-country total (B5)"),
@@ -103,8 +103,8 @@ def fig_mae():
     axes[0].set_yticks(range(len(rows)), [lab for _, lab in rows]); axes[0].invert_yaxis()
     axes[0].text(-0.02, (len(methods) - 0.5) / len(rows), "", transform=axes[0].transAxes)
     fig.legend(loc="lower center", ncol=3, frameon=False, bbox_to_anchor=(0.5, -0.02))
-    fig.suptitle("SSR cuts the favorability and recommendation error of direct rating by 13 to 23 points; the country-offset "
-                 "correction brings most errors to 3-5 points, about as low as a non-LLM regression on the same data", fontsize=10.5)
+    fig.suptitle("Error against the published values, listed countries: SSR is lower than direct rating for favorability and recommendation; "
+                 "corrected values are not significantly different from a non-LLM regression on the same data", fontsize=10.5)
     fig.tight_layout(rect=(0, 0.05, 1, 0.97)); fig.savefig(OUT / "fig2_mae_by_method.png", dpi=200, bbox_inches="tight"); plt.close(fig)
 
 
@@ -144,7 +144,7 @@ def fig_xq5_30():
     ax.set_xlabel("Favorability, top-2-box % (° = middle country, not in the top/bottom-7 lists)")
     ax.grid(axis="x", color="#eeeeee"); ax.set_xlim(40, 95)
     ax.legend(frameon=False, loc="upper left", fontsize=8)
-    ax.set_title("All 30 countries: SSR twins place every country between 71% and 87%,\nso the error grows as true favorability falls", fontsize=10)
+    ax.set_title("All 30 countries: SSR synthetic consumers place every country between 71% and 87%,\nso the error grows as true favorability falls", fontsize=10)
     fig.tight_layout(); fig.savefig(OUT / "fig4_xq5_30_countries.png", dpi=200, bbox_inches="tight"); plt.close(fig)
 
 
@@ -175,7 +175,7 @@ def fig_bands():
         ax.set_xlabel("% of respondents (countries weighted by sample size)")
     axes[0].invert_yaxis()
     fig.legend(loc="lower center", ncol=3, frameon=False, bbox_to_anchor=(0.5, -0.06))
-    fig.suptitle("Humans put a quarter of answers in the middle; SSR twins put 7-20% there and direct ratings at most 3%", fontsize=10.5)
+    fig.suptitle("Humans put a quarter of answers in the middle; SSR synthetic consumers put 7-20% there and direct ratings at most 3%", fontsize=10.5)
     fig.tight_layout(rect=(0, 0.06, 1, 0.95)); fig.savefig(OUT / "fig5_distribution_bands.png", dpi=200, bbox_inches="tight"); plt.close(fig)
 
 
@@ -245,7 +245,7 @@ def fig_gradients():
         ax.set_ylabel("Synthetic favorability, top-2-box %"); ax.grid(axis="y", color="#eeeeee")
         ax.tick_params(labelleft=True)
     fig.legend(loc="lower center", ncol=3, frameon=False, bbox_to_anchor=(0.5, -0.05))
-    fig.suptitle("Persona attributes do move twin answers: favorability rises with the persona's knowledge of Korea (all 3,000 twins)",
+    fig.suptitle("Persona attributes move synthetic answers: favorability rises with the persona's knowledge of Korea (all 3,000 personas)",
                  fontsize=10.5)
     fig.tight_layout(rect=(0, 0.06, 1, 0.94)); fig.savefig(OUT / "fig8_persona_gradient.png", dpi=200, bbox_inches="tight"); plt.close(fig)
 
@@ -268,7 +268,7 @@ def fig_anchor():
     ax.set_xticks(range(1, 6), ["1", "2", "3", "4", "5"]); ax.set_xlabel("Scale point whose anchor statement is given as the answer")
     ax.set_ylabel("SSR top-2-box share (%)"); ax.grid(axis="y", color="#eeeeee"); ax.set_ylim(-3, 103)
     ax.legend(frameon=False, fontsize=8, loc="upper left")
-    ax.set_title("SSR cannot reach 100%: an answer that repeats the most positive anchor\nscores only 70-90% top-2-box (bars: range over anchor sets)", fontsize=9.5)
+    ax.set_title("Anchor self-test: top-2-box share assigned when an anchor statement itself is scored\n(points: mean over anchor sets and domains; bars: range)", fontsize=9.5)
     fig.tight_layout(); fig.savefig(OUT / "fig9_anchor_selftest.png", dpi=200, bbox_inches="tight"); plt.close(fig)
 
 

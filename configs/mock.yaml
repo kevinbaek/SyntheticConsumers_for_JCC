@@ -1,0 +1,19 @@
+out_dir: outputs
+cache_dir: outputs/cache
+seed: 20261030
+n_per_country: 25
+n_per_country_ablation: 8
+n_calibration_twins: 120
+main_condition: {persona: P4, label: "true", elicit: ssr, language: en, network: none}
+ablations:
+  persona: [P0, P1, P2, P3, P4, P4D]
+  label: ["true", none, swap]
+  network: [none, self, random, homophily]
+network_k: 3
+network_features: P4
+network_items: [XQ5, XQ6, XQ1_1, XQ1_4]
+ssr_method: softmax
+ssr_tau_grid: [0.02, 0.05, 0.1]
+embedding: {provider: mock}
+split_half_reps: 50
+max_workers: 16

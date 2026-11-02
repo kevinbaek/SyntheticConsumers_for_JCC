@@ -13,6 +13,34 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
+import atexit
+import io
+import re
+
+# Display labels only: the data files call the persona conditions "Twins"; the manuscript calls them
+# "Persona" (profile-based synthetic consumers drawn from published margins, not digital twins of real
+# people). "## Table:" lines are lookup keys for the manuscript builder and are left unchanged.
+_REAL_STDOUT, _BUF = sys.stdout, io.StringIO()
+sys.stdout = _BUF
+_RELABEL = [(r"\bTwins(?= SSR| DLR|, SSR|, DLR)", "Persona"), (r"\bTwin-item\b", "Persona–item"),
+            (r"\bTwins\b", "Personas"), (r"\btwins\b", "personas"), (r"\bTwin\b", "Persona"), (r"\btwin\b", "persona")]
+
+
+def _relabel(line):
+    if line.startswith("## Table:"):
+        return line
+    for pat, rep in _RELABEL:
+        line = re.sub(pat, rep, line)
+    return line
+
+
+@atexit.register
+def _flush():
+    sys.stdout = _REAL_STDOUT
+    _REAL_STDOUT.write("\n".join(_relabel(x) for x in _BUF.getvalue().split("\n")))
+    _REAL_STDOUT.flush()
+
+
 D = Path(sys.argv[1] if len(sys.argv) > 1 else "outputs/analysis_final")
 M = pd.read_csv(D / "metrics.csv")
 P = pd.read_csv(D / "paired.csv")
@@ -168,6 +196,11 @@ if IC is not None:
     for _, r in IC.iterrows():
         a, b = r.pair.split("~")
         print(f"| Item coherence: {ITEML.get(a, a)} ~ {ITEML.get(b, b)} | {LABEL.get(r.model, '–')} | {r.source} | – | {int(r.n)} | {f2(r.spearman)} | {'–' if pd.isna(r.p) else f'{r.p:.3f}'} |")
+ICB = _opt("rb_item_coherence_b2")
+if ICB is not None:
+    for _, r in ICB.iterrows():
+        a, b = r.pair.split("~")
+        print(f"| Item coherence: {ITEML.get(a, a)} ~ {ITEML.get(b, b)} | {LABEL.get(r.model, '–')} | {r.source} | – | {int(r.n)} | {f2(r.spearman)} | {r.p:.3f} |")
 if IM is not None:
     for _, r in IM.iterrows():
         print(f"| Inter-model agreement, 30 countries | {LABEL.get(r.model_a, r.model_a)} ~ {LABEL.get(r.model_b, r.model_b)} | {r.method} | {ITEML[r['var']]} | {int(r.n_countries)} | {f2(r.spearman)} | {r.p:.3f} |")
@@ -177,6 +210,9 @@ if ES is not None:
 if MA is not None:
     for mdl, g in MA.groupby("model"):
         print(f"| Same twin, DLR ~ SSR (median of 15 items) | {LABEL.get(mdl, mdl)} | – | 15 items | {int(g.n_twins.median())} | {g.spearman_dlr_ssr.median():.2f} | – |")
+        for v in ("XQ5", "XQ6"):
+            r = g[g["var"] == v].iloc[0]
+            print(f"| Same twin, DLR ~ SSR | {LABEL.get(mdl, mdl)} | – | {ITEML[v]} | {int(r.n_twins)} | {r.spearman_dlr_ssr:.2f} | {r.p:.3f} |")
 CE = _opt("continent_error")
 if CE is not None:
     print("\n## Table: mean signed error by continent (pp), listed countries\n")
@@ -222,12 +258,17 @@ if RX is not None:
     print("\n## Table: favorability on all 30 countries (full ranking printed in the report)\n")
     print("| Model | Method | MAE, 30 countries (95% CI) | Bias | ρ (30) | Spread | Top/bottom-7 recovered (of 14) | MAE, 14 listed | MAE, 16 middle |")
     print("| --- | --- | --- | --- | --- | --- | --- | --- | --- |")
-    order = ["Twins DLR", "Twins SSR", "Twins SSR + CAL-LOCO (LOO, 30)", "B2 persona-free LLM"]
+    order = ["Twins DLR", "Twins SSR", "Twins SSR + CAL-LOCO (LOO, 30)", "Twins SSR + CAL-LOCO (fit on 14 listed)", "B2 persona-free LLM"]
     base = ["B0 uniform", "B5 30-country total", "B5 leave-one-out total", "LOCO mean", "LOCO continent mean",
             "B-PROFILE knowledge share (LOO)", "B1 carry-forward"]
     for mdl in MODELS + ["none"]:
         for meth in (order if mdl != "none" else base):
             g = RX[(RX.model == mdl) & (RX.method == meth)].set_index("scope")
+            if "fit on 14 listed" in meth and "16 middle" in g.index:
+                m = g.loc["16 middle"]
+                print(f"| {LABEL.get(mdl, '–')} | Twins SSR + CAL-LOCO fitted on the 14 listed | – | – | – | – | – | – | "
+                      f"{f1(m.MAE_pp)} (bias {m.bias_pp:+.1f}) |")
+                continue
             if "all 30" not in g.index:
                 continue
             a = g.loc["all 30"]
@@ -421,3 +462,115 @@ for meth, lab in [("LOCO continent mean", "Continent mean (LOCO-continent)"), ("
         r = get("none", meth, v)
         cells += ["–" if r is None else f"{f1(r.MAE_pp)} ({int(r.n)})", "", ""]
     print(f"| {lab} | – | " + " | ".join(cells) + " |")
+
+# ---- second review round (hallyu_twins.discussion_checks) ---------------------------------------------------
+CAL = _opt("rb_calibrated")
+RXa = _opt("rb_xq5_all30")
+if CAL is not None:
+    print("\n## Table: MS calibration of every elicitation, all 30 countries\n")
+    print("| Model | SSR, uncalibrated | SSR + CAL-LOCO | DLR + CAL-LOCO | B2 + CAL-LOCO | B-PROFILE (no LLM) | SSR+CAL − DLR+CAL (p) | SSR+CAL − B2+CAL (p) | SSR+CAL − B-PROFILE (p) |")
+    print("| --- | --- | --- | --- | --- | --- | --- | --- | --- |")
+    c30 = CAL[CAL.scope == "XQ5 all 30"]
+    for mdl in MODELS:
+        g = c30[c30.model == mdl]
+        mae = g[g.contrast.isna()].set_index("method")["MAE_pp"]
+        d = g[g.contrast.notna()].set_index("contrast")
+        raw = RXa[(RXa.model == mdl) & (RXa.method == "Twins SSR") & (RXa.scope == "all 30")]["MAE_pp"].iloc[0]
+        cell = lambda k: f"{d.at[k, 'diff_pp']:+.1f} ({d.at[k, 'p_signflip']:.3f})"
+        print(f"| {LABEL[mdl]} | {raw:.1f} | {mae['Twins SSR + CAL-LOCO']:.1f} | {mae['Twins DLR + CAL-LOCO']:.1f} | {mae['B2 persona-free LLM + CAL-LOCO']:.1f} | "
+              f"{mae['B-PROFILE (no LLM)']:.1f} | {cell('vs Twins DLR + CAL-LOCO')} | {cell('vs B2 persona-free LLM + CAL-LOCO')} | {cell('vs B-PROFILE (no LLM)')} |")
+    print("\n## Table: S calibration of every elicitation, listed countries\n")
+    print("| Model | Item | n | SSR + CAL-LOCO | DLR + CAL-LOCO | B2 + CAL-LOCO | SSR+CAL − DLR+CAL (p) | SSR+CAL − B2+CAL (p) |")
+    print("| --- | --- | --- | --- | --- | --- | --- | --- |")
+    for v, lab in VARS:
+        for mdl in MODELS:
+            g = CAL[(CAL.scope == f"{v} listed") & (CAL.model == mdl)]
+            mae = g[g.contrast.isna()].set_index("method")
+            d = g[g.contrast.notna()].set_index("contrast")
+            cell = lambda k: f"{d.at[k, 'diff_pp']:+.1f} ({d.at[k, 'p_signflip']:.3f})"
+            print(f"| {LABEL[mdl]} | {lab} | {int(mae['n'].iloc[0])} | {mae.at['Twins SSR + CAL-LOCO', 'MAE_pp']:.1f} | {mae.at['Twins DLR + CAL-LOCO', 'MAE_pp']:.1f} | "
+                  f"{mae.at['B2 persona-free LLM + CAL-LOCO', 'MAE_pp']:.1f} | {cell('vs Twins DLR + CAL-LOCO')} | {cell('vs B2 persona-free LLM + CAL-LOCO')} |")
+
+SV = _opt("rb_ssr_variants")
+JD = _opt("rb_judge")
+RG = _opt("rb_ssr_range")
+if SV is not None and JD is not None:
+    print("\n## Table: MS scoring of the same free-text answers\n")
+    print("| Model | Item (countries) | SSR, main: MAE (bias) | SSR, one anchor set: MAE range (bias range) | Nearest anchor: MAE (bias) | LLM judge: MAE (bias) | Answers judged top-2 | ρ with human: SSR | ρ with human: judge top-box share |")
+    print("| --- | --- | --- | --- | --- | --- | --- | --- | --- |")
+    jg = JD[JD.judge == "gpt-5.5"]
+    for v, scope, lab in (("XQ5", "all 30", "Favorability (30)"), ("XQ6", "listed", "Recommendation (19)")):
+        for mdl in MODELS:
+            g = SV[(SV.model == mdl) & (SV["var"] == v) & (SV.scope == scope)].set_index("variant")
+            single = g[g.index.str.contains("only")]
+            j = jg[(jg.model == mdl) & (jg["var"] == v) & (jg.scope == scope)].iloc[0]
+            m, nn = g.loc["all sets (main)"], g.loc["nearest anchor (hard)"]
+            print(f"| {LABEL[mdl]} | {lab} | {m.MAE_pp:.1f} ({m.bias_pp:+.1f}) | {single.MAE_pp.min():.1f}–{single.MAE_pp.max():.1f} ({single.bias_pp.min():+.1f} to {single.bias_pp.max():+.1f}) | "
+                  f"{nn.MAE_pp:.1f} ({nn.bias_pp:+.1f}) | {j.MAE_pp:.1f} ({j.bias_pp:+.1f}) | {j.t2b_all_answers:.1f}% | {j.rho_ssr_human:.2f} | {j.rho_topbox_human:.2f} |")
+    ag = JD[JD.judge.str.startswith("agreement")]
+    cj = JD[(JD.judge == "claude-sonnet-5") & JD.scope.eq("listed")]
+    if not ag.empty:
+        a = ag.iloc[0]
+        print(f"\nSecond judge (Claude Sonnet 5, every 10th batch): {int(a.n_parsed)} answers classified by both judges; exact agreement "
+              f"{100 * a.exact_agreement:.1f}%, agreement on top-2 vs not {100 * a.t2b_agreement:.1f}%; the second judge put "
+              f"{cj.t2b_all_answers.min():.1f}–{cj.t2b_all_answers.max():.1f}% of answers in the top two options (by model and item).")
+    print("\n## Table: S SSR anchor-set variants\n")
+    print("| Model | Variant | Item | Countries | n | MAE (pp) | Bias (pp) | ρ | Spread |")
+    print("| --- | --- | --- | --- | --- | --- | --- | --- | --- |")
+    for _, r in SV.iterrows():
+        print(f"| {LABEL[r.model]} | {r.variant} | {ITEML[r['var']]} | {r.scope} | {int(r.n)} | {r.MAE_pp:.1f} | {r.bias_pp:+.1f} | {f2(r.spearman)} | {f2(r.sd_ratio)} |")
+if RG is not None:
+    print("\n## Table: S range of individual SSR scores\n")
+    print("| Model | Item | Answers | Minimum | 1st percentile | 99th percentile | Maximum |")
+    print("| --- | --- | --- | --- | --- | --- | --- |")
+    for _, r in RG.iterrows():
+        it = {"XQ5": "Favorability", "XQ6": "Recommendation"}.get(r.group, r.group)
+        print(f"| {LABEL[r.model]} | {it} | {int(r.n):,} | {100 * r['min']:.1f}% | {100 * r.p01:.1f}% | {100 * r.p99:.1f}% | {100 * r['max']:.1f}% |")
+
+PRI = _opt("rb_prior")
+if PRI is not None:
+    print("\n## Table: MS what the twins' country estimates track\n")
+    print("| Model | ρ(SSR, human) | ρ(SSR, knowledge share) | ρ(SSR, own recall) | ρ(SSR, own B2) | β knowledge | β recall | R² | LOO MAE: knowledge share | LOO MAE: recall | LOO MAE: SSR | LOO MAE: knowledge + recall | LOO MAE: knowledge + recall + SSR |")
+    print("| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |")
+    for mdl in MODELS:
+        r = PRI[PRI.model == mdl].iloc[0]
+        print(f"| {LABEL[mdl]} | {r.rho_SSR_human:.2f} | {r['rho_SSR_knowledge share']:.2f} | {r.rho_SSR_recall:.2f} | {r.rho_SSR_B2:.2f} | {r.beta_knowledge:.2f} | "
+              f"{r.beta_recall:.2f} | {r.R2_knowledge_recall:.2f} | {r.LOO_MAE_knowledge:.1f} | {r.LOO_MAE_recall:.1f} | {r.LOO_MAE_SSR:.1f} | "
+              f"{r['LOO_MAE_knowledge+recall']:.1f} | {r['LOO_MAE_knowledge+recall+SSR']:.1f} |")
+
+LG = _opt("rb_language")
+if LG is not None:
+    print("\n## Table: S favorability error by language group\n")
+    print("| Model | Method | Group (n) | Bias, group | Bias, other countries | Raw difference | Difference adjusted for the human level (95% CI) |")
+    print("| --- | --- | --- | --- | --- | --- | --- |")
+    for _, r in LG.iterrows():
+        print(f"| {LABEL[r.model]} | {r.method} | {r.group} ({int(r.n_group)}) | {r.bias_group:+.1f} | {r.bias_other:+.1f} | {r.raw_diff:+.1f} | "
+              f"{r.adj_diff:+.1f} ({r.adj_lo:+.1f} to {r.adj_hi:+.1f}) |")
+
+ASIM = _opt("rb_anchor_similarity")
+if ASIM is not None:
+    ASIM["item"] = np.where(ASIM["var"].str.startswith("XQ1_"), "Popularity (13 domains)", ASIM["var"].map(ITEML))
+    print("\n## Table: S anchor similarity\n")
+    print("| Item | Anchor sets | Mean pairwise cosine (range over sets) | Lowest pair | Highest pair | Point 1 vs point 5 | Point 4 vs point 5 |")
+    print("| --- | --- | --- | --- | --- | --- | --- |")
+    for it, g in ASIM.groupby("item", sort=False):
+        print(f"| {it} | {len(g)} | {g.mean_pairwise.mean():.2f} ({g.mean_pairwise.min():.2f}–{g.mean_pairwise.max():.2f}) | {g.min_pairwise.min():.2f} | "
+              f"{g.max_pairwise.max():.2f} | {g.sim_1_5.min():.2f}–{g.sim_1_5.max():.2f} | {g.sim_4_5.min():.2f}–{g.sim_4_5.max():.2f} |")
+
+PG = _opt("persona_gradients")
+if PG is not None:
+    print("\n## Table: S persona gradients\n")
+    print("| Model | Mode | Item | Attribute | Top-2-box share by level, % | Largest gap (pp) | Spearman ρ (p) |")
+    print("| --- | --- | --- | --- | --- | --- | --- |")
+    ATTR = {"korea_awareness": "Knowledge of Korea (very well / somewhat / little)", "age_band": "Age (15–19 / 20s / 30s / 40s / 50s)",
+            "sex": "Sex (male / female)", "nationality": "Nationality (Korean-descended / local / third-country)"}
+    for mdl in MODELS:
+        for mode in ("dlr", "ssr"):
+            for v in ("XQ5", "XQ6"):
+                for attr, lab in ATTR.items():
+                    g = PG[(PG.model == mdl) & (PG["mode"] == mode) & (PG["var"] == v) & (PG.attribute == attr)]
+                    lv = g[~g.level.str.startswith("spearman")]
+                    sp = g[g.level.str.startswith("spearman")]
+                    rho = f"{sp.mean_score.iloc[0]:+.2f} ({sp.t2b_pct.iloc[0]:.3f})" if len(sp) else "–"
+                    print(f"| {LABEL[mdl]} | {mode.upper()} | {ITEML[v]} | {lab} | {' / '.join(f'{x:.1f}' for x in lv.t2b_pct)} | "
+                          f"{lv.t2b_pct.max() - lv.t2b_pct.min():.1f} | {rho} |")

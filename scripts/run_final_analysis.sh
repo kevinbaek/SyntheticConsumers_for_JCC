@@ -10,6 +10,8 @@ mkdir -p "$DEST"
 python3 -W ignore -m hallyu_twins.analysis_table --runs $RUNS --embedding openai --dest "$DEST"
 python3 -W ignore -m hallyu_twins.extra_analyses --runs $RUNS --est "$DEST/estimates.csv" --dest "$DEST" --embedding openai
 python3 -W ignore -m hallyu_twins.robustness --runs $RUNS --est "$DEST/estimates.csv" --dest "$DEST" --embedding openai
+# second review round: equal calibration, SSR re-scoring (reads $ROOT/judge from scripts/judge_rescore.py), language groups, prior knowledge
+python3 -W ignore -m hallyu_twins.discussion_checks --runs $RUNS --est "$DEST/estimates.csv" --dest "$DEST" --embedding openai
 python3 -W ignore scripts/cost_table.py "$ROOT" > "$DEST/cost_table.md"
 python3 -W ignore scripts/make_paper_tables.py "$DEST" > "$DEST/paper_tables.md"
 python3 -W ignore scripts/make_doc_chart_data.py "$DEST"

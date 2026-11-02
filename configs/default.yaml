@@ -1,0 +1,79 @@
+# hallyu-twins default configuration
+# Model lineup: one general-purpose model per vendor whose training cutoff precedes the
+# wave-15 report release (2026-03-30) -- stricter than the 2026-06-30 requirement.
+# Contamination groups: G1 = cutoff before the wave-14 report (2025-04-07);
+#                       G2 = between wave-14 and wave-15 reports; G3 = after wave 15 (pilot only).
+out_dir: outputs
+cache_dir: outputs/cache
+seed: 20261030
+
+raw_wave15: data/raw/wave15.sav      # KOFICE microdata (apply at the Hallyu research archive)
+raw_wave14: data/raw/wave14.sav
+
+n_per_country: 100
+n_per_country_ablation: 30
+n_calibration_twins: 600
+n_repeats: 1
+
+main_condition: {persona: P4, label: "true", elicit: ssr, language: en, network: none}
+ablations:
+  persona: [P0, P1, P2, P3, P4, P4D]
+  label: ["true", none, swap]
+  network: [none, self, random, homophily]
+
+network_k: 5
+network_features: P4
+network_items: [XQ5, XQ6, XQ1_1, XQ1_2, XQ1_3, XQ1_4, XQ1_5, XQ1_6, XQ1_7, XQ1_8, XQ1_9, XQ1_10, XQ1_11]
+
+ssr_method: maier                     # pre-registered default; 'softmax' calibrates tau on wave 14
+ssr_tau_grid: [0.005, 0.01, 0.02, 0.03, 0.05, 0.08, 0.12]
+embedding: {provider: openai, model_id: text-embedding-3-small}   # Maier et al. (2025) embedder
+# offline alternative: {provider: onnx, model_dir: models/all-MiniLM-L6-v2}
+
+bootstrap_reps: 1000
+split_half_reps: 1000
+tost_margin_pp: 5.0
+max_workers: 8
+
+models:
+  - name: gpt-5.5
+    provider: openai
+    model_id: gpt-5.5
+    group: G2
+    cutoff: "2025-12-01"
+    cutoff_source: "OpenAI model docs (developers.openai.com/api/docs/models); release 2026-04-23"
+    temperature: null                 # GPT-5.x reasoning models accept only the default
+    max_tokens: 1500
+    api_key_env: OPENAI_API_KEY
+    extra: {reasoning_effort: none}   # VERIFY the lowest effort value accepted for this model
+
+  - name: gemini-3.1-pro
+    provider: gemini
+    model_id: gemini-3.1-pro-preview  # VERIFY: switch to the GA id if one exists at run time
+    group: G1
+    cutoff: "2025-01"
+    cutoff_source: "Gemini 3 Pro model card (storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf: knowledge cutoff January 2025); the 3.1 Pro API page (accessed 2026-10-30) states no cutoff, latest update February 2026"
+    temperature: 1.0
+    max_tokens: 4096                  # thinking tokens count toward the output budget
+    api_key_env: GEMINI_API_KEY
+    extra: {thinking_level: low}      # add `vertexai: true` for a Vertex AI / Agent Platform key
+
+  - name: claude-sonnet-5
+    provider: anthropic
+    model_id: claude-sonnet-5
+    group: G2
+    cutoff: "2026-01"
+    cutoff_source: "platform.claude.com/docs/en/models/sonnet-5 (training data cutoff Jan 2026; release 2026-06-30)"
+    temperature: null                 # Sonnet 5 rejects temperature/top_p/top_k (HTTP 400)
+    max_tokens: 1500
+    api_key_env: ANTHROPIC_API_KEY
+    base_url: https://api.anthropic.com
+
+# Pilot executor actually used on 2026-10-30 (no API access from the cloud workspace):
+pilot_models:
+  - name: claude-sonnet-5.5-agent
+    provider: agent
+    model_id: claude-sonnet-5-5
+    group: G3
+    cutoff: "2026-06"
+    cutoff_source: "support.claude.com article 8114494 (training data cutoff June 2026) -- does NOT meet the cutoff rule"

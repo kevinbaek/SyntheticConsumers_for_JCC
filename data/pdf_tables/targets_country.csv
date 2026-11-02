@@ -1,0 +1,89 @@
+country,wave,var,stat,value,source,page,list
+Philippines,15,XQ5,t2b,87.0,fig 2-1-1,40,top
+India,15,XQ5,t2b,83.8,fig 2-1-1,40,top
+Indonesia,15,XQ5,t2b,82.7,fig 2-1-1,40,top
+Thailand,15,XQ5,t2b,79.4,fig 2-1-1,40,top
+Mexico,15,XQ5,t2b,78.9,fig 2-1-1,40,top
+UAE,15,XQ5,t2b,78.0,fig 2-1-1,40,top
+Malaysia,15,XQ5,t2b,77.4,fig 2-1-1,40,top
+ALL30,15,XQ5,t2b,69.7,fig 2-1-1,40,total
+France,15,XQ5,t2b,58.2,fig 2-1-1,40,bottom
+Italy,15,XQ5,t2b,56.4,fig 2-1-1,40,bottom
+Poland,15,XQ5,t2b,54.4,fig 2-1-1,40,bottom
+Germany,15,XQ5,t2b,54.4,fig 2-1-1,40,bottom
+Japan,15,XQ5,t2b,52.7,fig 2-1-1,40,bottom
+Kazakhstan,15,XQ5,t2b,50.8,fig 2-1-1,40,bottom
+Russia,15,XQ5,t2b,44.5,fig 2-1-1,40,bottom
+ALL30,15,XQ5,b2b,5.0,infographic p13,13,total
+ALL30,15,XQ5,mid,25.3,infographic p13,13,total
+ALL30,14,XQ5,t2b,70.3,fig 2-1-2,41,total
+United Kingdom,14,XQ5,t2b_delta,8.0,fig 2-1-1 (change vs 2024),40,
+Japan,14,XQ5,t2b_delta,6.4,fig 2-1-1 (change vs 2024),40,
+Spain,14,XQ5,t2b_delta,6.2,fig 2-1-1 (change vs 2024),40,
+United States,14,XQ5,t2b_delta,6.1,fig 2-1-1 (change vs 2024),40,
+Australia,14,XQ5,t2b_delta,6.0,fig 2-1-1 (change vs 2024),40,
+Indonesia,14,XQ5,t2b_delta,-3.8,text p40,40,
+Thailand,14,XQ5,t2b_delta,-3.3,text p40,40,
+Philippines,14,XQ5,t2b_delta,-1.9,text p40,40,
+Philippines,15,XQ6,t2b,85.6,fig 2-1-11,62,top
+India,15,XQ6,t2b,83.3,fig 2-1-11,62,top
+Mexico,15,XQ6,t2b,79.8,fig 2-1-11,62,top
+UAE,15,XQ6,t2b,78.5,fig 2-1-11,62,top
+South Africa,15,XQ6,t2b,78.2,fig 2-1-11,62,top
+Vietnam,15,XQ6,t2b,76.1,fig 2-1-11,62,top
+Brazil,15,XQ6,t2b,75.6,fig 2-1-11,62,top
+Japan,15,XQ6,t2b,36.4,fig 2-1-11,62,bottom
+Russia,15,XQ6,t2b,48.6,fig 2-1-11,62,bottom
+Germany,15,XQ6,t2b,51.6,fig 2-1-11,62,bottom
+Poland,15,XQ6,t2b,53.4,fig 2-1-11,62,bottom
+Italy,15,XQ6,t2b,56.2,fig 2-1-11,62,bottom
+France,15,XQ6,t2b,56.8,fig 2-1-11,62,bottom
+Kazakhstan,15,XQ6,t2b,59.5,fig 2-1-11,62,bottom
+ALL30,15,XQ6,t2b,67.7,fig 2-1-10,62,total
+ALL30,15,XQ6,mid,26.1,fig 2-1-10,62,total
+ALL30,15,XQ6,b2b,6.2,fig 2-1-10,62,total
+ALL30,14,XQ6,t2b,68.2,fig 2-1-10,62,total
+ALL30,14,XQ6,mid,25.1,fig 2-1-10,62,total
+ALL30,14,XQ6,b2b,6.7,fig 2-1-10,62,total
+Kazakhstan,14,XQ6,t2b_delta,9.0,fig 2-1-11 (change vs 2024),62,
+United Kingdom,14,XQ6,t2b_delta,7.4,fig 2-1-11 (change vs 2024),62,
+Australia,14,XQ6,t2b_delta,7.4,fig 2-1-11 (change vs 2024),62,
+South Africa,14,XQ6,t2b_delta,5.2,fig 2-1-11 (change vs 2024),62,
+Japan,14,XQ6,t2b_delta,4.6,fig 2-1-11 (change vs 2024),62,
+China,14,XQ6,t2b_delta,-5.3,fig 2-1-11 (change vs 2024),62,
+Russia,14,XQ6,t2b_delta,-5.2,fig 2-1-11 (change vs 2024),62,
+Turkiye,14,XQ6,t2b_delta,-4.8,fig 2-1-11 (change vs 2024),62,
+Vietnam,14,XQ6,t2b_delta,-4.7,fig 2-1-11 (change vs 2024),62,
+Thailand,14,XQ6,t2b_delta,-4.0,fig 2-1-11 (change vs 2024),62,
+Philippines,15,POPMEAN,t2b,60.0,fig 2-1-8,58,top
+India,15,POPMEAN,t2b,53.4,fig 2-1-8,58,top
+Vietnam,15,POPMEAN,t2b,53.1,fig 2-1-8,58,top
+UAE,15,POPMEAN,t2b,52.8,fig 2-1-8,58,top
+Malaysia,15,POPMEAN,t2b,52.2,fig 2-1-8,58,top
+Saudi Arabia,15,POPMEAN,t2b,51.0,fig 2-1-8,58,top
+Thailand,15,POPMEAN,t2b,50.2,fig 2-1-8,58,top
+Poland,15,POPMEAN,t2b,25.4,fig 2-1-8,58,bottom
+Germany,15,POPMEAN,t2b,31.3,fig 2-1-8,58,bottom
+Russia,15,POPMEAN,t2b,31.5,fig 2-1-8,58,bottom
+Italy,15,POPMEAN,t2b,31.7,fig 2-1-8,58,bottom
+Japan,15,POPMEAN,t2b,32.4,fig 2-1-8,58,bottom
+Argentina,15,POPMEAN,t2b,33.7,fig 2-1-8,58,bottom
+Canada,15,POPMEAN,t2b,34.5,fig 2-1-8,58,bottom
+ALL30,15,XQ1_11,t2b,55.1,fig 2-1-6,56,total
+ALL30,15,XQ1_4,t2b,54.0,fig 2-1-6,56,total
+ALL30,15,XQ1_10,t2b,52.6,fig 2-1-6,56,total
+ALL30,15,XQ1_1,t2b,51.3,fig 2-1-6,56,total
+ALL30,15,XQ1_3,t2b,48.9,fig 2-1-6,56,total
+ALL30,15,XQ1_9,t2b,45.3,fig 2-1-6,56,total
+ALL30,15,XQ1_2,t2b,39.3,fig 2-1-6,56,total
+ALL30,15,XQ1_8,t2b,38.3,fig 2-1-6,56,total
+ALL30,15,XQ1_5,t2b,37.5,fig 2-1-6,56,total
+ALL30,15,XQ1_7,t2b,32.2,fig 2-1-6,56,total
+ALL30,15,XQ1_6,t2b,29.7,fig 2-1-6,56,total
+ALL30,15,XQ1_12,t2b,38.9,fig 2-1-6,56,total
+ALL30,15,XQ1_13,t2b,34.4,fig 2-1-6,56,total
+United Kingdom,15,XQ6,t2b,71.1,fig 2-1-11 (change box),62,other
+Australia,15,XQ6,t2b,68.7,fig 2-1-11 (change box),62,other
+China,15,XQ6,t2b,61.3,fig 2-1-11 (change box); text p62,62,other
+Turkiye,15,XQ6,t2b,69.2,fig 2-1-11 (change box),62,other
+Thailand,15,XQ6,t2b,72.5,fig 2-1-11 (change box),62,other
